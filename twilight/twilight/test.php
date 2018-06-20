@@ -1,9 +1,11 @@
 <?php
 
-
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
 require_once 'inc.php';
 $varObj=new varObj();
-/* print_r($varObj); */
+ print_r($varObj); 
 $dbObj=new db($varObj);
 /* print_r($dbObj); */
 /* $convR=new MemberConvertRecord();
