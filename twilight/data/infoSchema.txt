@@ -1,0 +1,305 @@
+Ordinal_Position	Table_Catalog	Table_Schema	Table_Name	Column_Name	Is_Nullable	Data_Type	Numeric_Precision	Numeric_Scale
+1	def	jgalatti_twilight	cottage	cottage_number	NO	int	10	0
+2	def	jgalatti_twilight	cottage	addr	NO	varchar		
+3	def	jgalatti_twilight	cottage	phone	YES	varchar		
+4	def	jgalatti_twilight	cottage	alt_phone	YES	varchar		
+5	def	jgalatti_twilight	cottage	name	NO	varchar		
+1	def	jgalatti_twilight	distHold	family_number	NO	varchar		
+2	def	jgalatti_twilight	distHold	family_generation	NO	varchar		
+3	def	jgalatti_twilight	distHold	family_type	NO	varchar		
+4	def	jgalatti_twilight	distHold	root	NO	varchar		
+5	def	jgalatti_twilight	distHold	suffix	NO	varchar		
+6	def	jgalatti_twilight	distHold	rowid	NO	int	10	0
+1	def	jgalatti_twilight	dual	f1	NO	varchar		
+1	def	jgalatti_twilight	email	Name	NO	varchar		
+2	def	jgalatti_twilight	email	displayName	NO	varchar		
+3	def	jgalatti_twilight	email	filePrefix	NO	varchar		
+4	def	jgalatti_twilight	email	seqNo	NO	int	10	0
+5	def	jgalatti_twilight	email	rowid	NO	int	10	0
+1	def	jgalatti_twilight	emailAtt	processId	NO	int	10	0
+2	def	jgalatti_twilight	emailAtt	FileName	NO	varchar		
+3	def	jgalatti_twilight	emailAtt	rowid	NO	int	10	0
+1	def	jgalatti_twilight	emailProcess	name	NO	varchar		
+2	def	jgalatti_twilight	emailProcess	board	NO	int	10	0
+3	def	jgalatti_twilight	emailProcess	HTTP_HOST	NO	varchar		
+4	def	jgalatti_twilight	emailProcess	subjectFile	NO	varchar		
+5	def	jgalatti_twilight	emailProcess	respFile	NO	varchar		
+6	def	jgalatti_twilight	emailProcess	mailFile	NO	varchar		
+7	def	jgalatti_twilight	emailProcess	attFile	YES	varchar		
+8	def	jgalatti_twilight	emailProcess	processed	NO	varchar		
+9	def	jgalatti_twilight	emailProcess	processID	NO	int	10	0
+10	def	jgalatti_twilight	emailProcess	rowid	NO	int	10	0
+1	def	jgalatti_twilight	htmlcell	table_name	NO	varchar		
+2	def	jgalatti_twilight	htmlcell	field_name	NO	varchar		
+3	def	jgalatti_twilight	htmlcell	field_value	YES	varchar		
+4	def	jgalatti_twilight	htmlcell	where_condition	YES	varchar		
+5	def	jgalatti_twilight	htmlcell	field_display	NO	varchar		
+6	def	jgalatti_twilight	htmlcell	field_type	NO	varchar		
+7	def	jgalatti_twilight	htmlcell	row_pos	NO	int	10	0
+8	def	jgalatti_twilight	htmlcell	col_pos	NO	int	10	0
+9	def	jgalatti_twilight	htmlcell	display_length	NO	int	10	0
+10	def	jgalatti_twilight	htmlcell	field_length	NO	int	10	0
+11	def	jgalatti_twilight	htmlcell	required	YES	char		
+12	def	jgalatti_twilight	htmlcell	classname	YES	varchar		
+13	def	jgalatti_twilight	htmlcell	align	YES	varchar		
+14	def	jgalatti_twilight	htmlcell	valign	YES	varchar		
+15	def	jgalatti_twilight	htmlcell	c_char	YES	varchar		
+16	def	jgalatti_twilight	htmlcell	charoff	YES	varchar		
+17	def	jgalatti_twilight	htmlcell	colspan	YES	int	10	0
+18	def	jgalatti_twilight	htmlcell	rowspan	YES	int	10	0
+19	def	jgalatti_twilight	htmlcell	on_change	YES	varchar		
+1	def	jgalatti_twilight	htmlcolgroup	table_name	NO	varchar		
+2	def	jgalatti_twilight	htmlcolgroup	colgroup	NO	varchar		
+3	def	jgalatti_twilight	htmlcolgroup	classname	YES	varchar		
+4	def	jgalatti_twilight	htmlcolgroup	pos	NO	int	10	0
+5	def	jgalatti_twilight	htmlcolgroup	align	YES	varchar		
+6	def	jgalatti_twilight	htmlcolgroup	c_char	YES	varchar		
+7	def	jgalatti_twilight	htmlcolgroup	charoff	YES	varchar		
+8	def	jgalatti_twilight	htmlcolgroup	valign	YES	varchar		
+9	def	jgalatti_twilight	htmlcolgroup	span	YES	int	10	0
+10	def	jgalatti_twilight	htmlcolgroup	width	YES	varchar		
+1	def	jgalatti_twilight	htmlcolgroupcell	table_name	NO	varchar		
+2	def	jgalatti_twilight	htmlcolgroupcell	colgroup	NO	varchar		
+3	def	jgalatti_twilight	htmlcolgroupcell	col	NO	varchar		
+4	def	jgalatti_twilight	htmlcolgroupcell	pos	NO	int	10	0
+5	def	jgalatti_twilight	htmlcolgroupcell	classname	YES	varchar		
+6	def	jgalatti_twilight	htmlcolgroupcell	align	YES	varchar		
+7	def	jgalatti_twilight	htmlcolgroupcell	c_char	YES	varchar		
+8	def	jgalatti_twilight	htmlcolgroupcell	charoff	YES	varchar		
+9	def	jgalatti_twilight	htmlcolgroupcell	valign	YES	varchar		
+10	def	jgalatti_twilight	htmlcolgroupcell	span	YES	int	10	0
+11	def	jgalatti_twilight	htmlcolgroupcell	width	YES	varchar		
+1	def	jgalatti_twilight	htmlcss	page_name	NO	varchar		
+2	def	jgalatti_twilight	htmlcss	type	NO	varchar		
+3	def	jgalatti_twilight	htmlcss	classname	NO	varchar		
+4	def	jgalatti_twilight	htmlcss	typeA	NO	varchar		
+5	def	jgalatti_twilight	htmlcss	browser	NO	varchar		
+6	def	jgalatti_twilight	htmlcss	userid	NO	varchar		
+7	def	jgalatti_twilight	htmlcss	attribute	NO	varchar		
+8	def	jgalatti_twilight	htmlcss	value	NO	varchar		
+1	def	jgalatti_twilight	htmltable	table_name	NO	varchar		
+2	def	jgalatti_twilight	htmltable	rows	NO	int	10	0
+3	def	jgalatti_twilight	htmltable	cells	NO	int	10	0
+4	def	jgalatti_twilight	htmltable	javascript	YES	varchar		
+5	def	jgalatti_twilight	htmltable	ie	YES	varchar		
+6	def	jgalatti_twilight	htmltable	mozilla	YES	varchar		
+7	def	jgalatti_twilight	htmltable	classname	YES	varchar		
+1	def	jgalatti_twilight	image	date_added	NO	datetime		
+2	def	jgalatti_twilight	image	description	NO	varchar		
+3	def	jgalatti_twilight	image	alt	YES	varchar		
+4	def	jgalatti_twilight	image	src	NO	varchar		
+5	def	jgalatti_twilight	image	align	YES	varchar		
+6	def	jgalatti_twilight	image	height	YES	int	10	0
+7	def	jgalatti_twilight	image	width	YES	int	10	0
+8	def	jgalatti_twilight	image	ismap	YES	varchar		
+9	def	jgalatti_twilight	image	longdesc	YES	varchar		
+10	def	jgalatti_twilight	image	usemap	YES	varchar		
+11	def	jgalatti_twilight	image	javascript	YES	varchar		
+12	def	jgalatti_twilight	image	record_key	YES	int	10	0
+13	def	jgalatti_twilight	image	rowid	NO	int	10	0
+1	def	jgalatti_twilight	jb_twilight_park	col_type	YES	varchar		
+2	def	jgalatti_twilight	jb_twilight_park	date_added	NO	datetime		
+3	def	jgalatti_twilight	jb_twilight_park	line_no	NO	int	10	0
+4	def	jgalatti_twilight	jb_twilight_park	col	YES	int	10	0
+5	def	jgalatti_twilight	jb_twilight_park	description	NO	varchar		
+6	def	jgalatti_twilight	jb_twilight_park	type	NO	varchar		
+7	def	jgalatti_twilight	jb_twilight_park	record_key	NO	int	10	0
+8	def	jgalatti_twilight	jb_twilight_park	rowid	NO	int	10	0
+1	def	jgalatti_twilight	link	date_added	NO	datetime		
+2	def	jgalatti_twilight	link	description	NO	varchar		
+3	def	jgalatti_twilight	link	class	NO	varchar		
+4	def	jgalatti_twilight	link	charset	YES	varchar		
+5	def	jgalatti_twilight	link	href	NO	varchar		
+6	def	jgalatti_twilight	link	hreflang	YES	varchar		
+7	def	jgalatti_twilight	link	media	YES	varchar		
+8	def	jgalatti_twilight	link	rel	YES	varchar		
+9	def	jgalatti_twilight	link	rev	YES	varchar		
+10	def	jgalatti_twilight	link	type	YES	varchar		
+11	def	jgalatti_twilight	link	display	NO	varchar		
+12	def	jgalatti_twilight	link	javascript	YES	varchar		
+13	def	jgalatti_twilight	link	record_key	YES	int	10	0
+14	def	jgalatti_twilight	link	rowid	NO	int	10	0
+1	def	jgalatti_twilight	mail_individual	rowid	NO	int	10	0
+2	def	jgalatti_twilight	mail_individual	toAddress	NO	varchar		
+3	def	jgalatti_twilight	mail_individual	subj	NO	varchar		
+4	def	jgalatti_twilight	mail_individual	text	NO	varchar		
+5	def	jgalatti_twilight	mail_individual	status	NO	varchar		
+1	def	jgalatti_twilight	main_house	main_house_number	NO	int	10	0
+2	def	jgalatti_twilight	main_house	addr1	NO	varchar		
+3	def	jgalatti_twilight	main_house	addr2	YES	varchar		
+4	def	jgalatti_twilight	main_house	city	NO	varchar		
+5	def	jgalatti_twilight	main_house	state	NO	char		
+6	def	jgalatti_twilight	main_house	country	YES	varchar		
+7	def	jgalatti_twilight	main_house	zip	YES	varchar		
+8	def	jgalatti_twilight	main_house	phone_number	YES	varchar		
+9	def	jgalatti_twilight	main_house	alt_phone_number	YES	varchar		
+10	def	jgalatti_twilight	main_house	international	NO	char		
+11	def	jgalatti_twilight	main_house	ilabel1	YES	varchar		
+12	def	jgalatti_twilight	main_house	ilabel2	YES	varchar		
+13	def	jgalatti_twilight	main_house	ilabel3	YES	varchar		
+14	def	jgalatti_twilight	main_house	ilabel4	YES	varchar		
+15	def	jgalatti_twilight	main_house	ilabel5	YES	varchar		
+16	def	jgalatti_twilight	main_house	idata1	YES	varchar		
+17	def	jgalatti_twilight	main_house	idata2	YES	varchar		
+18	def	jgalatti_twilight	main_house	idata3	YES	varchar		
+19	def	jgalatti_twilight	main_house	idata4	YES	varchar		
+20	def	jgalatti_twilight	main_house	idata5	YES	varchar		
+1	def	jgalatti_twilight	myCal_catagory	catagory	NO	varchar		
+2	def	jgalatti_twilight	myCal_catagory	color	NO	varchar		
+3	def	jgalatti_twilight	myCal_catagory	sortKey	NO	int	10	0
+4	def	jgalatti_twilight	myCal_catagory	rowid	NO	int	10	0
+1	def	jgalatti_twilight	myCal_events	eventId	NO	int	10	0
+2	def	jgalatti_twilight	myCal_events	user	NO	varchar		
+3	def	jgalatti_twilight	myCal_events	catagory	NO	varchar		
+4	def	jgalatti_twilight	myCal_events	eventDate	NO	date		
+5	def	jgalatti_twilight	myCal_events	startTime	NO	time		
+6	def	jgalatti_twilight	myCal_events	endTime	NO	time		
+7	def	jgalatti_twilight	myCal_events	eventShortDesc	NO	varchar		
+8	def	jgalatti_twilight	myCal_events	eventDesc	NO	longtext		
+9	def	jgalatti_twilight	myCal_events	fileName	YES	varchar		
+10	def	jgalatti_twilight	myCal_events	fileType	YES	varchar		
+11	def	jgalatti_twilight	myCal_events	rowid	NO	int	10	0
+1	def	jgalatti_twilight	myCal_user	userid	NO	varchar		
+2	def	jgalatti_twilight	myCal_user	catagory	NO	varchar		
+3	def	jgalatti_twilight	myCal_user	rowid	NO	int	10	0
+1	def	jgalatti_twilight	report_main_table	report_name	NO	varchar		
+2	def	jgalatti_twilight	report_main_table	base_tables	NO	varchar		
+3	def	jgalatti_twilight	report_main_table	where_clause	NO	varchar		
+4	def	jgalatti_twilight	report_main_table	order_clause	NO	varchar		
+5	def	jgalatti_twilight	report_main_table	xpos	NO	int	10	0
+6	def	jgalatti_twilight	report_main_table	ypos	NO	int	10	0
+7	def	jgalatti_twilight	report_main_table	size	NO	int	10	0
+1	def	jgalatti_twilight	report_table	report_name	NO	varchar		
+2	def	jgalatti_twilight	report_table	table_name	NO	varchar		
+3	def	jgalatti_twilight	report_table	field_name	NO	varchar		
+4	def	jgalatti_twilight	report_table	report_label	YES	varchar		
+5	def	jgalatti_twilight	report_table	xpos	NO	int	10	0
+6	def	jgalatti_twilight	report_table	ypos	NO	int	10	0
+7	def	jgalatti_twilight	report_table	field_pos	NO	int	10	0
+8	def	jgalatti_twilight	report_table	display_length	NO	int	10	0
+9	def	jgalatti_twilight	report_table	field_type	NO	char		
+10	def	jgalatti_twilight	report_table	query_display	NO	char		
+11	def	jgalatti_twilight	report_table	upper_lower	NO	varchar		
+12	def	jgalatti_twilight	report_table	LABEL_FOREGROUND_COLOR	NO	varchar		
+13	def	jgalatti_twilight	report_table	LABEL_BACKGROUND_COLOR	NO	varchar		
+14	def	jgalatti_twilight	report_table	TEXT_BACKGROUND_COLOR	NO	varchar		
+15	def	jgalatti_twilight	report_table	TEXT_FOREGROUND_COLOR	NO	varchar		
+16	def	jgalatti_twilight	report_table	LABEL_FONT	NO	varchar		
+17	def	jgalatti_twilight	report_table	LABEL_FONT_SIZE	NO	int	10	0
+18	def	jgalatti_twilight	report_table	TEXT_FONT	NO	varchar		
+19	def	jgalatti_twilight	report_table	TEXT_FONT_SIZE	NO	int	10	0
+20	def	jgalatti_twilight	report_table	READONLY	NO	varchar		
+1	def	jgalatti_twilight	seqNo	seqName	NO	varchar		
+2	def	jgalatti_twilight	seqNo	seqNo	NO	int	10	0
+3	def	jgalatti_twilight	seqNo	rowid	NO	int	10	0
+1	def	jgalatti_twilight	session	userid	NO	varchar		
+2	def	jgalatti_twilight	session	session_key	NO	int	10	0
+3	def	jgalatti_twilight	session	admin	NO	varchar		
+4	def	jgalatti_twilight	session	start_time	NO	datetime		
+5	def	jgalatti_twilight	session	family_number	NO	varchar		
+1	def	jgalatti_twilight	sourceClass	page	NO	varchar		
+2	def	jgalatti_twilight	sourceClass	type	NO	varchar		
+3	def	jgalatti_twilight	sourceClass	className	NO	varchar		
+4	def	jgalatti_twilight	sourceClass	name	NO	varchar		
+5	def	jgalatti_twilight	sourceClass	value	NO	varchar		
+6	def	jgalatti_twilight	sourceClass	rowid	NO	int	10	0
+1	def	jgalatti_twilight	sourceCookie	phpsessid	YES	varchar		
+2	def	jgalatti_twilight	sourceCookie	name	NO	varchar		
+3	def	jgalatti_twilight	sourceCookie	value	NO	varchar		
+4	def	jgalatti_twilight	sourceCookie	dateAdded	NO	datetime		
+5	def	jgalatti_twilight	sourceCookie	rowid	NO	int	10	0
+1	def	jgalatti_twilight	sourceHold	PageType	NO	varchar		
+2	def	jgalatti_twilight	sourceHold	className	YES	varchar		
+3	def	jgalatti_twilight	sourceHold	ACTIVE	NO	varchar		
+4	def	jgalatti_twilight	sourceHold	dateAddFlag	NO	varchar		
+5	def	jgalatti_twilight	sourceHold	rowPos	YES	int	10	0
+6	def	jgalatti_twilight	sourceHold	colPos	YES	int	10	0
+7	def	jgalatti_twilight	sourceHold	recordKey	NO	int	10	0
+8	def	jgalatti_twilight	sourceHold	rowid	NO	int	10	0
+1	def	jgalatti_twilight	sourceHoldData	DATEADDED	NO	datetime		
+2	def	jgalatti_twilight	sourceHoldData	DESCRIPTION	NO	varchar		
+3	def	jgalatti_twilight	sourceHoldData	TYPE	NO	varchar		
+4	def	jgalatti_twilight	sourceHoldData	FILENAME	YES	varchar		
+5	def	jgalatti_twilight	sourceHoldData	TEXT	YES	varchar		
+6	def	jgalatti_twilight	sourceHoldData	ACTIVE	NO	varchar		
+7	def	jgalatti_twilight	sourceHoldData	rowid	NO	int	10	0
+1	def	jgalatti_twilight	standard	class	YES	varchar		
+2	def	jgalatti_twilight	standard	description	NO	varchar		
+3	def	jgalatti_twilight	standard	id	YES	varchar		
+4	def	jgalatti_twilight	standard	style	YES	varchar		
+5	def	jgalatti_twilight	standard	title	YES	varchar		
+6	def	jgalatti_twilight	standard	dir	YES	varchar		
+7	def	jgalatti_twilight	standard	lang	YES	varchar		
+8	def	jgalatti_twilight	standard	tabindex	YES	int	10	0
+9	def	jgalatti_twilight	standard	accesskey	YES	varchar		
+10	def	jgalatti_twilight	standard	standKey	NO	int	10	0
+11	def	jgalatti_twilight	standard	rowid	NO	int	10	0
+1	def	jgalatti_twilight	state	state	NO	char		
+2	def	jgalatti_twilight	state	description	YES	varchar		
+1	def	jgalatti_twilight	statistics	Userid	YES	varchar		
+2	def	jgalatti_twilight	statistics	rowid	NO	int	10	0
+3	def	jgalatti_twilight	statistics	DisplayName	YES	varchar		
+4	def	jgalatti_twilight	statistics	Time	NO	datetime		
+5	def	jgalatti_twilight	statistics	IPADDRESS	YES	varchar		
+1	def	jgalatti_twilight	survey	family_number	NO	varchar		
+2	def	jgalatti_twilight	survey	family_generation	NO	varchar		
+3	def	jgalatti_twilight	survey	family_type	NO	char		
+4	def	jgalatti_twilight	survey	root	NO	char		
+5	def	jgalatti_twilight	survey	survey	NO	varchar		
+6	def	jgalatti_twilight	survey	value	NO	varchar		
+7	def	jgalatti_twilight	survey	rowid	NO	int	10	0
+1	def	jgalatti_twilight	twilight_member	family_number	NO	varchar		
+2	def	jgalatti_twilight	twilight_member	family_generation	NO	varchar		
+3	def	jgalatti_twilight	twilight_member	family_type	NO	char		
+4	def	jgalatti_twilight	twilight_member	root	NO	char		
+5	def	jgalatti_twilight	twilight_member	first_name	NO	varchar		
+6	def	jgalatti_twilight	twilight_member	last_name	NO	varchar		
+7	def	jgalatti_twilight	twilight_member	suffix	YES	varchar		
+8	def	jgalatti_twilight	twilight_member	main_house_number	NO	int	10	0
+9	def	jgalatti_twilight	twilight_member	cottage_number	NO	int	10	0
+10	def	jgalatti_twilight	twilight_member	email_address	YES	varchar		
+11	def	jgalatti_twilight	twilight_member	subscribe	NO	varchar		
+12	def	jgalatti_twilight	twilight_member	birthdate	YES	date		
+13	def	jgalatti_twilight	twilight_member	work_phone	YES	varchar		
+14	def	jgalatti_twilight	twilight_member	cell_phone	YES	varchar		
+15	def	jgalatti_twilight	twilight_member	blood_relative	YES	char		
+16	def	jgalatti_twilight	twilight_member	park_relation	NO	varchar		
+17	def	jgalatti_twilight	twilight_member	park_relation_2	YES	varchar		
+18	def	jgalatti_twilight	twilight_member	wj_rpt	YES	varchar		
+1	def	jgalatti_twilight	users	userid	NO	varchar		
+2	def	jgalatti_twilight	users	expires	NO	datetime		
+3	def	jgalatti_twilight	users	passwd	NO	varchar		
+4	def	jgalatti_twilight	users	family_number	NO	varchar		
+5	def	jgalatti_twilight	users	admin	NO	varchar		
+6	def	jgalatti_twilight	users	family_generation	NO	varchar		
+7	def	jgalatti_twilight	users	family_type	NO	char		
+8	def	jgalatti_twilight	users	root	NO	char		
+9	def	jgalatti_twilight	users	calendar_login	NO	varchar		
+1	def	jgalatti_twilight	user_pref	family_number	NO	varchar		
+2	def	jgalatti_twilight	user_pref	family_generation	NO	varchar		
+3	def	jgalatti_twilight	user_pref	family_type	NO	char		
+4	def	jgalatti_twilight	user_pref	root	NO	char		
+5	def	jgalatti_twilight	user_pref	pref_type	NO	varchar		
+6	def	jgalatti_twilight	user_pref	pref_value	NO	varchar		
+7	def	jgalatti_twilight	user_pref	active	YES	varchar		
+8	def	jgalatti_twilight	user_pref	rowid	NO	int	10	0
+1	def	jgalatti_twilight	user_pref_types	pref_type	NO	varchar		
+2	def	jgalatti_twilight	user_pref_types	pref_value	NO	varchar		
+3	def	jgalatti_twilight	user_pref_types	pref_desc	NO	varchar		
+4	def	jgalatti_twilight	user_pref_types	sortKey	NO	double	22	
+5	def	jgalatti_twilight	user_pref_types	rowid	NO	int	10	0
+1	def	jgalatti_twilight	user_registration	userid	NO	varchar		
+2	def	jgalatti_twilight	user_registration	first_name	NO	varchar		
+3	def	jgalatti_twilight	user_registration	last_name	NO	varchar		
+4	def	jgalatti_twilight	user_registration	contact	YES	varchar		
+5	def	jgalatti_twilight	user_registration	email_address	NO	varchar		
+6	def	jgalatti_twilight	user_registration	active	NO	varchar		
+7	def	jgalatti_twilight	user_registration	rowid	NO	int	10	0
+1	def	jgalatti_twilight	user_table	table_name	NO	varchar		
+2	def	jgalatti_twilight	user_table	field_name	NO	varchar		
+3	def	jgalatti_twilight	user_table	label	NO	varchar		
+4	def	jgalatti_twilight	user_table	length	NO	int	10	0
+5	def	jgalatti_twilight	user_table	obj_name	NO	varchar		
+6	def	jgalatti_twilight	user_table	data_type	NO	varchar		
+7	def	jgalatti_twilight	user_table	prime_key	NO	char		
+8	def	jgalatti_twilight	user_table	required	NO	char		

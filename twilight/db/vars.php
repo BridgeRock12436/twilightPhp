@@ -1,12 +1,15 @@
 <?php
+
 define("DIR_SEP",'/');
 
 class varobj{
 var $userid;
 var $password;
-var $localhost;
+var $host;
 var $db;
 var $table_catalog;
+var $table_schema;
+var $charset;
 function varobj()
 {
 	
@@ -14,27 +17,9 @@ function varobj()
 	$this->password="jojo2231";
 	$this->host="localhost";
 	$this->db="jgalatti_twilight";
-	$this->setTable_catalog("jgalatti_twilight");
-}
-function host()
-{
-		return $this->host;
-}
-function userid()
-{
-		return $this->userid;
-}
-function password()
-{
-	  return $this->password;
-}
-function set_db($arg_val)
-{
-	$this->db=$arg_val;
-}
-function db()
-{
-		return $this->db;
+	$this->setTable_catalog("def");
+	$this->setTable_schema("jgalatti_twilight");
+	$this->setCharset("utf8");
 }
 /**
      * @return string
@@ -52,15 +37,27 @@ function db()
         return $this->password;
     }
 
+
+
 /**
-     * @return mixed
+     * @return string
      */
-    public function getLocalhost()
+    public function getHost()
     {
-        return $this->localhost;
+        return $this->host;
     }
 
+    /**
+     * @param string $host
+     */
+    public function setHost($host)
+    {
+        $this->host = $host;
+    }
 
+    /**
+     * @return string
+     */
     public function getDb()
     {
         return $this->db;
@@ -90,16 +87,9 @@ function db()
         $this->password = $password;
     }
 
-/**
-     * @param mixed $localhost
-     */
-    public function setLocalhost($localhost)
-    {
-        $this->localhost = $localhost;
-    }
 
 /**
-     * @param Ambigous <string, unknown> $db
+     * @param string $db
      */
     public function setDb($db)
     {
@@ -113,69 +103,43 @@ function db()
     {
         $this->table_catalog = $table_catalog;
     }
+    /**
+     * @return mixed
+     */
+    public function getCharset()
+    {
+        return $this->charset;
+    }
+
+    /**
+     * @param mixed $charset
+     */
+    public function setCharset($charset)
+    {
+        $this->charset = $charset;
+    }
+    /**
+     * @return mixed
+     */
+    public function getTable_schema()
+    {
+        return $this->table_schema;
+    }
+
+    /**
+     * @param mixed $table_schema
+     */
+    public function setTable_schema($table_schema)
+    {
+        $this->table_schema = $table_schema;
+    }
+
+
+
+
 
 	 
 }
-class bridgevarobj extends varobj
-{
-	function bridgevarobj()
-	{
-			$this->userid="bridge";
-			$this->password="twilight";
-			$this->host="localhost";
-			$this->db="bridge";
-	}
-}
-class info_schemaVarObj extends varobj
-{
-	function info_schemaVarObj()
-	{
-			$this->userid="jgalatti";
-			$this->password="brk11201";
-			$this->host="localhost";
-			$this->db="information_schema";
-	}
-}
-class pantherVarObj extends varobj
-{
-	function pantherVarObj()
-	{
-			$this->userid="jgalatti";
-			$this->password="brk11201";
-			$this->host="panther.performancehosting.net";
-			$this->db="jgalatti_twilight_test";
-	}
-}
-class calVarObj extends varobj
-{
-	function calVarObj()
-	{
-			$this->userid="jgalatti_cal_test";
-			$this->password="cal_test";
-			$this->host="localhost";
-			$this->db="jgalatti_calendar_test";
-	}
-}
-class myCalVarObj extends varobj
-{
-	function myCalVarObj()
-	{
-		$flds=explode("/",$_SERVER["DOCUMENT_ROOT"]);
-		if(strcasecmp($flds[3],"html") == 0)
-		{
-			$this->userid="myCal";
-			$this->password="samantha";
-			$this->host="localhost";
-			$this->db="jgalatti_myCalendar";
-		}
-		if(strcasecmp($flds[3],"test_html") == 0)
-		{
-			$this->userid="testMyCal";
-			$this->password="jojo";
-			$this->host="localhost";
-			$this->db="jgalatti_test_myCalendar";
-		}
-	}
-}
+
 		
 ?>
