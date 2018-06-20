@@ -1,5 +1,12 @@
 <?php
-$dr="C:\\twilightPhpWorkSpace\\twilight";
+if (array_key_exists("USER", $$_SERVER))
+{
+    $dr="/home/twilightPark/twilight";
+}
+else {
+
+    $dr="C:\\twilightPhpWorkSpace\\twilight";
+}
 $incP=get_include_path();
 $incP.=PATH_SEPARATOR;
 $incP.=$dr.DIRECTORY_SEPARATOR."db;";
