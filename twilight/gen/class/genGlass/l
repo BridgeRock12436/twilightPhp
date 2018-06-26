@@ -1,0 +1,68 @@
+Array
+(
+    [0] => classDrec Object
+        (
+            [varName:classDrec:private] => dbObj
+            [constructFlag:classDrec:private] => Y
+        )
+
+    [1] => classDrec Object
+        (
+            [varName:classDrec:private] => tableName
+            [constructFlag:classDrec:private] => Y
+        )
+
+    [2] => classDrec Object
+        (
+            [varName:classDrec:private] => selectClause
+            [constructFlag:classDrec:private] => N
+        )
+
+    [3] => classDrec Object
+        (
+            [varName:classDrec:private] => fromClause
+            [constructFlag:classDrec:private] => N
+        )
+
+    [4] => classDrec Object
+        (
+            [varName:classDrec:private] => whereClause
+            [constructFlag:classDrec:private] => N
+        )
+
+    [5] => classDrec Object
+        (
+            [varName:classDrec:private] => orderClause
+            [constructFlag:classDrec:private] => N
+        )
+
+    [6] => classDrec Object
+        (
+            [varName:classDrec:private] => metaObj
+            [constructFlag:classDrec:private] => N
+        )
+
+    [7] => classDrec Object
+        (
+            [varName:classDrec:private] => recordClassName
+            [constructFlag:classDrec:private] => N
+        )
+
+)
+Y
+Y
+N
+N
+N
+N
+N
+N
+Y
+Y
+N
+N
+N
+N
+N
+N
+8

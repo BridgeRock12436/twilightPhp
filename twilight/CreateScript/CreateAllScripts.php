@@ -16,7 +16,7 @@ class CreateAllScripts
         $headPtr=$this->getColListPtr()->getHeadPtr();
 //         print_r($headPtr);
         
-        if($headPtr->hasNext()==false)
+        if($headPtr==null)
         {
             $ex=new Exception("EMPTY LIST");
             throw $ex;
@@ -26,7 +26,7 @@ class CreateAllScripts
         $dtravp=$dHeadPtr;
         $oldTableName=$dtravp->getData()->getTable_Name();
         $travp=$headPtr->next();
-        while($travp->hasNext())
+        while($travp!=null)
         {
             $dataPtr=$travp->getData();
 //            print_r($dataPtr); 
@@ -34,7 +34,8 @@ class CreateAllScripts
             
            /*  echo $tableName." NEW OLD ".$oldTableName."\n"; */
             if(strcmp($tableName, $oldTableName)!= 0)
-            {  /*  echo "<DIFFERENT\n";
+            {
+		  /*  echo "<DIFFERENT\n";
                 listHold::printList($dHeadPtr); */
                 $crObj=new CreateDbRecordScript
                 ($dHeadPtr, $oldTableName);
@@ -56,6 +57,8 @@ class CreateAllScripts
         }
         if($dHeadPtr!= null)
         {
+		    echo "<DIFFERENT\n";
+                listHold::printList($dHeadPtr);
             $crObj=new CreateDbRecordScript
             ($dHeadPtr, $oldTableName);
         }

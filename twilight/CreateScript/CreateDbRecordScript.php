@@ -16,7 +16,7 @@ class CreateDbRecordScript extends \CreateScript
     {
         $fn=$this->getTableName()."_DBREC.php";
         $this->setFileName($fn);
-        $rfn="..\\DbRecord\\".$fn;
+        $rfn="../DbRecord/".$fn;
         return $rfn;
     }
     public function body()
@@ -98,6 +98,8 @@ class CreateDbRecordScript extends \CreateScript
             
             
         }
+        $line="\t\treturn \$line;";
+        $fObj->writeLn($line);
         $line="\t}";
         $fObj->writeLn($line);
         

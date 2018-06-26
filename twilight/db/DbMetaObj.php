@@ -1,4 +1,5 @@
 <?php
+require_once 'dbInc.php';
 
 
 class DbMetaObj
@@ -30,12 +31,10 @@ class DbMetaObj
     {
         $sel=" select ";
         $sel.=MetaColumnRecord::selectClause();
-        echo $sel."\n";
         $from=" from INFORMATION_SCHEMA.COLUMNS ";
        
         $order=" ORDER BY TABLE_SCHEMA,TABLE_NAME,ORDINAL_POSITION";
         $qry=$sel." ".$from." ".$where." ".$order;
-        echo "\n".$qry."\n";
         return $qry;
         
     }

@@ -1,7 +1,23 @@
 <?php
+error_reporting(E_ALL);
+ini_set('display_errors', '1');
 if (array_key_exists("USER", $_SERVER))
 {
-    $dr="/home/twilightPark/twilight/twilight";
+$pwG=$_SERVER["PWD"];
+$arr=explode("/",$pwG);
+$ctA=count($arr);
+$drN1="";
+$pre="";
+for($i=0;$i<$ctA-1;$i++)
+{
+	$drN1.=$pre.$arr[$i];
+	$pre="/";
+}
+//echo $drN1.PHP_EOL;
+//echo $pwG.PHP_EOL;
+$bsn=basename($pwG);
+//echo $bsn.PHP_EOL;
+    $dr=$drN1;
 }
 else {
 
@@ -14,20 +30,12 @@ $incP.=$dr.DIRECTORY_SEPARATOR."db".$pS;
 $incP.=$dr.DIRECTORY_SEPARATOR."file".$pS;
 $incP.=$dr.DIRECTORY_SEPARATOR."CreateScript".$pS;
 $incP.=$dr.DIRECTORY_SEPARATOR."file".$pS;
- echo $incP;
+$incP.=$dr.DIRECTORY_SEPARATOR."DbRecord".$pS;
 set_include_path($incP);
-/* require_once 'inc.php'; */
-require_once 'vars.php';
-require_once 'db.php';
-require_once    'DbRecord.php';
-require_once 'MemberConvertRecord.php';
-require_once 'MetaColumnRecord.php';
-require_once 'DbMetaObj.php';
-require_once 'Twillist.php';
-require_once 'listHold.php';
-require_once 'DbFileMetaListHold.php';
+require_once 'CreateInc.php';
+require_once 'dbInc.php';
 require_once 'CreateInc.php';
 require_once 'fileInc.php';
-echo "END";
+require_once 'DbRecordInc.php';
 
 ?>

@@ -32,7 +32,6 @@ class listHold
     public static function printList($listPtr)
     {
         $travp=$listPtr;
-        echo "<START LIST>\n";
         while($travp!=null)
         {
             echo  "<DATA>\n";

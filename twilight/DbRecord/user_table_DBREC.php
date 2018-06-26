@@ -15,6 +15,7 @@ class user_table_DBREC extends DbRecord
 	private $obj_name;
 	private $data_type;
 	private $prime_key;
+	private $required;
 	public function __construct()
 	{
 		parent::__construct();
@@ -41,6 +42,8 @@ class user_table_DBREC extends DbRecord
 			$line.=$pre.$this->getData_type();
 			$pre=$delim;
 			$line.=$pre.$this->getPrime_key();
+			$pre=$delim;
+			$line.=$pre.$this->getRequired();
 			$pre=$delim;
 	}
 	public function getTable_name()
@@ -71,6 +74,10 @@ class user_table_DBREC extends DbRecord
 	{
 		return $this->prime_key;
 	}
+	public function getRequired()
+	{
+		return $this->required;
+	}
 	public function setTable_name($data)
 	{
 		$this->table_name=$data;
@@ -98,6 +105,10 @@ class user_table_DBREC extends DbRecord
 	public function setPrime_key($data)
 	{
 		$this->prime_key=$data;
+	}
+	public function setRequired($data)
+	{
+		$this->required=$data;
 	}
 }
 

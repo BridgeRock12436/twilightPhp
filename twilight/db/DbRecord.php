@@ -1,4 +1,5 @@
 <?php
+require_once 'dbInc.php';
 
 
 class DbRecord
@@ -28,19 +29,15 @@ class DbRecord
     public function setData($name,$value)
     {
         $method="set".$name;
-//         echo "\n".$method." ".$name."\n"; 
         $arr=$this->getNullArray();
         $arr[$name]=0;
-//          print_r($arr);
         $this->setNullArray($arr);
         $this->$method($value);
     }
     public function addRow($columnArray,$record,$delim)
     {
         $tempA=explode("\n",$record);
-//         print_r($tempA);
         $dataA=explode($delim,$tempA[0]);
-//         print_r($dataA);
         foreach($columnArray as $key =>$name)
         {
             $value=$dataA[$key];

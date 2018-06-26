@@ -16,7 +16,6 @@ class db
 	function db_connect ()
 	{
 		$vart=$this->vart;
-	/* echo "MAIN DB CONSTRUCTOR<br>"; */
 		$host=$vart->getHost();
 		$db=$vart->getDb();
 		$charset=$vart->getCharset();
@@ -28,9 +27,7 @@ class db
 		];
 		$user=$vart->getUserid();
 		$pass=$vart->getPassword();
-		/* echo $dsn."\n"; */
 		$pdo = new PDO($dsn, $user, $pass, $opt);
-		/* print_r($pdo); */
 		$this->setPdo($pdo);
 	}
 	public static function ignoreColumns()

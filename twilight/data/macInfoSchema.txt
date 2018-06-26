@@ -1,0 +1,7 @@
+Ordinal_Position	Table_Catalog	Table_Schema	Table_Name	Column_Name	Is_Nullable	Data_Type	Numeric_Precision	Numeric_Scale
+1	def	jgalatti_twilight	Member_Convert	ID	NO	int	10	0
+2	def	jgalatti_twilight	Member_Convert	FAMILY_NUMBER	NO	varchar		
+3	def	jgalatti_twilight	Member_Convert	FAMILY_TYPE	NO	varchar		
+4	def	jgalatti_twilight	Member_Convert	FAMILY_GENERATION	NO	varchar		
+5	def	jgalatti_twilight	Member_Convert	ROOT	NO	varchar		
+6	def	jgalatti_twilight	Member_Convert	TWILIGHT_ID	NO	varchar		

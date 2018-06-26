@@ -1,0 +1,12 @@
+DbTable
+dbObj	Y
+tableName	Y
+selectClause	N
+fromClause	N
+whereClause	N
+orderClause	N
+metaObj	N
+recordClassName	N
+dataArray	N
+recordIndex	N
+recordCount	N

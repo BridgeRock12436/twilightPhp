@@ -16,8 +16,7 @@ class DbFileMetaListHold extends listHold
     {}
     public function makeList($fn)
     {
-        $rFn="c:\\twilight\\data\\".$fn;
-        echo $rFn."\n";
+        $rFn="../data/".$fn;
         $f=fopen($rFn,"r");
         $delim="\t";
         if($f == null) return null;
@@ -25,13 +24,12 @@ class DbFileMetaListHold extends listHold
         if($line == null) return null;
         $tempA=explode("\n",$line);
         $columnArr=explode($delim,$tempA[0]);
-//         print_r($columnArr);
         $headPtr=null;
         $travp=null;
         $ct=0;
         while(($line=fgets($f))!=null)
         {
-//              echo $line."\n";
+		echo $line;
              $ct++;
 /*              if($ct==10) 
              {
@@ -48,10 +46,8 @@ class DbFileMetaListHold extends listHold
                 $travp=$listPtr;
                 continue;
             }
-//             print_r($listPtr);
             $travp->add($listPtr);
             $travp=$travp->getNext();
-//             print_r($travp);
             
         }
         $this->setHeadPtr($headPtr);

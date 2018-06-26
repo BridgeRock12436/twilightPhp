@@ -1,4 +1,5 @@
 <?php
+/*require_once 'DbRecord.php';*/
 
 
 class MemberConvertRecord extends DbRecord
