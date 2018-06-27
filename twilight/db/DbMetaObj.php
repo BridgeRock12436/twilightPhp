@@ -40,6 +40,20 @@ class DbMetaObj
     }
     function __destruct()
     {}
+    public function header($delim)
+    {
+    	$ret="";
+    	$pre="";
+    	$arr=$this->getColumnArray();
+    	foreach($arr as $key =>$value)
+    	{
+    		$colN=$value->getColumn_Name();
+    		$ret.=$pre.$colN;
+    		$pre=$delim;
+    	}
+    	return $ret;
+    }
+    
     /**
      * @return mixed
      */

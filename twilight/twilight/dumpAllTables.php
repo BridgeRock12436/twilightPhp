@@ -19,6 +19,8 @@ foreach($result as $key =>$tableNameA)
 	$fn="../tableData/".$tableName.".txt";
 	$outF=fopen($fn,"w");
 	$dbTableObj->query();
+	$line=$dbTableObj->getMetaObj()->header("\t");
+	fprintf($outF,"%s\n",$line);
 	while($dbTableObj->hasNext())
 	{
 		$dObj=$dbTableObj->next();
