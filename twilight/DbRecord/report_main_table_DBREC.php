@@ -42,6 +42,7 @@ class report_main_table_DBREC extends DbRecord
 			$pre=$delim;
 			$line.=$pre.$this->getSize();
 			$pre=$delim;
+		return $line;
 	}
 	public function getReport_name()
 	{

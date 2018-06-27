@@ -75,6 +75,7 @@ class twilight_member_DBREC extends DbRecord
 			$pre=$delim;
 			$line.=$pre.$this->getWj_rpt();
 			$pre=$delim;
+		return $line;
 	}
 	public function getFamily_number()
 	{

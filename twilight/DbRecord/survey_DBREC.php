@@ -42,6 +42,7 @@ class survey_DBREC extends DbRecord
 			$pre=$delim;
 			$line.=$pre.$this->getRowid();
 			$pre=$delim;
+		return $line;
 	}
 	public function getFamily_number()
 	{

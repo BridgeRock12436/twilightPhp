@@ -36,6 +36,7 @@ class user_pref_types_DBREC extends DbRecord
 			$pre=$delim;
 			$line.=$pre.$this->getRowid();
 			$pre=$delim;
+		return $line;
 	}
 	public function getPref_type()
 	{

@@ -24,6 +24,7 @@ class dual_DBREC extends DbRecord
 			$pre="";
 			$line.=$pre.$this->getF1();
 			$pre=$delim;
+		return $line;
 	}
 	public function getF1()
 	{

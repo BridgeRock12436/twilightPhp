@@ -48,6 +48,7 @@ class users_DBREC extends DbRecord
 			$pre=$delim;
 			$line.=$pre.$this->getCalendar_login();
 			$pre=$delim;
+		return $line;
 	}
 	public function getUserid()
 	{

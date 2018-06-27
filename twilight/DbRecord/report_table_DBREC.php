@@ -81,6 +81,7 @@ class report_table_DBREC extends DbRecord
 			$pre=$delim;
 			$line.=$pre.$this->getREADONLY();
 			$pre=$delim;
+		return $line;
 	}
 	public function getReport_name()
 	{

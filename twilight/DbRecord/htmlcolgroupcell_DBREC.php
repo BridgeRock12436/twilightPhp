@@ -54,6 +54,7 @@ class htmlcolgroupcell_DBREC extends DbRecord
 			$pre=$delim;
 			$line.=$pre.$this->getWidth();
 			$pre=$delim;
+		return $line;
 	}
 	public function getTable_name()
 	{

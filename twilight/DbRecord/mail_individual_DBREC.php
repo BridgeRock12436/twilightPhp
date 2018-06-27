@@ -36,6 +36,7 @@ class mail_individual_DBREC extends DbRecord
 			$pre=$delim;
 			$line.=$pre.$this->getStatus();
 			$pre=$delim;
+		return $line;
 	}
 	public function getRowid()
 	{

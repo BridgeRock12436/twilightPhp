@@ -81,6 +81,7 @@ class main_house_DBREC extends DbRecord
 			$pre=$delim;
 			$line.=$pre.$this->getIdata5();
 			$pre=$delim;
+		return $line;
 	}
 	public function getMain_house_number()
 	{

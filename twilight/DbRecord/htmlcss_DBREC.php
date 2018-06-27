@@ -45,6 +45,7 @@ class htmlcss_DBREC extends DbRecord
 			$pre=$delim;
 			$line.=$pre.$this->getValue();
 			$pre=$delim;
+		return $line;
 	}
 	public function getPage_name()
 	{

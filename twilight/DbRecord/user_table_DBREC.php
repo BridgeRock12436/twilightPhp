@@ -45,6 +45,7 @@ class user_table_DBREC extends DbRecord
 			$pre=$delim;
 			$line.=$pre.$this->getRequired();
 			$pre=$delim;
+		return $line;
 	}
 	public function getTable_name()
 	{

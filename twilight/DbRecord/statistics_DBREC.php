@@ -36,6 +36,7 @@ class statistics_DBREC extends DbRecord
 			$pre=$delim;
 			$line.=$pre.$this->getIPADDRESS();
 			$pre=$delim;
+		return $line;
 	}
 	public function getUserid()
 	{

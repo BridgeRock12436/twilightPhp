@@ -78,6 +78,7 @@ class htmlcell_DBREC extends DbRecord
 			$pre=$delim;
 			$line.=$pre.$this->getOn_change();
 			$pre=$delim;
+		return $line;
 	}
 	public function getTable_name()
 	{

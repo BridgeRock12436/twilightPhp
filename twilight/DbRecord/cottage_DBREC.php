@@ -36,6 +36,7 @@ class cottage_DBREC extends DbRecord
 			$pre=$delim;
 			$line.=$pre.$this->getName();
 			$pre=$delim;
+		return $line;
 	}
 	public function getCottage_number()
 	{

@@ -27,6 +27,7 @@ class state_DBREC extends DbRecord
 			$pre=$delim;
 			$line.=$pre.$this->getDescription();
 			$pre=$delim;
+		return $line;
 	}
 	public function getState()
 	{

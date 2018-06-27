@@ -36,6 +36,7 @@ class session_DBREC extends DbRecord
 			$pre=$delim;
 			$line.=$pre.$this->getFamily_number();
 			$pre=$delim;
+		return $line;
 	}
 	public function getUserid()
 	{
