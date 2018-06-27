@@ -1,0 +1,1 @@
+class	description	id	style	title	dir	lang	tabindex	accesskey	standKey	rowid

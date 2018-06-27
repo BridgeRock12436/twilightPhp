@@ -1,0 +1,43 @@
+table_name	field_name	field_value	where_condition	field_display	field_type	row_pos	col_pos	display_length	field_length	required	classname	align	valign	c_char	charoff	colspan	rowspan	on_change
+select_query	birth_day	text		Birth Date:	text	5	4	15	15			right						validate_field
+select_query	cell_phone	text		Cell Phone:	text	4	6	15	15			right						validate_field
+select_query	community_member	text		Community Member	text	3	0	15	15							2		validate_field
+select_query	cottage	text	in_cottage({twilight_member.cottage_number})	COTTAGE	text	9	0	15	15							2		validate_field
+select_query	cottage_addr	text	in_cottage({twilight_member.cottage_number})	Addr	text	11	0	15	15			right						validate_field
+select_query	cottage_name	text	in_cottage({twilight_member.cottage_number})	Cottage Name	text	10	0	15	15			right						validate_field
+select_query	cottage_phone	text	in_cottage({twilight_member.cottage_number})	Phone Ext:	text	10	2	15	15			right						validate_field
+select_query	cottage_photo	/house/{cottage.cottage_number}.jpg	in_cottage({twilight_member.cottage_number})	cottage photo	link	10	4	15	15			center				2		validate_field
+select_query	email_address	text		Email Address	text	5	0	15	15			right						validate_field
+select_query	first_name	text		First Name:	text	4	0	15	15			right						validate_field
+select_query	help	/twilight/twilight_help.php		HELP	link	3	5	15	15			center						validate_field
+select_query	ibirth_day	{twilight_member.birthdate}		Birth Date	DATE	5	5	2	15									validate_field
+select_query	icell_phone	{twilight_member.cell_phone}		Cell Phone:	tel	4	7	2	15									validate_field
+select_query	icottage_addr	{cottage.addr}	in_cottage({twilight_member.cottage_number})	Cottage Addr:	input	11	1	30	15							2		validate_field
+select_query	icottage_name	{cottage.name}	in_cottage({twilight_member.cottage_number})	Cottage Name:	input	10	1	15	15									validate_field
+select_query	iemail_address	{twilight_member.email_address}		Email Address:	input	5	1	30	15									validate_field
+select_query	ifirst_name	{twilight_member.first_name}		First Name:	input	4	1	15	15									validate_field
+select_query	ilast_name	{twilight_member.last_name}		Last Name:	input	4	3	15	15									validate_field
+select_query	imain_house_addr1	{main_house.addr1}	in_main({twilight_member.main_house_number_number})	Main House Addr1	input	14	1	15	15									validate_field
+select_query	imain_house_addr2	{main_house.addr2}	in_main({twilight_member.main_house_number_number})	main_house_addr2	input	14	3	15	15									validate_field
+select_query	imain_house_alt_phone_number	{main_house.alt_phone_number}	in_main({twilight_member.main_house_number_number})	Phone Number	tel	16	3	15	15			left				2		validate_field
+select_query	imain_house_city	{main_house.city}	in_main({twilight_member.main_house_number_number})	Main House City	input	15	1	15	15			left						validate_field
+select_query	imain_house_country	{main_house.country}	in_main({twilight_member.main_house_number_number})	Country:	input	15	7	9	9			left						validate_field
+select_query	imain_house_phone_number	{main_house.phone_number}	in_main({twilight_member.main_house_number_number})	Phone Number	tel	16	1	15	15			left						validate_field
+select_query	imain_house_state	{main_house.state}	in_main({twilight_member.main_house_number_number})	State:	input	15	3	2	2			left						validate_field
+select_query	imain_house_zip	{main_house.zip}	in_main({twilight_member.main_house_number_number})	Zip:	input	15	5	9	9			left						validate_field
+select_query	iphone	{cottage.phone}		Phone	input	10	3	5	15									validate_field
+select_query	isuffix	{twilight_member.suffix}		Last Name:	input	4	5	2	15									validate_field
+select_query	iwork_phone	{twilight_member.work_phone}		Work Phone:	tel	5	3	13	15							3		validate_field
+select_query	last_name	text		Last Name:	text	4	2	15	15			right						validate_field
+select_query	main_house_addr1	text	n_main({twilight_member.main_house_number_number})	Addr1:	text	14	0	15	15			right				0		validate_field
+select_query	main_house_addr2	text	n_main({twilight_member.main_house_number_number})	Addr2:	text	14	2	15	15			right						validate_field
+select_query	main_house_alt_phone_number	text	n_main({twilight_member.main_house_number_number})	Alt Phone Number:	text	16	2	15	15			right						validate_field
+select_query	main_house_city	text	in_main({twilight_member.main_house_number_number})	City:	text	15	0	15	15			right						validate_field
+select_query	main_house_country	text	in_main({twilight_member.main_house_number_number})	Country:	text	15	6	15	15			right						validate_field
+select_query	main_house_phone_number	text	n_main({twilight_member.main_house_number_number})	Phone Number	text	16	0	15	15			right						validate_field
+select_query	main_house_state	text	in_main({twilight_member.main_house_number_number})	State:	text	15	2	30	15			right						validate_field
+select_query	main_house_zip	text	in_main({twilight_member.main_house_number_number})	Zip:	text	15	4	30	15			right						validate_field
+select_query	suffix	text		Suffix:	text	4	4	15	15			right						validate_field
+select_query	update_page	text		Community Member: Update Page	text	3	2	15	15							3		validate_field
+select_query	winter_home	text	in_main({twilight_member.main_house_number_number})	WINTER HOME	text	13	0	15	15							2		validate_field
+select_query	work_phone	text		Work Phone:	text	5	2	15	15			right						validate_field

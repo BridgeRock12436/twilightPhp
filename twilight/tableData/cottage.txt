@@ -1,0 +1,129 @@
+cottage_number	addr	phone	alt_phone	name
+0				
+1	1 Ledge End Rd.	6494		Basini
+2				 
+3	3 Ledge End Rd.	5153		Sheridan
+4	4 Ledge End Rd.	9050		Wits End
+5	5 Ledge End Rd	6446		Peters
+7	7 Ledge End Rd.			The Crooked Cottage
+8	8 Ledge End Rd.	6608		Larkalot
+9	9 Ledge End Rd.	6205		Cosey Cabin
+10	10 Ledge End Rd.	6235		Fisher
+11	11 Ledge End Road	7040		Elysium
+12	12 Ledge End Road	6098		Young
+13	13 Santa Cruz Hill Rd.	5231		Swanson
+14	14 Santa Cruz Hill Rd.	5667		Laurilliard
+15	15 Santa Cruz Hill Rd.	6282		Pedersen
+16	16 Hayward Rd.	0032	6595	Cliff Hanger
+17	17 Hayward Rd.	5538		Dayton
+18	18 Santa Cruz Rd./Onteora	5824/5566		Trails End/Nestledow
+19	19 Santa Cruz Rd.	6633		West
+20	20 Santa Cruz Rd.	6227		TreeTops
+21	21 Santa Cruz Road	5205		Wyndecliffe
+22	22 Santa Cruz Hill Rd.	5113		Christendom
+23	23 Santa Cruz Hill Rd.	5119		Samarkand
+24	24 Santa Cruz Hill Rd.	5259		Cloveside
+25	25 Santa Cruz Hill Rd.	5032		Wake Robin
+26	26 Santa Cruz Rd.	6252		Santa Cruz
+27	27 Spray Falls Road	6218		Owls Roost
+28	28 Ledge End Rd	6392		Tarnowski
+29	29 Church Lane	7016		Keiffer
+30	30 Church Lane	5839		Rivendel
+31	31 Spray Falls Rd.	6492		Far View
+32	32 Church Lane	6354		Ainsworth
+33	33 Ledge End Road	5972		Shadows
+34	34 Ledge End Rd.	6279		Douglass
+35	35 Ledge End Rd	6543		The Rock
+36	36 Ledge End Rd.	5939		Kindred Spirit
+38	38 Spray Falls Rd.	9857		 Lemann & Shulevitch
+39	39 Barkaloo Rd.	9855		Roll
+40	40 Barkaloo Rd.	6117		Maurer
+41	41 Barkeloo Rd.	6277		Lowrie
+42	42 Barkaloo Rd.	5485		Cummings
+43	43 barkeloo rd.	5288		Underhill
+44	44 Spray Falls Road	6263		Speir
+45	45 Pharmacy Hill Rd.	6384		Sterrett
+46	46 Pharmacy Hill Rd.	6232		The Pharmacy
+47	47 Squirrel Hill Rd.	5922		Bennett
+48	48 Spray Falls Road	5868		Pedersen
+49	49 Pharmacy Hill Rd.	5277		Cobb
+50	50 Wingate Rd.	6025		SKASA
+51	51 Ledge End Rd.	5574		Ledge End
+52	52 Spray Falls Rd.	6284		Take Off
+53	53 Spray Falls Rd.	5366		The Chapel
+54	T-54 Indian Trail Road; 12436-0221	5348		Winaching (M&J)
+55	55 Spray Falls Rd.	6394		Hersey
+56	56 Spray Falls Rd.	1041		Janeway
+57	57 Spray Falls Rd.	5894		Boulders
+59	59 Spray Falls Rd.	6187		Dunn
+60	60 3 level	5869		Craggs
+61	61 Spray Falls Rd.	9798		Huyck
+62	62 Pebble Rock Hill Rd.	6352		Quisisana
+63	63 Spray Falls Rd.	6565		Crossways
+64	64 spray falls rd	1198		Bear Logga
+65	65 Spray Falls Rd	1165		Sans Souci
+66	66 Squirrel Hill Rd.	6008		Fitzgerald
+67	67 3 level	6625		Laurel Craig
+68	68 Balsam Lane	0521		Stones Throw
+69	69 Balsam Rd.	0000		All Angels
+70	70 Balsam Lane	6011		Balsam Dell
+71	71 Squirrel Hill Rd.	5874		 Hemlocks
+72	72 Squirrel Hill Rd.	5270		Sade
+73	73 Squirrel Hill Rd	5256		Porter
+74	74 Squirrel Hill Rd.	6940		Cairn Brae 
+75	75 Squirrel Hill Rd.	6540		Clove Lodge
+76	76 Squirrel Hill Rd.	5687		Brookside
+77	77 Squirrel Hill Rd.	7066		Bechara/Dimon
+79	79 Squirrel Hill Rd.	4066		McMenamin
+80	80 Squirrel Hill Rd.	6064		Francis
+81	81 Squirrel Hill Rd.	5960		Brookwood
+82	82 Squirrel Hill Rd.	4158		Tanglewood
+83	83 Squirrel Hill Rd.			Pathside
+84	84 Squirrel Hill Rd.	0507		Novieo
+85	85 Squirrel Rd.	965-6872		Bailey
+86	86 3 level	1050		Golliwog
+87	87 Spray Falls Rd.	6228		Tumble Rock
+88	88	5587		Boyle
+89	89 3 level	6552		Collins
+90	90 3 level	5128		Hirsch
+91	91 Spray Falls Rd.	6141		Witham
+92	92 Spray Falls Rd.	6158		Weber
+93	93 Spray Falls Rd.	9233		oresteasy
+94	94 Spray Falls Rd.	3916		Campbell
+95	95 Spray Falls Rd.	7252		Elder
+96	96 Spray Falls Road	1007		Impatiens
+900	POOL			
+901	Onteroa	5443		
+994	Windham	263-3747		
+995	Santa Cruz Rd	5824		Trails End
+996				
+997	Jewett	734-5803		
+998	Ash Cottage			
+999	Onteora	5795		
+1000	Onteora	5034		
+1001	Onteora	5188		Onteora
+1002	Onteora	5261		
+1003	Onteora	6333		Onteora
+1004	Unknown	NA		Unknown
+1005	Elka Park			Elka
+1006	Onteora			
+1007	Onteora	5679		Onteroa
+1008	Onteora	6485		Onteora
+1009	Onteroa	5389		Onteora
+1010	Onteroa	5391		Onteora
+1011	Onteora	5654		Onteora
+1012	Onteora	6506		Onteora
+1013	Onteora			Onteora
+1014	Onteora	5838		Onteora
+1015	Elka			Elka
+1016	Elka			Elka
+1017	Onteora	5814		Onteora
+1018	Unknown			
+1019	Unknown			
+1020	Unknown			
+1021	Unknown			
+1022	Unknown			
+1023				
+1024	Unknown			
+1025	35 Onteora			
+4014	14 Santa Cruz Hill Rd.	4055		Mechlowitz

@@ -1,0 +1,7 @@
+report_name	base_tables	where_clause	order_clause	xpos	ypos	size
+twilight_member	cottage,main_house,twilight_member	twilight_member.cottage_number = cottage.cottage_number and twilight_member.main_house_number = main_house.main_house_number	twilight_member.last_name,twilight_member.first_name	50	50	7
+user	users	1=1	user_id	10	10	10
+logon	users	1=1	user_id	300	30	10
+main	users	1=1	user_id	300	30	10
+cottage	cottage	cottage.cottage_number != 0	cottage.name	50	50	7
+main_house	main_house	main_house.main_house_number != 0	main_house.main_house_number	50	50	7

@@ -1,0 +1,437 @@
+main_house_number	addr1	addr2	city	state	country	zip	phone_number	alt_phone_number	international	ilabel1	ilabel2	ilabel3	ilabel4	ilabel5	idata1	idata2	idata3	idata4	idata5
+0		 							N										
+1	24 Schindler Court		Chatham	NJ		07928	9737017550		N										
+2	25 Thornton Way  #310		Brunswick	ME		04011	2077290678		N										
+3	2208 Lester Dr.		Albuquerque	NM		87112	5189656872		N										
+4	223 West Main St.		Salem	WV		26426	5185896494		N										
+5	Orix Polska S.A. Intraco-p VI	Ulica Stawki2 00-193 Warsaw, Poland	PH- 001 48 42 827-7062			00000	0000000000	0000000000	N										
+6	408 Leslie Ave		Brielle	NJ		08730	7327228605		N										
+7	44 Paterson Ave.		Greenwich	CT		06830	2036222949		N										
+8	245 East 19th Street	Apt. 8J	New York	NY		10003	2125050915		N										
+9	85 Heritage Hill Rd.		New Canaan	CT		06840	2039668945		N										
+10	556 Lakeshore Dr Ext		Asheville	NC	USA	28804	8286928363	8288085395	N										
+11	15 Old Road		Weston	MA		02493	7818910905		N										
+12	240 Central Park South,, Apt 10 A		New York	NY		10019	6469186100		N										
+13	152 Corlies Ave.		Pelham	NY		10803	9147383445	9148447078	N										
+14	P O Box 506	181 Interlaken Rd.	Lakeville	CT		06039	8604358024		N										
+15	16 Brook Street		Kingston	NY	United States	12401	4848811635		N										
+16	Box 71	Cell phone 011 504 9700-2936	Haines Falls	NY	USA	12436			N										
+17	255 Weaver St. A-3C		Greenwich	CT		06831	2035325436		N										
+18	7200 45th St.		Vero Beach	FL		32967	7725629452		N										
+19	1 Apple Tree Dr.		Brunswick	ME		04011	2078335412		N										
+20	20 Bedford Court		Bedford	MA	USA	01730	7815385146	7815721033	N										
+21	158 West 72nd Street	APT 3R	New York	NY		10023	6467135706		N										
+22	22 Fifth Ave.		San Francisco	CA		94118	4156687776		N										
+23	121 Pearls Farm		Alpharetta	GA		30004	6783936344		N										
+24	109 Wendell Park		Milton	MA		02186	6176986635	6173064435	N										
+26	2030 Hillyer Place, N W		Washington	DC		20009	2023872467		N										
+27	7 Peter Cooper Road		New York	NY		10010	2124770060		N										
+28	610 West End Ave. A-7D		New York	NY		10024	2128730177		N										
+29	517 Kelsey Rd.		Sheffield	MA		01257	4132293524		N										
+30	51 Mandolin Drive		Black Mountain	NC		28711	9143913112	9145523302	N										
+31	20 Ledgewood Dr.		Wilton	CT		06897	2037629021		N										
+32	PO Box 472		Boca Grande	FL		33921	2036222949		N										
+33	910 Edgewood Ave.		Pelham Manor	NY		10803	9147380328	7188525531	N										
+34	396 Henry St.	BASEMENT	Brooklyn	NY	USA	11201	7185225166	7188525531	N										
+35	399A   Union Street		Brooklyn	NY	USA	11231	7188586066		N										
+36	115 East 90th St.		New York	NY		10028	2124109690		N										
+37	75 Peregrine Crossing		Savannah	GA	USA	31411	9125989303		N										
+38	484 Smith St	Apartment 2	Brooklyn	NY		11231	9176970807	9179233181	N										
+39	400 E 54th St	Apt 23B	New York	NY		10022	6466492662		N										
+40	202 Greenwich Dr.		Albany	NY		12203	5188622202		N										
+41	120 Cabrini Blvd.	Apartment 128	New York	NY		10033	2127405874	9175974967	N										
+42	404 East 66th St.  Apt 6e		New York	NY		10065	2127342551		N										
+43	232 Mead St.		Waccabuc	NY		10597	9147636136		N										
+44	111 Central Park North	apt 16-A	New York	NY		10026	6465969086	9177347515	N										
+45	225 West Lyon Farm Dr.		Greenwich	CT		06831	2035322838		N										
+46	30 Water St.		Guilford	CT		06437	2034534243		N										
+47	22 Broad Axe Lane		Wilton	CT		06897	2038342527	2032409179	N										
+48	600 Canton Ave	Building 4  #403	Milton	MA		02186	6176980096	0000000000	N										
+49	303 West 66th St. A-20JE		New York	NY		10023	2127218027	2122498249	N										
+50	550 Old Country Rd.		Pemaquid	ME		04558	2076776055		N										
+51	935 Park Ave.		New York	NY		10028	2127373074	2127595047	N										
+52	6 Winners Circle	Apt 608	Colonie	NY		12205	5186940387		N										
+53	410 Riverside Drive,  Apt 72		New York	NY	USA	10025	2123161716	0000000000	N										
+54	17 Adorno Dr.		Portland	CT	USA	06480	8603424503		N										
+55	6000 Park South Dr.		Charlotte	NC		28210	7046431400		N										
+56	23 Day St.		Windsor	VT		05089	8026745356		N										
+57	2447 SW Bridgeview Terrace		Palm City	FL	USA	34990	7723411553		N										
+58	133 Deer Ford Drive		Lancaster	PA	United States	17601	9174945901		N										
+59	307 Forest Rd.	 	Mahwah	NJ		07430	2018489177		N										
+60	222 Kelsey Pl.		Castle Rock	CO		80104	3038142349		N										
+61	P. O. Box 322	cottage phone 755-3344	Haines Falls	NY		12436	5187553344		N										
+62	1 North Loop	The Woods at Rhinebeck	Rhinebeck	NY		12572	8455164632	0000000000	N										
+63	32 Eastview Dr.		Valhalla	NY		10595	9142889787		N										
+64	14211 Kellywood Lane		Houston	TX		77079	2815585236		N										
+65	11 Elm Sreet		Harrington Park	NJ	USA	07640	2016608780		N										
+66	453 East 14th St. 9E		New York	NY		10009	2122546338		N										
+67	Sunrise Decatur	920 Clairmont Avenue	Atlanta	GA		30030	4043713430		N										
+68	34 Old Story Rd.		Leeds	NY		12451	0000000000		N										
+69	P. O.  Box 162		Haines Falls	NY		12436	5185895960	5189656760	N										
+70	50 Indian Wells Rd.		Brewster	NY		10509	8452788347		N										
+71	1381 Yorkshire Lane	 	Carol Stream	IL		60188	6302933568		N										
+72	2 Tanager Lane		Greenport	NY		11944	6314772757		N										
+73	380 Rector Place	Apt 23B	NY	NY	USA	10280	9149549080	8134424974	N										
+74	115 Deerfield Drive		Oneonta	NY		13820	6076430069		N										
+75	15 Channel Rd.		Norwalk	CT		06854	2038662794		N										
+76	P. O. Box 69		Haines Falls	NY		12436	2127508545	2078653196	N										
+77	2110 Kendal Way		Sleepy Hollow	NY		10591	9149221918		N										
+78	7 Forest Circle		Winchester	MA		01890	7813691109	6178524510	N										
+79	20 Benedict Place		Pelham	NY		10803	9147380198		N										
+80	3 Ledge End Road	P.O. Box 349	Haines Falls	NY		12436	5185895153		N										
+81	1177 North Lake Way		Palm Beach	FL	USA	33400	5614788139		N										
+82	640 Snowden Lane		Princeton	NJ		08540	6462292997		N										
+83	738 West State St. 		Coopersburg	PA		18036	6102822929		N										
+84	6 Brooklands #1-A		Bronxville	NY		10708	9177428926		N										
+85	Box 196		Haines Falls 	NY	USA	12436	6153006457	5185895231	N										
+86	520 West 110th St. A-9A		New York	NY		10025	2128647421	2128646011	N										
+87	28 Miro Place		Port Washington	NY		11050	5166270128	5165671253	N										
+88	3482 Paces Pl NW		Atlanta	GA		30327	4048149320	9735807739	N										
+89	72 Ridge Rd.		East Longmeadow	MA		01028	4135256228		N										
+90	7820 Potrero Ave.		El Cerrito	CA	 	94530	5102374654		N										
+91	80 Chalk Hill 	Ph # 011 44 776 460 3657	Southampton		UK S018 3DB				N										
+92	117 Ridge Dr		Yonkers	NY		10705	9145148743	0000000000	N										
+93	623 Glenmary Rd.		Radnor	PA		19087	6106881088		N										
+94	420 Riverside Drive 7E		New York	NY		10025			N										
+95	146 E Court St.		Doylestown	PA	US	18901	2153484648		N										
+96	135 Mountain Rd.		West Redding	CT		06896	2034386185	2032461420	N										
+97	520 Plymouth Rd.		Blue Bell	PA		19422	2156465698		N										
+98	32 Fort Pond Road		Littleton	MA		01460	9786350391		N										
+99	112 Covington Pl.		Macon	GA		31210	4086252058		N										
+100	27790 KYLE BLVD		BIG PINE KEY	FL	United States	33043	2127129888	5185896098	N										
+101	125 Hicks St.		Brooklyn	NY		11201	7188021714		N										
+102	161-03 33rd Ave.		Flushing	NY		11358	7184633165		N										
+103	P. O.  Box 279		Windham	NY		12496	5182633747		N										
+104	P. O.  Box 63		Haines Falls	NY		12436	5185896191		N										
+105	139 Sunrise Avenue	Apartment 208	Palm Beach	FL	USA	33480	5618024463	6099153483	N										
+106	6553 Gulf Gate Pl. A-348		Sarasota	FL		34231	0000000000		N										
+107	41 Longmeadow Rd		Wellesley	MA		02482	7812351996	3022188734	N										
+108	177 E 71 Street		New York	NY	USA	10021	2125851555	5185895566	N										
+110	151 Central Park West		New York	NY		10023	0000000000		N										
+111	3 Ingleside Lane		White Plains	NY		10605	0000000000		N										
+112	1120 Park Ave.		New York	NY		10128	0000000000		N										
+113	254 Plymouth Rd.		West Palm Beach	FL		33405	0000000000		N										
+114	525 West Wildwood Rd.		West Allenhurst	NJ		07711	0000000000		N										
+115	27 Willow Rd.		Riverside	CT		06878	0000000000		N										
+116	170 West End Ave., 17D		New York	NY		10023	2125791501	9178423959	N										
+117	115 Beverley Rd.	cottage phone 628-4250	Montclair	NJ		07043	9737442986		N										
+118	220 Congress St. A-6A		Brooklyn	NY		11201	0000000000		N										
+119	139 Broad Street	 	Charleston	SC		29401			N										
+120	P. O.  Box 7030		Rancho Santa Fe	CA		92067	0000000000		N										
+121	44 Bramble Lane		Riverside	CT		06878	2036982601		N										
+122	232 East 32nd St.		New York	NY		10016	5185896158	2126969620	N										
+123	1590 Cypress Glen		Stuart	FL		34997	0000000000		N										
+124	6517 Latona Ave. NE		Seattle	WA		98115	0000000000		N										
+125	890 Washington St.		Holliston	MA		01746	5084296682	7815409408	N										
+126	1518 Knox Rd.		Wynnewood	PA		19096	6106493503	2678251040	N										
+127	29 Beacon St.		Florence	MA		01060	4135879871		N										
+128	84 Columbia Ave.		Brunswick	ME		04011	0000000000		N										
+129	120 State St.		Brooklyn	NY		11201	7818525927		N										
+130	25 Highbrook Ave.		Pelham	NY		10803	0000000000		N										
+131	P. O.  Box 804		Palm Desert	CA		92261	0000000000		N										
+133	3878 NW 56th Rd.		Boca Raton	FL		33496	0000000000		N										
+134	N-5191 Indigo Rd.		West Salem	WI		54669	0000000000		N										
+135	616 Hidden Point Dr.		Lexington	KY		40517	0000000000		N										
+136	17 Calhoun Drive		Greenwich	CT		06831	0000000000		N										
+137	12 Piney Point Ave.		Croton	NY	 	10520	9142710166		N										
+138	200 East 72nd St.		New York	NY		10021	0000000000	x	N										
+139	1500 Remount Rd.		Front Royal	VA		22630	5407220504		N										
+140	3381 Edolin Farms Court		Finksburg	MD		21048	4108618959		N										
+141	28 MacDonald Circle		Walpole	MA		02081	5086684538	6179977717	N										
+142	14 Willard Ave.		Pocantico Hills	NY		10591	9146315467		N										
+143	16 Bonn Pl.		Weehawken	NJ		07086	2019021447		N										
+144	334 Lowell Town Road		Wiscasset	ME		04578	2073197414		N										
+145	35 Fruit Street	# H81	Northampton	MA		01060	4135843271		N										
+146	138 Forest St.		Norwell	MA		02061	0000000000		N										
+147	1700 Winterhur Close		Atlanta	GA		30328	0000000000		N										
+148	2939 27th St.		Sacramento	CA		95818	9166160110		N										
+149	4301 Mass. Ave. A-309		Washington	DC		20016	0000000000		N										
+150	26 Wells Ave.		Dorchester	MA		02124	0000000000		N										
+151	274 Mitchell Rd.		Cape Elizabeth	ME		04107	0000000000		N										
+152	226 Dean St.		Brooklyn	NY	USA	11217	7188552740		N										
+153	3 Waters Edge Rd.		Falmouth	ME		04105	0000000000		N										
+154	15 Ogden Rd.		West Islip	NY		11795	0000000000		N										
+155	4 Tall Oaks Court		Farmingdale	NJ		07727	0000000000		N										
+156	25 Bakersville Rd.		South Dartmouth	MA	USA	02748	0000000000	0000000000	N										
+157	230 Keller Point Rd.		Islesboro	ME		04848	0000000000		N										
+158	27 Andrew Terrace		Oakland	ME		04963	2077162014	2074419271	N										
+159	P. O. Box 24 Route 23c		East Jewett	NY		12424	0000000000		N										
+160	3812 Fort Worth Ave.		Alexandria	VA		22304	0000000000		N										
+161	86 MacFarlane Dr. A-2G		Delray Beach	FL		33483	0000000000		N										
+162	8722 Tahiti Lane		Tampa	FL		33615	0000000000		N										
+163	4134 Gros Ventre Ave.		San Diego	CA		92177	6199856231		N										
+164	548 Sipes Circle		Chula Vista	CA		91911	0000000000		N										
+165	353 5th St.		Brooklyn	NY		11215	0000000000		N										
+166	3 Peter Cooper Rd. A-7B		New York	NY		10010	0000000000		N										
+167	4 Park Ave.		Croton	NY		10520	0000000000		N										
+168	300 east 71st St. A-7B		New York	NY		10021	0000000000		N										
+169	8033 Via Flore		Sarasota	FL		34238	0000000000		N										
+170	RR4 Box 2945		Montpelier	VT		05602	0000000000		N										
+171	4 First Ave.		Montpelier	VT		05602	0000000000		N										
+172	167 east 67th St. A-9A		New York	NY		10021	0000000000		N										
+173	19 Sylvan Dr.		Bridgewater	NJ		08807	0000000000		N										
+174	57 Woodside Trail		Chapel Hill	NC		27517	9199326050		N										
+175	83 Ashtree Lane		Niskayuna	NY		12309	0000000000		N										
+176	39 Filbert St.		Hamden	CT		06517	0000000000		N										
+177	15 East 91st St. A-3C		New York	NY		10128	0000000000		N										
+178	20 Bellrose Avenue		Cortland	NY		13405			N										
+179	603 East Melton St.		Longview	TX		75602	0000000000		N										
+180	43 Sands Avenue		Milton	NY		12547	8456915511		N										
+181	412 Oakwood Dr.		Monteagle	TN		37356	4129917248		N										
+182	412 Oakwood Dr.		Monteagle	TN		37356	0000000000		N										
+183	140 Sycamore St.		Somerville	MA		02145	0000000000		N										
+184							0000000000		N										
+185	6514 Darnall Road		Ruxton	MD		21204	4103377558		N										
+186	50 Betsy Brown Rd.		Port Chester	NY		10573	0000000000		N										
+187	313 East Mill Chase Court		Ponte Vedra	FL	USA	32082	9042527817		N										
+188	12 Shad Thames	Flat 29	London SE1 2YN		UK		0000000000		N										
+189	413 spring house cove		Atlanta	GA		30307			N										
+190	30 Underhill Rd.		Mill Valley	CA		94941	4153886203		N										
+191	55 Strong Pl.		Brooklyn	NY	USA	11231	0000000000		N										
+192	52 Bergen St.		Brooklyn	NY		11201	0000000000		N										
+193	55 Park Pl.		Brooklyn	NY		11217	0000000000		N										
+194	37 Ann Drive		Syosset	NY		11791	0000000000		N										
+195	1022 North Jefferson St.		Huntington	IN		46750	2603589623		N										
+196	565 West End Ave. A-16B		New York	NY		10024	0000000000		N										
+197	67 Bourndale Road North		Manhasset	NY		11030	5168693163		N										
+198	2503 North Mountain Ave.		Claremont	CA		91711	0000000000		N										
+199	120 West 78th St. A-1C		New York	NY		10024	0000000000		N										
+200	957 Aspen Ridge Court		Orange Park	FL		32065	0000000000		N										
+201	200 Hunter Ave.		Sleepy Hollow	NY		10591	0000000000		N										
+202	P. O. Box 981178		Park City	UT	USA	84098	0000000000		N										
+203	26282 Hitching Rail Road		Laguna Hills	CA		92653	9493052065		N										
+204	862 Emerson St.		Thousand Oaks	CA		91362	0000000000		N										
+205	5 Lafayette Dr.		Portchester	NY		10573	0000000000		N										
+206	15 Fishburn St.	Red Hill A.c.t. 2603 			AUSTRALIA	00000	0000000000	0000000000	N										
+207	55 Birch St.		Lindenhurst	NY		11757	0000000000		N										
+208	8 Sommerton Dr.		Greensboro	NC		27408	0000000000		N										
+209	664 Via Santa Ynez		Pacific Palisades	CA	USA	90272	0000000000	0000000000	N										
+210	116 Pinehurst Ave. A-B-41		New York	NY		10033	0000000000		N										
+211	3216 Chapel Hill Blvd.		Boynton Beach	FL		33435	0000000000		N										
+212	5331 Northridge Ave.		San Diego	CA	USA	92117	0000000000	0000000000	N										
+213	75 Riverside Dr. A-2R		New York	NY		10024	0000000000		N										
+214	44 The Birches		Roslyn Estates	NY		11576	0000000000		N										
+215	250 Harrison Avenue	3a	Mineola	NY	UNITED STATES	11501	5163852355	5165671253	N										
+216	520 West 110 St. A-9C		New York	NY		10025	0000000000		N										
+217	118 Brookhaven Dr.		East Longmeadow	MA		01028	4135256018		N										
+218	7 Fielding Lane		Hampton	NH		03842	6039297228		N										
+219	687 Shenandoah Ave.		San Marcos	CA		92069	0000000000		N										
+220	24 Bellsize Ave.	 	London Nw3 4au		ENGLAND	000000	0000000000	0000000000	N										
+221	299 Riverside Dr. A-2D		New York	NY		10025	2122229319		N										
+222	6760 Wheeler Drive		Charlotte	NC		28211	0000000000		N										
+223	116 Bellshire Dr.		Flat Rock	NC		28731	0000000000		N										
+224	P. O. Box 40 Eagle St.		Philmont	NY		12565	0000000000		N										
+225	300 Silvermine Ave.		Norwalk	CT		06850	0000000000		N										
+226	500 Thayer Pond Rd.		Wilton	CT	USA	06897	2038349521		N										
+227	RFD 9 Box 537		Augusta	ME		04330	0000000000		N										
+228	16 Abaco Ct	use cell phone for summer phone	Sebastian	FL	USA	32958	7729184319		N										
+229	4001 Oak Forest Drive		Des Moines	IA		50312	5156644618	5185896540	N										
+230	P. O. Box 1433		Millbrook	NY	USA	12545	8456775000		N										
+231	103 Glenwood Drive		Houston	TX		77007			N										
+232	66 Orange Street,  4E		Brooklyn	NY		11201			N										
+233	1595 Clifton Terrace, NE		Atlanta	GA	USA	30307			N										
+234	337 North Harper Ave.		Los Angeles	CA		90210			N										
+235	1 Elk Ave.		New Rochelle	NY		10804			N										
+236	206 Waterford Place		Atlanta	GA		30342			N										
+237	882 Westwood Avenue		Rivervale	NJ		07457			N										
+238	5006 Bogue Ave.		Moorhead City	NC	USA	28557			N										
+239	1750 Silver Lake Blvd. - #3		Los Angeles	CA		20009			N										
+240	3207 S Morgan St.		Chicago	IL	USA	60608			N										
+241	1305 Murifield Drive		York, 	PA	USA	17404	4846867938		N										
+242	147 Sunset Park Rd		Haines Falls	NY		12436	5185899766		N										
+243									Y										
+244	217 Cherokee Rd		Nashville	TN	USA	37205			N										
+245	14 DeWolf St		Boston	MA	USA	02125			N										
+246	15551 E Chicory Dr		Fountain Hills	AZ		85268		6027933488	N										
+247	The Lawrenceville School	POBox 1028	Lawrenceville	NJ	USA	08648			N										
+248	PO Box 152		Hobart	NY	USA	13788			N										
+249	230 E 88th St		NYC	NY	USA	10128	2123694748		N										
+250	399A Union St.		Brooklyn	NY	USA	11231	9175748662	7188586066	N										
+251	1356 Goshen Rd		Jewett	NY	USA	12444	5187349760		N										
+252									N										
+253	11 Valley View Street		Oneonta	NY		13820			N										
+254	2409 Simpkins Farm Dr		Herndon	VA	USA	20171	7037933632		N										
+255	102 East 10th Street 	Garden	NY	NY		10003	2123889822		N										
+256	3204 Button Wood Dr		Middleburg	fl		32068			N										
+257									N										
+258									N										
+259									N										
+260	308 Lake Ridge Drive		Forest	VA	USA	24551	4345254121		N										
+261	6190 Old Bridge Ave NW		Massillon	OH	USA	44646	3308800158		N										
+262									N										
+263									N										
+264									N										
+265	186 Riverside Drive		New York	NY		10024			N										
+266	39 Park Place		New Canaan	CT		06840	2035949114		N										
+267	65 Chestnut Hill Rd		Ridgefield	CT	USA	06877	2032408566		N										
+268	1047 Amsterdam Ave		New York	NY	USA	10025	2123167678		N										
+269									N										
+270									N										
+271	315 W. 86th Street	Apt. 6C	New York	NY		10024	9178388879		N										
+272									N										
+273									N										
+274									N										
+275									N										
+276									N										
+277									N										
+278									N										
+279									N										
+280									N										
+281	16 Pine Grove St.		Woodstock	NY	United States	12498		2123308627	N										
+282									N										
+283									N										
+284									N										
+285									N										
+286									N										
+287									N										
+288									N										
+289									N										
+290									N										
+291									N										
+292									N										
+293	39 Casassa Ct		Napa	CA		94558			N										
+294									N										
+295									N										
+296									N										
+297									N										
+298									N										
+299									N										
+300									N										
+301									N										
+302									N										
+303									N										
+304									N										
+305									N										
+306									N										
+307									N										
+308									N										
+309									N										
+310									N										
+311									N										
+312	5485 S.Hyde Park Blvd.		Chicago	IL	USA	60615	6462839347	7733635012	N										
+313									N										
+314									N										
+315									N										
+316									N										
+317									N										
+318									N										
+319	2522 Durlston Court		Cedar Park	TX		78613	5127774392		N										
+320	40N IH-35, #9D4		Austin						N										
+321									N										
+322	18 May Street		Needham	MA		02492	9178487528		N										
+323									N										
+324									N										
+325									N										
+326									N										
+327									N										
+328									N										
+329									N										
+330									N										
+331									N										
+332									N										
+333									N										
+334									N										
+335									N										
+336									N										
+337									N										
+338									N										
+339									N										
+340					Brazil				N										
+341									N										
+342									N										
+343									N										
+344									N										
+345									N										
+346									N										
+347									N										
+348									N										
+349									N										
+350									N										
+351									N										
+352									N										
+353									N										
+354									N										
+355									N										
+356									N										
+357									N										
+358									N										
+359									N										
+360									N										
+361									N										
+362									N										
+363									N										
+364									N										
+365									N										
+366									N										
+367									N										
+368									N										
+369									N										
+370									N										
+371									N										
+372									N										
+373									N										
+374	181 Hudson street 8b		New York	NY	USA	10013	9178601096		N										
+375									N										
+376									N										
+377	35 East 75th Street	Apartment 3C	New York	NY		10021	2128790214		N										
+378									N										
+379									N										
+380			Ontario		Canada				N										
+381	PO Box 333		Millbrook	NY		12545	8456770054		N										
+382	PO Box 664		Tannersville	NY		12485			N										
+383	225 Valdez Ave		San Francisco	CA	USA	94127	4154690885		N										
+384	2411 Reba Drive		Houston	TX	USA	77019	7135286240		N										
+385									N										
+386									N										
+387	241 Rocky Point Road		Palos Verdes	CA		90274	3105449241		N										
+388	135  St Felix Street	Appt 2	Brooklyn	NY		11217	7187636028		N										
+389									N										
+390	PO Box 507		Tannersville	NY	USA	12485	5185894010		N										
+391	27 Washington Sq North	Appt 3C	New York	NY		10011	2122549797	9178053861	N										
+392	2700 Calvert St NW	Apt 317	Washington DC	DC		20008	2029861015	9043815966	N										
+393	120 Ancon Ave		Pelham	NY		10803	9147380084		N										
+394	1165 Park Ave		New York	NY		10128	2128386112	2122026187	N										
+395	305 East 86th St	Apt  8PW	New York	NY		10028	2128761327	9177429714	N										
+396	50 E 72nd St	Apt 6C	New York	NY		10021	6463867858		N										
+397									N										
+398	680 Tremont Ave	Unit 1	Boston	MA		02118	6172660402		N										
+399									N										
+400									N										
+401	310 W 106th St	Apt 1B	New York	NY		10025	2122808205	9173194617	N										
+402									N										
+403									N										
+404									N										
+405									N										
+406									N										
+407	27 Kitchell Road		Morristown	NJ		07960			N										
+408									N										
+409									N										
+410									N										
+411	197 Lyons Rd		Scarsdale	NY	US	10583	9144199339		N										
+412	197 Lyons Rd		Scarsdale	NY	United States	10583			N										
+413									N										
+414									N										
+415									N										
+416									N										
+417									N										
+418	11107 Hidden Bluff Dr		Austin	TX		78754	9173531004		N										
+419	187 Pinehurst Ave. Apt 2J		New York	NY		10033	9172515857	2033136564	N										
+420									N										
+421									N										
+422									N										
+423									N										
+424									N										
+425	50 Columbus Avenue	#1011	Tuckahoe	NY		10707	9177428926		N										
+426									N										
+427	Sunset Park		Haines Falls	NY	USA	12436			N										
+428									N										
+429									N										
+430									N										
+431									N										
+432	52 Bergen Street		Brooklyn	NY	USA	11201	7188340444		N										
+433									N										
+434									N										
+435									N										
+436	PO Box 57		Haines Falls	NY	(Dubai)	12436	5185891198		N										
+437	8 Humbert Ln		Princeton	NJ	USA	08542			N										
+438	258 St Nicholas Ave		NY	NY	USA	10027			N										

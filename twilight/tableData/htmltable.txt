@@ -1,0 +1,2 @@
+table_name	rows	cells	javascript	ie	mozilla	classname
+select_query	30	8				

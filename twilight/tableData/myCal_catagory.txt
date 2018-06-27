@@ -1,0 +1,10 @@
+catagory	color	sortKey	rowid
+Tennis	brown	5	1
+All Angels	grey	3	2
+Youth Activities	blue	4	4
+Park	green	1	5
+Art	red	6	6
+Pool	blue	7	7
+LingerNot Society	brown	10	9
+Garden	green	11	10
+Ping Pong	blue	12	11

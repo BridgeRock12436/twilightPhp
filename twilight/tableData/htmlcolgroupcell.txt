@@ -1,0 +1,9 @@
+table_name	colgroup	col	pos	classname	align	c_char	charoff	valign	span	width
+select_query	group1	col1	1	group1_col1						8%
+select_query	group1	col2	2	group1_col2						12%
+select_query	group1	col3	3	group1_col3						8%
+select_query	group1	col4	4	group1_col4						12%
+select_query	group1	col5	5	group1_col5						8%
+select_query	group1	col6	6	group1_col6						12%
+select_query	group1	col7	7	group1_col7						8%
+select_query	group1	col8	8	group1_col8						20%

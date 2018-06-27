@@ -1,0 +1,2 @@
+table_name	colgroup	classname	pos	align	c_char	charoff	valign	span	width
+select_query	group1	group1	1						100%

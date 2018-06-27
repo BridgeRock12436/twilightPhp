@@ -1,0 +1,2 @@
+date_added	description	alt	src	align	height	width	ismap	longdesc	usemap	javascript	record_key	rowid
+2008-07-20 17:17:55	TESTING		jbowl.jpg	center	10	10						1

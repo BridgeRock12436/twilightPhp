@@ -1,0 +1,68 @@
+table_name	field_name	label	length	obj_name	data_type	prime_key	required
+cottage	addr	Addr:	35	varchar_field	VARCHAR	N	N
+cottage	alt_phone	Alt_Phone Ext.:	4	varchar_field	VARCHAR	N	N
+cottage	cottage_number	Cottage Number:	5	int_field	INT	Y	Y
+cottage	name	Cottage Name:	20	varchar_field	VARCHAR	N	Y
+cottage	phone	Phone Ext.:	4	varchar_field	VARCHAR	N	N
+main_house	addr1	Addr1:	35	varchar_field	VARCHAR	N	N
+main_house	addr2	Addr2:	35	varchar_field	VARCHAR	N	N
+main_house	alt_phone_number	Alt Phone Number:	10	tel_field	VARCHAR	N	N
+main_house	city	City:	30	varchar_field	VARCHAR	N	N
+main_house	country	Country:	20	varchar_field	VARCHAR	N	N
+main_house	main_house_number	Main House Number:	5	int_field	INT	Y	Y
+main_house	phone_number	Phone Number:	10	tel_field	VARCHAR	N	N
+main_house	state	State:	2	state_field	VARCHAR	N	N
+main_house	zip	Zip:	9	zip_field	VARCHAR	N	N
+query	twilight_main_query	QUERY	2	query_field	VARCHAR	N	N
+report_main_table	base_tables	Base Tables	200	varchar_field	VARCHAR	N	Y
+report_main_table	order_clause	Order Clause	200	varchar_field	VARCHAR	N	Y
+report_main_table	report_name	Report Name	32	varchar_field	VARCHAR	Y	Y
+report_main_table	size	Size	3	int_field	INT	N	Y
+report_main_table	where_clause	Where Clause	300	varchar_field	VARCHAR	N	Y
+report_main_table	xpos	X Pos:	3	int_field	INT	N	Y
+report_main_table	ypos	Y Pos:	3	int_field	INT	N	Y
+report_table	display_length	Display Length	4	int_field	INT	N	Y
+report_table	field_name	Field Name:	15	varchar_field	VARCHAR	Y	Y
+report_table	field_pos	Field Pos:	3	int_field	INT	N	Y
+report_table	field_type	Field Type:	2	varchar_field	VARCHAR	N	Y
+report_table	LABEL_BACKGROUND_COLOR	LABEL BACKROUND COLOR	20	varchar_field	VARCHAR	N	Y
+report_table	LABEL_FONT	LABEL FONT	20	varchar_field	VARCHAR	N	Y
+report_table	LABEL_FONT_SIZE	LABEL FONT SIZE	11	int_field	INT	N	Y
+report_table	LABEL_FOREGROUND_COLOR	LABEL FORGROUND COLOR	20	varchar_field	VARCHAR	N	Y
+report_table	query_display	Query Display	1	varchar_field	VARCHAR	N	Y
+report_table	READONLY	READ ONLY	2	varchar_field	VARCHAR	N	Y
+report_table	report_label	Report Label:	15	varchar_field	VARCHAR	N	N
+report_table	report_name	Report Name:	15	varchar_field	VARCHAR	Y	Y
+report_table	table_name	Table Name:	15	varchar_field	VARCHAR	Y	Y
+report_table	TEXT_BACKGROUND_COLOR	TEXT BACKGROUND COLOR	20	varchar_field	VARCHAR	N	Y
+report_table	TEXT_FONT	TEXT FONT	20	varchar_field	VARCHAR	N	Y
+report_table	TEXT_FONT_SIZE	TEXT FONT SIZE	11	int_field	INT	N	Y
+report_table	TEXT_FOREGROUND_COLOR	TEXT FORGROUND COLOR	20	varchar_field	VARCHAR	N	Y
+report_table	upper_lower	Upper Lower	4	varchar_field	VARCHAR	N	Y
+report_table	xpos	X Pos:	3	int_field	INT	N	Y
+report_table	ypos	Y Pos:	3	int_field	INT	N	Y
+state	state	State	2	state_field	VARCHAR	N	Y
+twilight_member	birthdate	Birth Date:	7	date_field	DATE	N	N
+twilight_member	blood_relative	Blood Relative	1	varchar_field	VARCHAR	N	N
+twilight_member	cell_phone	Cell Phone:	10	tel_field	VARCHAR	N	N
+twilight_member	cottage_number	Cottage Number:	5	int_field	INT	N	N
+twilight_member	email_address	Email Address:	30	varchar_field	VARCHAR	N	N
+twilight_member	family_generation	Family Generation:	5	int_field	INT	Y	Y
+twilight_member	family_number	Family Number:	5	int_field	INT	Y	Y
+twilight_member	family_type	Family Type:	5	varchar_field	VARCHAR	Y	Y
+twilight_member	first_name	First Name:	15	varchar_field	VARCHAR	N	Y
+twilight_member	last_name	Last Name:	15	varchar_field	VARCHAR	N	Y
+twilight_member	main_house_number	Main House Number:	5	int_field	INT	N	Y
+twilight_member	park_relation	Park Relation	2	varchar_field	VARCHAR	N	N
+twilight_member	park_relation_2	Park relation 2	2	varchar_field	VARCHAR	N	N
+twilight_member	root	Root	2	char_field	CHAR	N	N
+twilight_member	suffix	Suffix:	3	varchar_field	VARCHAR	N	N
+twilight_member	wj_rpt	WJ Report	2	varchar_field	VARCHAR	N	N
+twilight_member	work_phone	Work Phone:	10	tel_field	VARCHAR	N	N
+users	admin	Admin	2	varchar_field	VARCHAR	N	Y
+users	family_generation	Family Generation	4	varchar_field	VARCHAR	N	Y
+users	family_number	Family Number	4	varchar_field	VARCHAR	N	Y
+users	family_type	Family Generation	3	varchar_field	VARCHAR	N	Y
+users	passwd	Pass Word	32	passwd_field	VARCHAR	N	Y
+users	root	Root	3	varchar_field	VARCHAR	N	Y
+users	userid	User Id	32	varchar_field	VARCHAR	Y	Y

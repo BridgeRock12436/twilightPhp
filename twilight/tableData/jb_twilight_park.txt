@@ -1,0 +1,3 @@
+col_type	date_added	line_no	col	description	type	record_key	rowid
+main	2008-05-04 14:32:06	1	2	OWL	IMG	1	1
+body	2008-05-10 11:01:37	1	1	FLAG	IMG	2	2

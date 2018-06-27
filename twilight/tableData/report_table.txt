@@ -1,0 +1,100 @@
+report_name	table_name	field_name	report_label	xpos	ypos	field_pos	display_length	field_type	query_display	upper_lower	LABEL_FOREGROUND_COLOR	LABEL_BACKGROUND_COLOR	TEXT_BACKGROUND_COLOR	TEXT_FOREGROUND_COLOR	LABEL_FONT	LABEL_FONT_SIZE	TEXT_FONT	TEXT_FONT_SIZE	READONLY
+change_password	CHANGE	users		415	230	5	15	Q	N		black	grey	white	blue	Times	12	Serif	12	N
+change_password	LABEL	Enter   New	 Enter	290	145	2	10	L	N		black	grey	white	blue	Times	12	Serif	12	N
+change_password	LABEL	Re-Enter   New	 RE-ENTER	270	170	2	10	L	N		black	grey	white	blue	Times	12	Serif	12	N
+CHANGE_PASSWORD	TITLE	TITLE		355	15	99	30	T	Y		red	grey	whilte	blue	Times	16	Serif	6	Y
+change_password	users	passwd		350	95	2	20	F	N	N	black	grey	white	blue	Times	12	Serif	12	N
+change_password	users	passwd1	PassWord	350	140	2	20	N	N		black	grey	white	blue	Times	12	Serif	12	N
+change_password	users	passwd2	PassWord	350	165	2	20	N	N		black	grey	white	blue	Times	12	Serif	12	N
+change_password	users	userid		350	70	1	30	F	N	N	black	grey	white	blue	Times	12	Serif	12	N
+cottage	CLEAR	cottage		360	200	18	15	C	Y		black	grey	whilte	blue	Times	12	Serif	6	N
+cottage	cottage	addr		20	140	1	100	F	N	UL	black	grey	whilte	blue	Times	12	Times	12	N
+cottage	cottage	Cottage Photo		600	140	99	10	P	Y		black	grey	whilte	blue	Times	12	Serif	6	N
+cottage	cottage	name		20	110	2	30	F	Y	UL	black	grey	whilte	blue	Times	12	Times	12	N
+cottage	cottage	phone		350	110	3	14	F	Y	N	black	grey	whilte	blue	Times	12	Times	12	N
+cottage	HELP_COMMENT	HELP_COMMENT	Please enter a value in any field and click SUBMIT, % can be used as a wildcard	190	235	99	10	L	N		red	grey	whilte	blue	Times	17	Times	12	N
+cottage	HELP_COMMENT1	HELP_COMMENT1		60	260	99	10	L	N		red	grey	whilte	blue	Times	17	Times	12	N
+cottage	HELP_COMMENT2	HELP_COMMENT2		190	265	99	10	L	N		red	grey	whilte	blue	Times	17	Times	12	N
+cottage	HELP_COMMENT3	HELP_COMMENT3		190	295	99	10	L	N		red	grey	whilte	blue	Times	17	Times	12	N
+cottage	LABEL	COTTAGE	COTTAGE	20	20	99	6	L	Y		black	grey	whilte	blue	Times	12	Times	12	N
+cottage	LINE4	LINE4		20	170	99	100	I	Y		black	grey	whilte	blue	Times	12	Serif	6	N
+cottage	QUERY	cottage		430	200	18	15	Q	N		black	grey	whilte	blue	Times	12	Times	12	N
+COTTAGE	TITLE	TITLE		355	15	99	30	T	Y		red	grey	whilte	blue	Times	16	Serif	6	Y
+cottage	twilight_member	last_name	Last Name	20	50	0	90	N	Y		black	grey	whilte	blue	Times	12	Times	12	Y
+error	INSERT	users		200	300	18	15	Q	N		black	grey	white	blue	Times	12	Serif	12	N
+forgot_password	forget	forget	Enter your User ID and your password will be emailed to you	20	60	5	15	L	N		red	grey	whilte	blue	Times	13	Serif	12	N
+forgot_password	FORGOT	users		425	150	5	15	Q	N		black	grey	white	blue	Times	12	Serif	12	N
+FORGOT_PASSWORD	TITLE	TITLE		355	15	99	30	T	Y		red	grey	whilte	blue	Times	16	Serif	6	Y
+forgot_password	users	userid		20	80	1	30	F	N	N	black	grey	white	blue	Times	12	Serif	12	N
+logon	INSERT	users		600	450	18	15	Q	N		black	grey	white	blue	Times	12	Serif	12	N
+logon	users	passwd		570	420	1	10	F	N	N	black	grey	white	blue	Courier	14	Courier New	14	N
+logon	users	userid		590	390	0	10	F	N	N	black	grey	white	blue	Courier	14	Courier New	14	N
+main	INSERT	users		10	300	18	15	Q	N		black	grey	white	blue	Times	12	Serif	12	N
+main	users	passwd		20	230	6	10	F	N	N	black	grey	white	blue	Times	12	Serif	12	N
+main	users	userid		20	200	7	15	F	N	N	black	grey	white	blue	Times	12	Serif	12	N
+main_house	CLEAR	main_house		360	210	18	15	C	Y		black	grey	whilte	blue	Times	12	Serif	6	N
+main_house	HELP_COMMENT	HELP_COMMENT	Please enter a value in any field and click SUBMIT, % can be used as a wildcard	190	245	99	10	L	N		red	grey	whilte	blue	Times	17	Times	12	N
+main_house	HELP_COMMENT1	HELP_COMMENT1		90	270	99	10	L	N		red	grey	whilte	blue	Times	17	Times	12	N
+main_house	HELP_COMMENT2	HELP_COMMENT2		190	325	99	10	L	N		red	grey	whilte	blue	Times	17	Times	12	N
+main_house	HELP_COMMENT3	HELP_COMMENT3		190	365	99	10	L	N		red	grey	whilte	blue	Times	17	Times	12	N
+main_house	LABEL	WINTER HOME	WINTER HOME	20	20	99	6	L	Y		black	grey	whilte	blue	Times	12	Times	12	N
+main_house	LINE5	LINE5		20	180	99	100	I	Y		black	grey	whilte	blue	Times	12	Serif	6	N
+main_house	main_house	addr1		20	90	1	35	F	Y	UL	black	grey	whilte	blue	Times	12	Times	12	N
+main_house	main_house	addr2		350	90	2	35	F	N	UL	black	grey	whilte	blue	Times	12	Times	12	N
+main_house	main_house	alt_phone_number		275	150	8	14	F	N	N	black	grey	whilte	blue	Times	12	Times	12	N
+main_house	main_house	city		20	120	3	30	F	Y	UL	black	grey	whilte	blue	Times	12	Times	12	N
+main_house	main_house	country		500	120	6	10	F	N	U	black	grey	whilte	blue	Times	12	Times	12	N
+main_house	main_house	phone_number		20	150	7	14	F	Y	N	black	grey	whilte	blue	Times	12	Times	12	N
+main_house	main_house	state		275	120	4	2	F	N	U	black	grey	whilte	blue	Times	12	Times	12	N
+main_house	main_house	zip		370	120	5	11	F	N	N	black	grey	whilte	blue	Times	12	Times	12	N
+main_house	QUERY	main_house		430	210	99	15	Q	N		black	grey	whilte	blue	Times	12	Times	12	N
+main_house	TITLE	TITLE		335	15	99	30	T	Y		red	grey	whilte	blue	Times	16	Serif	6	Y
+main_house	twilight_member	last_name	Last Name	20	50	0	40	N	Y		black	grey	whilte	blue	Times	12	Times	12	Y
+register	REGISTER	HELP1	Please fill in all information requested	20	50	5	15	L	N		red		white	blue	Times	15	Serif	15	N
+register	REGISTER	HELP2	(Create your own User Id, up to 20 characters in length)	20	150	5	15	L	N		red		white	blue	Times	15	Serif	15	N
+register	REGISTER	users		355	200	5	15	Q	N		black	grey	white	blue	Times	12	Serif	12	N
+register	TITLE	TITLE		355	15	99	30	T	Y		red	grey	whilte	blue	Times	16	Serif	6	Y
+register	twilight_member	cell_phone	Contact Number 	510	70	3	14	F	N	N	black		whilte	blue	Times	14	Times	12	N
+register	twilight_member	email_address		20	100	4	60	F	Y	N	black		whilte	blue	Times	14	Times	12	N
+register	twilight_member	first_name		20	70	0	25	F	Y	UL	black		whilte	blue	times	14	Times	12	N
+register	twilight_member	last_name		250	70	1	30	F	Y	UL	black		whilte	blue	Times	14	Times	12	N
+register	users	userid		20	170	1	30	F	N	N	black		white	blue	Times	14	Serif	12	N
+twilight_member	CLEAR	twilight_member		360	380	18	15	C	N		black	grey	white	blue	Times	12	Serif	12	N
+twilight_member	cottage	addr		20	185	7	100	F	N	UL	black	grey	whilte	blue	Times	12	Times	12	Y
+twilight_member	cottage	name		20	155	6	30	F	N	UL	black	grey	whilte	blue	Times	12	Times	12	Y
+twilight_member	cottage	phone		350	155	2	14	F	Y	N	black	grey	whilte	blue	Times	12	Times	12	Y
+twilight_member	HELP_COMMENT	HELP_COMMENT	Please enter a value in any field and click SUBMIT, % can be used as a wildcard	150	410	99	10	L	N		red	grey	whilte	blue	Times	17	Times	12	N
+twilight_member	HELP_COMMENT1	HELP_COMMENT1		25	428	99	10	L	N		red	grey	whilte	blue	Times	17	Times	12	N
+twilight_member	HELP_COMMENT2	HELP_COMMENT2		25	447	99	10	L	N		red	grey	whilte	blue	Times	17	Times	12	N
+twilight_member	HELP_COMMENT3	HELP_COMMENT3		25	467	99	10	L	N		red	grey	whilte	blue	Times	17	Times	12	N
+twilight_member	LABEL	COMMUNITY MEMBER	COMMUNITY MEMBER	20	10	99	6	L	N		black	grey	whilte	blue	times	12	times	12	N
+twilight_member	LABEL2	WINTER HOME	WINTER HOME	20	240	99	6	L	N		black	grey	whilte	blue	Times	12	Times	12	N
+twilight_member	LABEL3	COTTAGE	COTTAGE	20	125	99	10	L	N		black	grey	whilte	blue	Times	12	Times	12	N
+twilight_member	LINE	LINE		20	100	99	100	I	N		black	grey	whilte	blue	Times	12	Times	12	N
+twilight_member	LINE2	LINE2		20	215	99	100	I	N		black	grey	whilte	blue	Times	12	Times	12	N
+twilight_member	LINE3	LINE3		20	360	99	100	I	N		black	grey	whilte	blue	Times	12	Times	12	N
+twilight_member	main_house	addr1		20	270	9	35	F	N	UL	black	grey	whilte	blue	Times	12	Times	12	Y
+twilight_member	main_house	addr2		350	270	10	35	F	N	UL	black	grey	whilte	blue	Times	12	Times	12	Y
+twilight_member	main_house	alt_phone_number		250	330	17	14	F	N	N	black	grey	whilte	blue	Times	12	Times	12	Y
+twilight_member	main_house	city		20	300	11	30	F	N	UL	black	grey	grey	blue	Times	12	Times	12	Y
+twilight_member	main_house	country		500	300	13	10	F	N	U	black	grey	whilte	blue	Times	12	Times	12	Y
+twilight_member	main_house	phone_number		20	330	15	14	F	N	N	black	grey	whilte	blue	Times	12	Times	12	Y
+twilight_member	main_house	state		275	300	12	2	F	N	U	black	grey	whilte	blue	Times	12	Times	12	Y
+twilight_member	main_house	zip		370	300	14	11	F	N	N	black	grey	whilte	blue	Times	12	Times	12	Y
+twilight_member	picture	Cottage Photo		600	190	99	10	P	Y		black	grey	whilte	blue	Times	12	Serif	6	Y
+twilight_member	QUERY	twilight_main_query		430	380	99	15	Q	N		black	grey	whilte	blue	Times	12	Times	12	N
+twilight_member	TITLE	TITLE		300	10	99	40	T	Y		red	grey	whilte	blue	Times	16	Serif	6	Y
+twilight_member	twilight_member	birthdate		580	70	5	8	F	N	N	black	grey	whilte	blue	Times	12	Times	12	N
+twilight_member	twilight_member	cell_phone		650	40	3	14	F	N	N	black	grey	whilte	blue	Times	12	Times	12	N
+twilight_member	twilight_member	email_address		20	70	4	47	F	Y	N	black	grey	whilte	blue	Times	12	Times	12	N
+twilight_member	twilight_member	first_name		20	40	0	20	F	Y	UL	black	grey	whilte	blue	times	12	Times	12	N
+twilight_member	twilight_member	last_name		250	40	1	30	F	Y	UL	black	grey	whilte	blue	Times	12	Times	12	Y
+twilight_member	twilight_member	suffix		530	40	1	3	F	Y	U	black	grey	whilte	blue	Times	12	Times	12	N
+twilight_member	twilight_member	work_phone		365	70	16	14	F	N	N	black	grey	whilte	blue	Times	12	Times	12	N
+user	INSERT	users		430	500	18	15	Q	N		black	grey	white	blue	Times	12	Serif	12	N
+user	LABEL	ADMIN		20	10	99	6	L	Y		black	grey	white	blue	Times	12	Serif	12	N
+user	LINE	LINE		20	100	99	100	I	N		black	grey	white	blue	Times	12	Serif	12	N
+user	users	admin		500	40	2	14	F	N	U	black	grey	white	blue	Times	12	Serif	12	N
+user	users	family_number		20	40	2	14	F	N	N	black	grey	white	blue	Times	12	Serif	12	N
+user	users	passwd		500	20	6	30	F	N	N	black	grey	white	blue	Times	12	Serif	12	N
+user	users	userid		20	20	7	32	F	N	N	black	grey	white	blue	Times	12	Serif	12	N

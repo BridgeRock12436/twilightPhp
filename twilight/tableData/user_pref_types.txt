@@ -1,0 +1,21 @@
+pref_type	pref_value	pref_desc	sortKey	rowid
+CALENDAR_CATAGORY	All Angels	All Angels Calendar Category	0	1
+CALENDAR_CATAGORY	Art	Art Calendar Category	0	2
+CALENDAR_CATAGORY	Garden	Garden Calendar Category	0	3
+CALENDAR_CATAGORY	LingerNot Society	Linger Not Calendar Category	0	4
+CALENDAR_CATAGORY	Park	Park Calendar Category	0	5
+CALENDAR_CATAGORY	Ping Pong	Ping Pong Calendar Category	0	6
+CALENDAR_CATAGORY	Pool	Pool Calendar Category	0	7
+CALENDAR_CATAGORY	Tennis	Tennis Calendar Category	0	8
+CALENDAR_CATAGORY	Youth Activities	Youth Calendar Category	0	9
+EMAIL_LIST	YOUTH-ALL_INV	Youth Program All Involved	1	15
+EMAIL_LIST	YOUTH-GRAND-PAR	Youth Program Parents and Grandparents	1	16
+EMAIL_LIST	YOUTH-JUN-CON	Youth Program Junior Counselors	1	17
+EMAIL_LIST	YOUTH-SEN-CON	Youth Program Senior Counselors	1	18
+EMAIL_LIST	YOUTH-TRAN-CON	Youth Program Counselors in Training	1	19
+EMAIL_LIST	YOUTH-TEENS	Youth Program Teens	1	20
+EMAIL_LIST	YOUTH-ACT-COORD	Youth Program Activities Coordinators	1	21
+EMAIL_LIST	YOUTH-DIR-HEAD-CON	Youth Program Director and Head Counselors	1	22
+EMAIL_LIST	EMAIL-ALL	Email All	1	23
+EMAIL_LIST	MEMBER-FAMILY	MEMBERS AND FAMILY	1	24
+EMAIL_LIST	COTTAGERS	Cottagers	1	25

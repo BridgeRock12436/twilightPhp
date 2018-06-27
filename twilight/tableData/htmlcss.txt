@@ -1,0 +1,2 @@
+page_name	type	classname	typeA	browser	userid	attribute	value
+query_table	body					background-color	#c0c0c0

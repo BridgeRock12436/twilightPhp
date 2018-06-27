@@ -1,0 +1,9 @@
+Name	displayName	filePrefix	seqNo	rowid
+Email-All	Every One	EmailAll	1395	1
+Youth-Parents	Youth Program Parents	YouthParents	0	2
+Youth-GrandParents	Youth Program GrandParents	YouthGrandParents	0	3
+Youth-Teens	Youth Program Teens	YouthTeens	0	4
+Youth-SC	Youth Program Senior Counselors	YouthSC	89	5
+Youth-JC	Youth Program Junior Counselors	YouthJC	0	6
+Youth-AllC	Youth Program All Counselors	YouthAllC	729	7
+Cottagers	Cottagers	Cottagers	1385	8

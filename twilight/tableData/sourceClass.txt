@@ -1,0 +1,6 @@
+page	type	className	name	value	rowid
+news	body		background-color	orange	1
+news	img	Owl	height	160	2
+news	img	Owl	width	90	3
+news	a	default	outline-color	black	4
+news	p	default	font-size	20	5

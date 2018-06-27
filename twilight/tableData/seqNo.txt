@@ -1,0 +1,3 @@
+seqName	seqNo	rowid
+EVENT_ID	312	1
+EMAIL	1395	2

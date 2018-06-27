@@ -1,0 +1,1031 @@
+family_number	family_generation	family_type	root	first_name	last_name	suffix	main_house_number	cottage_number	email_address	subscribe	birthdate	work_phone	cell_phone	blood_relative	park_relation	park_relation_2	wj_rpt
+1	00	h	r	John	Ainsworth		1	32	jrainsworth@optonline.net	Y	1945-09-20	9739811236	9739811236		M		MC
+1	00	w	-	Joanne	Ainsworth		1	32	jlainsworth@optimum.net	Y	1946-10-30		9737383450		M		MC
+1	0001	h	-	Peter	Ainsworth		125	32	pja@mbbf.com	Y	1971-03-01	6175238300	7815409408	y	FA		MC
+1	0001	w	-	Treseanne	Ainsworth		125	32		Y	1971-07-12	6175528485	7815409647		FA		MC
+1	000101	x	-	Lauren	Ainsworth		125	32		Y	1992-01-29		7815409859		FA		MC
+1	000102	x	-	Julia	Ainsworth		125	32		Y	1995-05-21				FA		MC
+1	0002	h	-	Jason	Marine		124	32		Y	0000-04-04				FA		MC
+1	0002	w	-	Megan	Marine		124	32	megainsworth@yahoo.com	Y	0000-08-08			y	FA		MC
+1	000201	x		Katherine Ann	Marine		124	32		Y	2005-08-22				FA		MC
+1	000202	x	-	Sarah	Marine		124	32		Y	2007-06-05				FA		MC
+1	000203	x		Mary Eva	Marine		124	32		Y	2010-06-17				FA		MC
+1	0003	h	-	Rob	Ainsworth		126	32	trebor78@gmail.com	Y	1978-02-11			y	FA		MC
+1	0003	w	-	Lauren	Ainsworth		126	32	lainsworth1@gmail.com	Y					FA		MC
+1	000301	x		Lucey Graham	Ainsworth		126	32		Y	2010-01-12				FA		MC
+1	000302	x		Maren Jane	Ainsworth		126	32		Y	2012-07-02				FA		MC
+10	00	h	r	Joe	Butt		11	24	josephbutt@me.com	Y	1946-04-29		6175102589		M		MC
+10	00	w	-	Dianne	Butt		11	24	dianne.e.butt@gmail.com	Y	0000-12-22		6177844442		M		MC
+10	0001	h	-	Sam	Butt		271	24	samuel_butt@yahoo.com	Y	1979-06-27		9178388879		FA		MC
+10	0001	w		Leila	el-Azem		271	24	leila.elazem@gmail.com	Y	0000-08-19				FA		MC
+10	000101	x		James Henry	Butt		271	24		Y	2013-04-01			y	FA		MC
+10	000102	x		Thomas Joseph	Butt		271	24		Y	2014-11-18			y	FA		MC
+100	00	h	r	Colin	Mack		420	0	macksails@yahoo.com	Y	0000-10-23	7722832306	7722604912		FR		
+1000	00	h	r	Peter	Barker		382	1000	barkerpr@gmail.com	N			6464139500		FR		
+1000	00	w		Beth	Barker		382	1000	ebh-art@mindspring.com	N			6463196038		FR		
+1000	0001	x		Robbie	Barker	 	382	1000	barkerr@avonoldfarms.com	N			6464139501		FR		
+1001	00	h	r	Mark	Reibel		383	1001		N					FR		
+1001	00	w		Carolyn	Reibel		383	1001	carolyn_reibel@hotmail.com	N					FR		
+1002	00	h	r	David	Magdol		384	1002	dmagdol@MainStCapital.com 	N					FR		
+1002	00	w		Danielle	Magdol		384	1002	danimagdol@yahoo.com	N					FR		
+1003	00	h	r	Terence	Martin		387	1003		N					FR		
+1003	00	w		Ellen	Martin		387	1003	ellenwm@optonline.net	N					FR		
+1003	0001	x		Benjamin	Martin	 	387	1003		N					FR		
+1003	0002	x		Oliver	Martin	 	387	1003	15owm@suffieldacademy.org	N					FR		
+1003	0003	x		Louisa	Martin		387	1003		N					FR		
+1004	00	h	r	Eli	Smith		388	1004	eli.smith@gmail.com	N					FR		
+1004	00	w		Leslie	Smith		388	1004		N					FR		
+1004	0001	x		Woods	Smith		388	1004		N					FR		
+1005	00	h	r	Rob	Constable		389	1005	rconstable3@yahoo.com	N					FR		
+1005	00	w		Rob	Constable		389	1005		N					FR		
+1005	0001	x		Rob	Constable		389	1005		N					FR		
+1006	00	w	r	Sherry	Clark		390	1006	onteoraclub@hvc.rr.com	N		5185895190			FR		
+1007	00	h	r	Piers	Playfair	 	391	1007	pplayfair@bpwllc.com	N					FR		
+1007	00	w		Lucy	Playfair	 	391	1007	lucykeefer@yahoo.com	N					FR		
+1007	0001	x		Scarlett	Playfair		391	1007		N					FR		
+1007	0002	x		Georgina	Playfair		391	1007		N					FR		
+1007	0003	x		Primrose	Playfair		391	1007		N					FR		
+1008	00	h	r	Peter	Kaplan	 	392	1008	pkaplan181@mac.com	N					FR		
+1008	00	w		Carol	Kaplan	 	392	1008	kaplancarol@mac.com	N					FR		
+1009	00	h	r	Michael	Masters	 	393	1009	mjmasters@optonline.net	N					FR		
+1009	00	w		Jenny	Masters	 	393	1009	jennymasters@verizon.net	N					FR		
+1009	0001	x		Teddy	Masters		393	1009		N					FR		
+101	00	h	r	Nicholas	Lemann		53	38	lemann@att.net	Y	0000-01-01	2128545192	9142993100		M		MC
+101	00	w	-	Judith	Shulevitz		53	38	judithshul@me.com	Y	0000-01-01	9142995111	9142995111		M		MC
+101	0001	x		Alex	Lemann		53	38		Y	1984-09-06				FA		MC
+101	0002	x		Theo	Lemann		53	38		Y	1988-12-04				FA		MC
+101	0003	x		Moses	Lemann		53	38		Y	2002-05-20				FA		MC
+101	0004	x		Josephine	Lemann		53	38		Y	2003-11-07				FA		MC
+1010	00	h	r	Ernest	Hunt	 	394	1010	eehiv@mindspring.com	N					FR		
+1010	00	w		Holly	Hunt	 	394	1010	hollyhunt@mindspring.com	N					FR		
+1010	0001	x		Caroline	Hunt		394	1010		N					FR		
+1010	0002	x		Louisa	Hunt		394	1010		N					FR		
+1011	00	h	r	Brooks	Clark	 	395	1011	brookssclark@gmail.com	N					FR		
+1011	00	w		Katherine	Clark	 	395	1011	kate@yottoy.com	N					FR		
+1011	0001	x		Grace	Clark		395	1011		N					FR		
+1011	0002	x		Annabelle	Clark		395	1011		N					FR		
+1012	00	h	r	Charles	Rose	 	396	1012	charlestannerrose@gmail.com	N					FR		
+1012	00	w		Nicki	Rose	 	396	1012	nickihillrose@gmail.com	N					FR		
+1012	00	x		Eleanor	Rose		396	1012		N					FR		
+1013	00	h	r	Jonathan	Struthers	 	397	1013	jonathan.struthers@ccworldwide.com	N					FR		
+1013	00	w		Mary	Recine	 	397	1013	maryrecine@mac.com	N					FR		
+1013	0001	x		Anna	Struthers		397	1013		N					FR		
+1013	0002	x		Elise	Struthers		397	1013		N					FR		
+1014	00	h	r	David	Cooper	 	398	1014	cooperdel@gmail.com	N					FR		
+1014	00	w		Stephanie	Cooper	 	398	1014	coopersfc@gmail.com	N					FR		
+1014	0001	x		Camilla	Cooper		398	1014		N					FR		
+1014	0002	x		Cecilia	Cooper		398	1014		N					FR		
+1015	00	w	r	Beth	Stephens	 	399	1015	bethstephens125@gmail.com	N					FR		
+1016	00	w	r	Patrick	Gibbons	 	400	1016	pgsports@gmail.com	N					FR		
+1016	0001	x		Aidan	Gibbons	 	400	1016		N					FR		
+1017	00	w	r	Mary B	Gaillard	 	401	1017	mary.gaillard@chartisinsurance.com	N					FR		
+1018	00	h	r	James	Sansevero	 	402	1018	jamessansevero@gmail.com	N					FR		
+1018	00	w		Anne	Sansevero	 	402	0	asansevero@nyc.rr.com	N					FR		
+1019	00	w	r	Gabriella	Mehta	 	403	1019	gdufwa@gmail.com	N					FR		
+102	00	h	r	Nathan	Hommel		367	0	twilightc1@aol.com	Y	0000-01-01	5185896483			FR		MC
+102	0001	x		Zachary	Hommel	 	367	0	zacharyhommel@yahoo.com	Y					FA		
+1020	00	w	r	Isabella	Stolarz	 	404	1020	Izabella.Stolarz@jpmorgan.com	N					FR		
+1021	00	w	r	Karyn	Gooden	 	405	1021	karyn.gooden@gmail.com	N					FR		
+1022	00	w	r	Helen	Lozier	 	406	1022	lozier.h@gmail.com	N					FR		
+1023	00	w	r	Heather	Althoff	 	407	1023		N			6465229552		FR		
+1024	00	w	r	Jen	Lobo	 	408	1024	jenlobo68@aol.com	N					FR		
+1025	00	w	r	Nancy	Nicholson		407	1025	nlmnicholson@aol.com	Y	0000-09-16				FR		
+1027	00	h	r	Jim	Nihan		427	0	jnihan@msn.com	Y					FR		
+1027	00	w		Margaret	Nihan		427	0		Y					FR		
+1028	00	h	r	Jay	Barnes		428	87	jjbarnes2@gmail.com	Y					FR	T	
+1028	00	w		Veronica	Barnes		428	87	vipbarnes@outlook.com	Y					FR	T	
+1029	00	w	r	Andrea	Zieher		429	0	andrea@ziehersmith.com	Y					FR	T	
+103	00	h	r	Ken	Swanson		244	0	swanson510@gmail.com	Y	0000-05-10	6152557729			FR		
+1030	00	h	r	Clay	Miller		432	65	dclaymiller@gmail.com	Y	1965-04-18	7185967984	3472443923		M		MC
+1030	00	w		Caroline	Marshall		432	65	c-marshall2020@hotmail.com	Y					M		MC
+1031	00	w	r	Cyndy	Stevens		433	30	cyndy.ntz@gmail.com	Y					M		MC
+1031	0001	w		Katy	Bailey		434	30	katybailey@gmail.com	Y				y	M		MC
+1031	0002	h		Paul	Prenderville		435	30		Y					FA		MC
+1031	0002	w		Lindsey	Prenderville		435	30	prendy257@gmail.com	Y				y	FA		MC
+1031	000201	x		Eli	Prenderville		435	30		Y				y	FA		MC
+1031	000202	x		Henry	Prenderville		435	30		Y				y	FA		MC
+1031	000203	x		Erin	Prenderville		435	30		Y				y	FA		MC
+104	00	h	r	Jerry	Vincent		222	18		Y	0000-04-01				FA		
+104	00	w	-	Anne	Vincent		222	18		Y	0000-03-29			y	FA		
+104	0001	h	-	Jimmy	Vincent		368	18		Y	0000-06-06				FA		
+104	0002	h	-	Andy	Vincent		369	18		Y	0000-10-27			y	FA		
+104	0002	w	-	Carol	Vincent		369	18		Y	0000-09-11				FA		
+104	000201	x	-	Alexandra	Vincent		369	18		Y	1994-09-12				FA		
+104	000202	x	-	Christine	Vincent		369	18		Y	1996-07-23				FA		
+104	0003	h	-	Rob	Vincent		370	18		Y	0000-08-21			y	FA		
+104	0003	w	-	Ava	Vincent		370	18		Y	0000-11-04				FA		
+104	000301	x	-	Christopher	Vincent		370	18		Y	1998-08-01				FA		
+105	00	h	r	Jeffrey	Joslin		436	64	jeffrey@joslins.net	Y			6462458800		M		MC
+105	00	w		Rebecca	Skinner		436	64	rebeccaskinner2018@gmail.com	Y			6462458801		M		MC
+105	0001	x		Annabelle	Joslin		436	64		Y				y	FA		MC
+105	0002	x		Oliver	Joslin		436	64		Y				y	FA		MC
+106	00	w	r	Amy	Flynn		437	0	aflynn@tayganpoint.com	Y	0000-02-26		6179574323		FR		
+107	00	h	r	Ted	Dimon		438	77	theodoredimon@msn.com	Y					M		MC
+107	00	w		Tamara	Dimon		438	77		Y					M		MC
+11	00	h	r	John	Campbell		12	94	john1941d@gmail.com	Y	0000-05-05	9739987795			M		MC
+11	00	w	-	Jean	Campbell		12	94	jbwalker0116@gmail.com	Y	0000-01-16		9178341388		M		MC
+11	0001	h	-	Tim	Casey		138	94		Y	0000-01-01				FA		MC
+11	0001	w	-	Laura	Casey		138	94	laura@lauracaseyinteriors.com	Y	1977-01-06		9175759472	y	FA		MC
+11	000101	x		Jackson	Casey		138	94		Y	2005-12-22				FA		MC
+11	000102	x	-	Coleman	Casey		138	94		Y	2007-09-14				FA		MC
+11	0002	h	-	Jeffrey	Pribyl		136	94		Y					FA		MC
+11	0002	w	-	Sarah	Pribyl		136	94	scpribyl@gmail.com	Y	1980-08-15		6468089967	y	FA		MC
+11	000201			Charles Jeffrey	Pribyl		136	94		Y	2012-11-10			y	FA		MC
+12	00	h	r	Charles	Cook		14	22	cdcookesq@gmail.com	Y	0000-04-05	8604358024			M		MC
+12	0001	h	-	Ian Ainsworth	Cook	MD	272	22		Y	0000-05-01			y	FA		MC
+12	0001	w	-	Hallie	Cook		272	22		Y	0000-10-07				FA		MC
+12	000101	x	-	Natalie	Cook		272	22		Y	2003-03-26				FA		MC
+12	000102	x	-	Abagail	Cook		272	22		Y	2006-11-28				FA		MC
+12	0002	h	-	Bill	Perkins		273	22		Y	0000-10-11				FA		MC
+12	0002	w	-	Kendra	Cook		273	22		Y	0000-07-02			y	FA		MC
+12	0003	h	-	John	Reeve		206	22		Y	0000-03-20				FA		MC
+12	0003	w	-	Barb	Christen Reeve		206	22	bx10@grapevine.net.au	Y	0000-04-22			y	FA		MC
+12	000301	x	-	Edward	Reeve		206	22		Y	1990-07-07				FA		MC
+12	0004	h	-	Scott	Park		196	22	scottpark@spstudios.com	Y	0000-03-09				FA		MC
+12	0004	w	-	Suzanne	Christen		196	22	schrist@ias.edu	Y	0000-01-11			y	FA		MC
+12	000401	x	-	Alexander	Park		196	22		Y	2000-07-25				FA		MC
+12	0005	h	-	Peter	Leimgruber		139	22	leimgruberp@gmail.com	Y	1965-01-27	5406356589	5406313517		FA		MC
+12	0005	w	-	Kate	Christen		139	22	kate.christen@gmail.com	Y	0000-04-23	5406350040		y	FA		MC
+12	000501	x	-	Nikolas	Christen		139	22		Y	2003-09-25				FA		MC
+14	00	h	r	David	Cobb		16	49	dmc12436@gmail.com	Y	0000-04-09				M		
+14	00	w	-	Joan	Cobb		16	49	jrcobb@me.com	Y	0000-07-13				M		MC
+14	0001	h	-	McCrea	Cobb		274	49	mccrea.cobb@gmail.com	Y	1977-04-02			y	FA		MC
+14	0001	w		Michelle	Cobb		274	49		Y					FA		MC
+14	000101	x		Sadie Lebeau	Cobb		274	49		Y	2012-06-12				FA		MC
+14	000102	x		Holden LeBeau	Cobb		274	49		Y	2013-11-19						
+15	00	w	r	Ann Kindred	Collins		17	89	collinsannk@gmail.com	Y	0000-10-04				M		MC
+15	0001	h	-	Bill	Collins		275	89		Y	0000-03-23			y	FA		MC
+15	0001	w	-	Heather	Collins		275	89		Y	0000-01-09				FA		MC
+15	000101	x	-	Virginia	Collins		275	89		Y	1999-06-01				FA		MC
+15	000102	x	-	Charlie	Collins		275	89		Y	2001-04-20				FA		MC
+15	000103	x		Cassie	Collins		275	89		Y	2004-01-21				FA		MC
+15	0002	h	-	Chris	Collins		276	89		Y	0000-03-23			y	FA		MC
+15	0002	w		Deborah	Kirby		276	89		Y					FA		MC
+15	0003	h	-	Chris	Ferguson		277	89		Y	0000-12-21				FA		MC
+15	0003	w	-	Pam	Ferguson		277	89	Ferguson@nielson.com	Y	0000-07-10			y	FA		MC
+15	000301	x	-	Cady	Ferguson		277	89		Y	2004-04-06				FA		MC
+15	000302	x		Jack	Ferguson		277	89		Y	2001-07-24				FA		MC
+15	000303	x	-	Lindsay	Ferguson		277	89		Y	2008-01-26				FA		MC
+16	00	h	r	The Cummings Cottage	Cummings		411	42		Y					M		MC
+16	0001	h	r	Bob	Post		260	42	rpost10830@aol.com	Y	0000-10-07				M		MC
+16	0001	w	-	Sarah 	Post		260	42	spost123@aol.com	Y	0000-07-25		4345254121	y	M		MC
+16	000101	h		Christopher	Henson		261	42	lspcwh@gmail.com	Y	0000-06-22				FA		MC
+16	000101	w		Laura	Henson		261	42	lspcwh@gmail.com	Y	0000-06-25		2483423039	y	FA		MC
+16	00010101	x		Emma	Henson		261	42	LSPCWH@gmail.com	Y	2003-08-04				FA		MC
+16	00010102	x		Sarah	Henson		261	42		Y	2005-06-22				FA		MC
+16	00010103	x		Carter	Henson		261	42		Y	2007-08-10						MC
+16	0002	h		Tom	Summers		278	42		Y	0000-04-30				FA		MC
+16	0002	w		Katie	Cummings		278	42	katom1984@comcast.net	Y	0000-02-12			y	FA		MC
+16	0003	h		Lenny	Mordarski		279	42		Y	0000-05-28				FA		MC
+16	0003	w		Christine	Cummings		279	42	cummingschris1978@gmail.com	Y	0000-10-24			y	FA		MC
+17	00	h	r	David	Cuthell		143	0	cathydavid@aol.com	N	0000-02-26	2124122449			FR		
+17	00	w	-	Cathy	Cuthell		143	0	cathydavid@aol.com	N	0000-12-14	2124775316			FR		
+17	0001	x	-	David	Cuthell		143	38		N	1988-08-07				FR		
+17	0002	x	-	Scott	Cuthell		143	38		N	1992-06-25				FR		
+17	0003	x	-	James	Cuthell		143	38		N	1992-06-25				FR		
+18	00	h	r	The Davies	Davies		280	0		Y	0000-00-00				FR		
+18	0001	h	r	David	Davies		144	0		Y	1947-01-15	8663756941		y	FR		
+18	0002	w	-	Nancy	Davies		145	0	nfd125@yahoo.com	Y	0000-12-05			y	FR		
+18	0003	h	-	David	Halliwell		158	0		Y	0000-05-01				FR		
+18	0003	w	-	Susan	Davies		158	0	spdbh@gwi.net	Y	1951-10-06		2076601323	y	FR		
+18	000301	x	-	Ben	Halliwell		158	0		Y	1991-04-13				FR		
+18	000302	x	-	Briana	Halliwell		158	0		Y	1993-09-21				FR		
+18	0004	h	-	Rusty	Young		227	0		Y	0000-07-23				FR		
+18	0004	w	-	Beth	Young		227	0		Y	0000-08-03			y	FR		
+18	000401	x	-	Christie	Young		227	0		Y	1980-05-14				FR		
+18	000402	x	-	David	Young		227	0		Y	1986-01-14				FR		
+18	000403	x	-	Caleb	Young		227	0		Y	1989-08-18				FR		
+18	000404	x	-	Morgan	Young		227	0		Y	2000-02-05				FR		
+19	00	h	r	Bruce	Dayton		20	23	bmd56@bmd56.cnc.net	Y	1934-01-24	7815721033	7815721033		M		MC
+19	00	w	-	Gracia	Dayton		20	23	graciadayton1956@gmail.com	Y	1934-09-16	7815721033			M		MC
+19	0001	h	-	David	Wilson		98	23	dbwilson82@gmail.com	Y	0000-12-02	6173484314	6179476207		M		MC
+19	0001	w	-	Heather	Wilson		98	23	hdwilson14@gmail.com	Y	0000-11-30		9788357060	y	M		MC
+19	000101	x	-	Tyler	Wilson		98	23		Y	1989-06-08		9786212345		FA		MC
+19	000102	x	-	Grace	Wilson		98	23	gracehwilson14@gmail.com	Y	1992-02-01		9786212812		FA		MC
+19	000103	x	-	Tommy	Wilson	 	98	23	tmwilson7@gmail.com	Y	1994-10-11		9786219187		FA		MC
+19	0002	h	r	Jon	Dayton		22	17	j_dayton@ml.com	Y	1960-11-14	4152882550	4155317124	y	M		MC
+19	0002	w	-	Hendy	Dayton		22	17	hendydayton@gmail.com	Y	0000-01-07		4155317139		M		MC
+19	000201	x	-	Tucker	Dayton	 	22	17	wtd1@williams.edu	Y	1991-08-06				FA		MC
+19	000202	x	-	Skyler	Dayton	 	22	17	sdayton15@gmail.com	Y	1993-05-01				FA		MC
+19	000203	x	-	Jackson	Dayton		22	17		Y	1994-11-02				FA		MC
+19	0003	h	-	Greg	Dayton		21	23	gdaytonguitar@yahoo.com	Y	1965-03-11	6467135706	6467135706	y	M		MC
+19	000301	x	-	Noa	Dayton		21	23		Y	1996-03-29				FA		MC
+2	00	w	r	Dorothy	Ault		2	0	ault.dorothy.24@gmail.com	N	0000-05-16				FR		
+2	0001	h	-	Jim	Ault		127	0	james.m.ault@gmail.com	Y	0000-04-04			y	FR		
+2	0001	w		Margaret	Keyser		127	0	margysk@aol.com	Y	0000-11-22				FR		
+2	000101	x	-	Henry	Ault		127	0		Y	1992-12-19				FR		
+2	0002	h	-	Will	Brinker		134	0		Y	0000-01-01				FR		
+2	0002	w	-	Beth	Ault Brinker		134	0		Y	0000-01-01			y	FR		
+2	000201	x	-	Zoe	Brinker		134	0		Y	1993-07-13				FR		
+2	000202	x	-	Noah	Brinker		134	0		Y	1994-03-31				FR		
+2	0003	w	-	Kathy	Ault		128	0		Y	0000-07-13	0000/07/13		y	FR		
+2	000301	x	-	Samuel	Feldman		128	0		Y	1990-04-06				FR		
+21	00	w	r	The 	Deckers		413	87		Y	0000-01-01				M		MC
+21	0001	h	-	Bill	Decker		147	87	bill@virtualbank.com	Y	0000-08-12			y	FA		MC
+21	0001	w	-	Kathy	Decker		147	87		Y	0000-02-08				FA		MC
+21	000101	x	-	Will	Decker		147	87		Y	1988-04-27				FA		MC
+21	000102	x	-	Kate	Decker		147	87		Y	1990-04-24				FA		MC
+21	0002	h	-	John	Decker		148	87	jhdecker@gmail.com	Y	1960-09-16	9166160110	9166160110	y	FA		MC
+21	0002	w	-	Kari	Decker		148	87	karidohn@aol.com	Y	1963-09-26	9162616908	9162616908		FA		MC
+21	000201	x	-	Harrison	Decker		148	87		Y	2009-11-17				FA		MC
+21	0003	h	-	Acey	Decker		146	87	aceydecker@gmail.com	Y	0000-02-19		7816352575	y	M		MC
+21	0003	w	-	Liza	Decker 		146	87	lizanorth@gmail.com	Y	0000-10-14		7816352576		M		MC
+21	000301	x	-	Douglas	Decker		146	87	wd9jkx@winlink.org	N	1995-08-05				FA		MC
+21	000302	x	-	Kiley	Decker		146	87		Y	1998-02-02				FA		MC
+21	000303	x	-	Ella	Decker		146	87		Y	2000-05-18				FA		MC
+23	00	h	r	Dorsey	Dunn		26	59	dcd1@mindspring.com	Y	0000-05-19		2022575516		M		MC
+23	00	w	-	Susan	Dunn		26	59	sedunn1@mindspring.com	Y	0000-12-24		2023294498		M		MC
+23	0001	h	-	Martin	Felsen		240	59	felsen@urbanlab.com	Y	0000-04-23		3126174268		FA		MC
+23	0001	w	-	Sarah	Dunn		240	59	dunn@urbanlab.com	Y	0000-07-16	7736501130	3126174596	y	FA		MC
+23	000101	x	-	Aubrey	Felsen		240	59		Y	2007-08-24			y	FA		MC
+23	0002	h	-	Dorsey	Dunn		239	59	dorsey@dorseydunn.com	Y	0000-03-12		4153369911	y	FA		MC
+23	0003	h	-	Daniel	Dunn		238	59		Y	0000-08-11		2526463891	y	FA		MC
+23	0003	w	-	Sarah	Rossiter		238	59		Y					FA		MC
+23	000301	x		Sasha Mirai	Dunn		238	59		Y	2010-06-20				FA		MC
+23	000302	x		Imogen Isla	Dunn		238	59		Y	2013-10-25			y		FA	
+24	00	h	r	Bob	Elder		27	95	robertelder@orelder.com	Y	0000-03-28				M		MC
+24	00	w	-	Jacquie	Elder		27	95	orelder@orelder.com	Y	0000-06-27				M		MC
+24	0001	h	-	Rob	Elder		372	95	rob.elder@gmail.com	Y	1979-07-23			y	FA		MC
+24	0001	w	-	Jeanne	Andresakes		372	95	jeannie.elder@gmail.com	Y					FA		MC
+24	000101	x		Miranda Fox	Elder		372	95		Y	2012-12-21				FA		MC
+24	0002	x	-	Mack	Elder		27	95	mack.elder@gmail.com	Y	1984-07-31			y	FA		MC
+25	00	w	r	Susan	Ferris		28	20	surris@earthlink.net	Y	0000-03-09				M		MC
+25	0001	w	-	Juliana	Ferris		281	20	jferris@hvc.rr.com	Y	1967-06-02	2123308627		y	FA		MC
+25	0002	h	-	Jeff	Ferris		282	20	jeffreybferris@gmail.com	Y	0000-03-20			y	FA		MC
+25	0002	w		Laurie	Ferris		282	20	birck75@yahoo.com	Y					FA		MC
+25	000201	x		Sally Ballentine	Ferris		282	20		Y	2011-06-07				FA		MC
+25	000202	x		Brewer MacAllen	Ferris		282	20		Y	2014-03-19				FA		MC
+25	0003	h	-	Than	Ferris		283	20	thanferris@yahoo.com	Y	1973-07-18		5185891087	y	FA		MC
+25	0003	w		Patricia	Ferris		283	20	conroypatricia@hotmail.com	Y					FA		MC
+25	000301	x		Annabelle	Ferris		283	20		Y	2012-08-14				FA		MC
+25	000302	x		Devon Rose	Ferris		283	20		Y	2013-11-15				FA		MC
+26	00	h	r	Emily	Fisher		29	10	ehf141@aol.com	Y	0001-01-00			Y	M		MC
+26	00	w	-	John	Alexander		29	10	ehf141@aol.com	Y	0000-01-01				M		MC
+26	0001	h	-	Britton	Fisher		152	10	bfisher226@aol.com	Y	0000-04-24			y	M		MC
+26	0001	w	-	Melina	Fisher		152	10	melinafisher@hotmail.com	Y	1975-05-02				M		MC
+26	0002	h	-	Greg	Murphy		284	10		Y					FA		MC
+26	0002	w	-	Kate	Fisher		284	10		Y	0000-09-09			y	FA		MC
+26	000201	x		Emily Catherine	Murphy		284	10		Y	2008-08-18				FA		MC
+26	0003	h	-	Alex	Fisher		151	10	alex@planetdog.com	N	0000-07-30			y	FA		MC
+26	0003	w	-	Jennifer	Fisher		151	10	jhfisher@maine.rr.com	N	0000-01-01				FA		MC
+27	00	h	r	Kenyon	Fitzgerald		31	66	kkbfjr@aol.com	Y	0000-03-09	2128093810			M		MC
+27	00	w	-	Fran	Fitzgerald		31	66	francesfitzgerald@hotmail.com	Y	0000-12-02	2033589200			M		MC
+27	0001	h	-	Steve	Geraghty		285	66		Y	0000-02-05				FA		MC
+27	0001	w	-	Irene	Geraghty		285	66		Y	0000-08-31			y	FA		MC
+27	000101	x	-	Hunter	Geraghty		285	66		Y	1993-10-28				FA		MC
+27	000102	x	-	Ryan Elizabeth	Geraghty		285	66		Y	1996-07-15				FA		MC
+27	0002	w	-	Lydia	Fitzgerald		286	66	lydiafitzgerald@msn.com	Y	0000-10-13			y	FA		MC
+27	0003	h	-	Nelson	North		287	66		Y	0000-09-09				FA		MC
+27	0003	w	-	Louise	North		287	66	4norths@gmail.com	Y	0000-10-13			y	FA		MC
+27	000301	x	-	Nelson	North		287	66		Y	1996-07-01				FA		MC
+27	000302	x	-	Kenyon	North		287	66	4norths@gmail.com	Y	2000-01-24				FA		MC
+29	00	h	r	John	Galatti		34	35	twilightParkRock@gmail.com	Y	1957-03-31	7187444303	7187444303	y	M		MC
+29	00	w	-	Nora	Monaco		34	35	nmonaco@twilightpark.com	Y	0000-06-22	7187444303	7185942642		M		MC
+29	0001	x	-	Christopher Aaron	Galatti		34	35	noramonaco@icloud.com	Y	2008-03-27	5185896543	7185942642	y	FA		MC
+29	0002	x	-	Dannielle Erin	Galatti		34	35	dannielle12436@gmail.com	Y	2008-03-27		7185942642	y	FA		MC
+30	00	h	r	Joseph	Gelmis		35	21	jgelmis@earthlink.net	Y	0000-09-28		3476289408		M		MC
+30	00	w	-	Deborah	Dobski	Ms.	35	21	ddobski@earthlink.net	Y	0000-05-09	7185221660			M		MC
+30	0001	x	-	Georgia	Gelmis		250	21	georgiagelmis@yahoo.com	Y	1980-04-18	7185221660	9175748662	y	FA		MC
+30	0002	x	-	Norma	Gelmis		35	21	normagelmis@earthlink.net	Y	1984-06-06			y	FA		MC
+31	00	h	r	Gren	Gooder		36	60	grengooder@bloomberg.net	Y	0000-01-01	2129350782			M		MC
+31	00	w	-	Sandy	Gooder		36	60	skgooder@gmail.com  	Y	0000-10-27	2124109690	9176015418		M		MC
+31	0001	h	-	James	Killough		288	60		Y	0000-07-21			y	FA		MC
+31	0001	w	-	Rohini	Killough		288	60		Y	0000-12-01				FA		MC
+31	000101	x	-	Agastya	Killough		288	60		Y	2001-04-12				FA		MC
+31	0002	h	-	Vishal	Dhar		289	60	Vishal@vishaldhar.org	Y	0000-09-16				FA		MC
+31	0002	w	-	Sarah	Killough Dhar		289	60	sarahkdhar@gmail.com	Y	0000-10-04			y	FA		MC
+31	000201	x	-	Savannah	Dhar		289	60		Y	2004-12-13				FA		MC
+31	000202	x		Uma Iris	Dhar		289	60		Y	2005-09-01				FA		MC
+31	0003	h	-	Hunt	Killough		290	60		Y	0000-05-02			y	FA		MC
+31	0003	w	-	Angela	Killough		290	60	angiekbraun@yahoo.com	Y	0000-05-24				FA		MC
+31	000301	x	-	Logan	Killough		290	60		Y	2007-07-10			y	FA		MC
+31	000302	x		Maya Tess	Killough		290	60		Y	2009-11-04				FA		MC
+31	0004	h		Grenville	Gooder		291	60		Y	0000-07-09			y	FA		MC
+31	0004	w		Lisa	Gooder		291	60		Y					FA		MC
+31	000401	x		Grenville MacDonald	Gooder		291	60		Y	2005-08-25				FA		MC
+31	000402	x		Georgia Thayer	Gooder		291	60		Y	2009-03-11				FA		MC
+31	0005	h		Grant	Gooder		292	60		Y	0000-12-22			y	FA		MC
+31	0005	w	-	Kimberly	Gooder		292	60		Y	0000-09-08				FA		MC
+31	000501	x	-	Tyler Dean	Gooder		292	60		Y	2002-06-04			y	FA		MC
+31	000502	x		James VanCortland	Gooder		292	60		Y	2008-02-28				FA		MC
+31	000503	x		Thayer Clark	Gooder		292	60		Y	2010-03-13				FA		MC
+32	00	h	r	John	Gordon		37	75	jrg07@aol.com	Y	0000-04-02				M		MC
+32	00	w	-	Alice	Gordon		37	75	abgdoxie@yahoo.com	Y	0000-04-07				M		MC
+32	0001	h	-	Jonathan	Fletcher		229	75	jonathan@jrfletcher.com	N	1973-05-23	5158655643	5158655643		FA		MC
+32	0001	w	-	Amanda	Fletcher		229	75	amanda.fletcher@gmail.com	Y	1974-08-14		5156644618	y	FA		MC
+32	000101	x	-	Elizabeth	Fletcher		229	75		Y	2006-09-28			y	FA		MC
+32	000102	x	-	Alexander	Fletcher		229	75		Y	2009-05-26			y	FA		MC
+32	0002	h	-	Nick	Gordon		293	75	gmandingo@hotmail.com	Y	1979-10-02		3476148175	y	FA		MC
+33	00	h	r	Scott	Graves		38	9	scott.graves@mac.com	Y	0000-01-01	2128337826	9176970807		M		MC
+33	00	w	-	Alyson	Morilla Graves		38	9	alysonmorilla@mac.com	Y	0000-03-31				M		MC
+33	0001	x	-	Clover	Graves		38	9		Y	2008-09-15				FA		MC
+33	0002	x	-	Marni Alice	Graves		38	9		Y	2010-02-12				FA		MC
+33	0003	x		Phoebe Mona	Graves		38	9		Y	2014-12-14				FA		MC
+34	00	w	r	Annette	Hall		39	0	awwhall@aol.com	Y	0000-07-05	2124241830	9173596165		FR		
+34	0001	x	-	Watson	Hall		39	0		Y	1984-09-19				FR		
+34	0002	x	-	Wesley	Hall		39	0		Y	1986-08-04				FR		
+35	00	w	r	Anne	Handte		40	67	Anne22.Handte@gmail.com	Y	1955-06-26		5188622202		M		MC
+36	00	h	r	Malcolm	Handte		41	54	malcolm_handte@hotmail.com	Y	1953-03-16	9172876783	9172876783		M		MC
+36	00	w	-	Janis	Handte		41	54	jphandte@gmail.com	Y	0000-05-21	2123093910	9175974967		M		MC
+36	0001	x	-	Felix	Handte	 	41	54	felixhandte@gmail.com	Y	1993-02-22	9176013247	3477562460		FA		MC
+36	0002	x	-	Emma	Handte	 	41	54	emma_handte@hotmail.com	Y	1994-05-19	9176013247	3477562459		FA		MC
+37	00	h	r	Warren	Hay		42	30		Y	0000-00-00				FR		MC
+38	00	w	r	JoAnn	Hersey		161	55		Y	0000-01-22				FA		MC
+38	0001	h	-	John	Fouhy		154	55		Y	0000-07-10				FA	49	MC
+38	0001	w	-	Chris	Fouhy		154	55	fouhy@earthlink.net	Y	0000-08-14			y	FA	49	MC
+38	000101	x	-	Devin	Fouhy		154	55		Y	1990-07-02				FA	49	MC
+38	000102	h	-	Kyle	Fouhy		414	55		Y	1993-05-15			y	FA	49	MC
+38	000102	w		Brooke	Fouhy		414	55		Y					FA		MC
+38	00010201	x		Ava Christine	Fouhy		414	55		Y	2014-04-12			y	FA		MC
+38	0002	h	r	Bob	Hersey		43	55	roberthers@aol.com	Y	0000-01-14			y	M		MC
+38	0002	w	-	Kathy	Hersey		43	55	kathhersey@aol.com	Y	0000-06-05				M		MC
+38	000201	h	-	Robert	Hersey		415	55	rob.hersey@gmail.com	Y	1986-08-09			y	FA		MC
+38	000201	w		Christine	Hersey		415	55		Y					FA		MC
+38	000202	x	-	Austin	Hersey		43	55		Y	1990-06-22				FA		MC
+38	000203	x	-	Jonathan	Hersey		43	55		Y	1996-06-11				FA		MC
+38	0003	h	-	Tom	Hersey		162	55		Y	0000-02-07			y	FA		MC
+38	0003	w	-	Cindy	Hersey		162	55		Y	0000-09-29				FA		MC
+38	000301	x	-	Chandler	Hersey		162	55		Y	1996-02-23				FA		MC
+38	000302	x		Cooper	Hersey		162	55		Y	2005-05-23				FA		MC
+38	000303	x		Tucker	Hersey		162	55		Y	2005-05-23				FA		MC
+38	0004	h	-	Jack	Hersey		160	55		Y	0000-04-14			y	FA		MC
+38	0004	w	-	Jean	Gibbons		160	55		Y	0000-01-04				FA		MC
+38	000401	x	-	Sarah	Hersey		160	55		Y	1994-11-28				FA		MC
+38	000402	x	-	Grace	Hersey		160	55		Y	1998-01-27				FA		MC
+38	000403	x	-	Rose	Hersey		160	55		Y	1999-08-12				FA		MC
+40	00	h	r	George	Hirsch		44	90	georgehirsch1@gmail.com	Y	1934-06-21	6465969086	9177347515		M		MC
+40	0001	h	-	Ian	Scrivner		294	90		Y	1975-04-25			y	FA		MC
+40	0001	w		Cindy	Dinoi		294	90		Y					FA		MC
+40	000101	x		Rhys Owen	Scrivner		294	90		Y	2012-01-12				FA		MC
+40	0002	h	-	Sean	Scrivner		295	90		Y	1977-01-05			y	FA		MC
+401	00	h	r	Steve	Foote		108	18	steven.foote@me.com	Y	0000-00-00		9174148133		M		MC
+401	00	w	-	Lynne	Foote		108	18	lafoote@mac.com	Y			9177978176		M		MC
+401	0001	x		Henry	Foote	 	108	18	henryfoote@mac.com	N	1992-07-29				FA		MC
+401	0002	x		Madeline	Foote	 	108	18	madeleinefoote@mac.com	Y	1992-07-29				FA		MC
+401	0003	x		Bailey	Foote	 	108	18	baileyfoote@mac.com	Y	1994-02-04				FA		MC
+401	0004	x		Mariah	Foote	 	108	18	mariahfoote@mac.com	Y	1994-02-04				FA		MC
+401	0005	x		Elinor	Foote		108	18		Y	1997-07-05				FA		MC
+401	0006	x		Oliver	Foote		108	18		Y	1999-09-23				FA		MC
+402	00	h	r	John	Geer		110	65		Y	0000-00-00				FR	T	
+402	00	w	-	Caroline	Geer		110	65		Y	0000-00-00				FR	T	
+403	00	w	r	Elizabeth (BJ)	Gorman		111	17		Y	0000-00-00				FR	T	
+404	00	h	r	Ben Ali	Haggin		112	0		Y	0000-00-00				FR	T	
+405	00	h	r	Chuck	Hagy		113	0		Y	0000-00-00				FR	T	
+405	00	w	-	Deborah	Hagy		113	0		Y	0000-00-00				FR	T	
+406	00	h	r	Mark	Heavey		114	0		Y	0000-00-00				FR	T	
+406	00	w	-	Catherine	Heavey		114	0		Y	0000-00-00				FR	T	
+407	00	h	r	Kurt	Jomo		115	32		Y	0000-00-00				FR	T	
+407	00	w	-	Patty	Jomo		115	32		Y	0000-00-00				FR	T	
+408	00	h	r	Keith	Krasney		116	49	klkrasney@yahoo.com	Y		2123096776	9178423959		FR	T	
+408	00	w	-	Megan	Krasney		116	49	megankrasney@me.com	Y					FR	T	
+409	00	h	r	Dan	Marcus		117	7	daniel.marcus@barcap.com	Y	0000-01-18	2123206321	3472371650		M		MC
+409	00	w	-	Kim	Marcus		117	7	ksjkm99@gmail.com	Y	0000-08-06	6463060319	6463060321		M		MC
+409	0001	x	-	Milo	Marcus		117	7		Y	2000-01-26				M		MC
+409	0002	x	-	AJ	Marcus		117	7		Y	2001-06-10				M		MC
+409	0003	x	-	Liza	Marcus		117	7		Y	2004-02-10				M		MC
+41	00	h	r	Phil	Huyck		45	61	philiphuyck@gmail.com	Y	0000-05-21				M		MC
+41	00	w	-	Mary	Huyck		45	61	maryhhuyck@yahoo.com	Y	0000-01-01				M		MC
+41	0001	h	-	Jonathan	Huyck		263	61		Y	1969-04-26			y	FA		MC
+41	0001	w		Annie	Huyck		263	61		Y					FA		MC
+41	000101	x		Benjamin Ditmars	Huyck		263	61		Y	2010-12-17				FA		MC
+41	000102			Nathaniel Ditmars 	Huyck		263	61		Y	2013-11-18			y	FA		MC
+41	0002	h	-	Peter	Huyck		264	61		Y	1971-11-22			y	FA		MC
+41	0003	h	-	Brian	Redican		265	61		Y	0000-01-01				FA		MC
+41	0003	w	-	Laura	Redican		265	61	lauraredican@yahoo.com	Y	0000-11-02			y	FA		MC
+41	000301	x		Lillian Taylor	Redican		265	61		Y	2008-06-06				FA		MC
+41	000302	x		Charlotte	Redican		265	61		Y	2011-08-08				FA		MC
+41	000303	x		Abigail Draper	Redican		265	61		Y	2014-04-07			y	FA		MC
+410	00	h	r	Nicholas	Mirra		118	45		Y					FR	T	
+410	00	w	-	Christina	Graybard		118	45		Y					FR	T	
+411	00	h	r	Corby	Stokenberry		119	0		Y					FR		
+411	00	w	-	Meg	Stokenberry		119	0	margaret_c_pitts@yahoo.com	Y	1977-10-08		9143743251		FR		
+411	0001	x	-	Walker	Pitts		119	0		Y					FR		
+412	00	h	r	Richard	Scheps		120	0		Y					FR		
+412	00	w	-	Nancy	Scheps		120	0		Y					FR		
+413	00	h	r	Chris	Thompson		121	25	cthompson@beckwithcapital.com	Y		2036987819	2032732176		M		MC
+413	00	w	-	Dawn	Tutje		121	25	dtutje@optonline.net	Y	0000-01-22	6462764484	2032732177		M		MC
+413	0001	x	-	Kendall	Thompson		121	25		Y	1998-03-27				FA		MC
+413	0002	x	-	Nicole	Thompson		121	25		Y	2003-12-05				FA		MC
+414	00	h	r	B.J.	Weber		122	92	williamjweber@aol.com	Y	0000-10-24	2129799690	9173710255		M		MC
+414	00	w	-	Sheila	Weber		122	92	sheilamweber@aol.com	Y	0000-07-11	6463226853	6463226853		M		MC
+414	0001	h		John	Nehme		418	92		Y					FA		MC
+414	0001	w		Rachel	Weber Nehme		418	92	rachel.nehme@gmail.com	Y				y	FA		MC
+414	000101	x		Meira Grace	Nehme		418	92		Y	2013-11-02			y		FA	
+414	0002	h		Maxwell	Weber		419	92	maxlaurenweber@gmail.com	Y				y	FA		MC
+414	0002	w		Lauren	Armstrong Weber		419	92		Y					FA		MC
+415	00	h	r	Henry	Zayas		123	0		Y					FR	T	
+415	00	w	-	Phoebe	Zayas		123	0		Y					FR	T	
+416	00	h	r	Bill	Bennett		421	47		Y				y	FA		MC
+416	0001	h		Greg	Bennett		422	47		Y				y	FA		MC
+416	0001	w		Susan	Bennett		422	47		Y					FA		MC
+416	000101	x		Elizabeth	Bennett		422	47		Y				y	FA		MC
+416	000102	x		William	Bennett		422	47		Y				y	FA		MC
+416	0002	h		Michael	Duvney		423	47		Y					FA		MC
+416	0002	w		Sarah	Bennett		423	47		Y				y	FA		MC
+416	000201	x		Gavin Harrison	Duvney		423	47		Y				y	FA		MC
+416	0003	h		Chris	Moore		424	47		Y					FA		MC
+416	0003	w		Adrea	Bennett		424	47		Y				y	FA		MC
+416	000301	x		Sophia Julia	Moore		424	47		Y				y	FA		MC
+42	00	h	r	The	Janeways		416	56		Y					FA		MC
+42	0002	h	-	Richard	Janeway		296	56		Y	0000-09-25			y	FA		MC
+42	0002	w	-	Norly	Janeway		296	56		Y	0000-01-03				FA		MC
+42	000201	h	-	Darwin	Janeway		297	56		Y	0000-05-02			y	FA		MC
+42	000202	h	-	Aris	Janeway		298	56		Y	0000-03-20			y	FA		MC
+42	000202	w	-	Kim	Janeway		298	56		Y	0000-05-24				FA		MC
+42	00020201	x	-	Adrienna	Janeway		298	56		Y	2001-07-20				FA		MC
+42	00020202	x	-	Christopher	Janeway		298	56		Y	2002-09-24				FA		MC
+42	000203	h	-	Allen	Janeway		299	56		Y	1981-11-09			y	FA		MC
+42	0003	h	-	John	Janeway		300	56	johnjaneway@comcast.net	Y	0000-12-01			y	FA		MC
+42	0003	w	-	Debbie	Janeway		300	56		Y	0000-03-27				FA		MC
+42	000301	h		Scott	Doherty		301	56		Y					FA		MC
+42	000301	w	-	Heather	Janeway		301	56		Y	1978-01-10			y	FA		MC
+42	000302	h	-	Charlie	Pearson		302	56		Y	0000-01-01				FA		MC
+42	000302	w	-	Jenny	Pearson		302	56		Y	0000-10-21			y	FA		MC
+42	00030201	x	-	Anne Elizabeth	Pearson		302	56		Y	2009-04-02			y	FA		MC
+42	00030202	x		Alexandra Jane	Pearson		302	56		Y	2010-10-18				FA		MC
+42	00030203	x		Morgan Janeway	Peason		302	56		Y	2012-07-21				FA		MC
+42	000303	x	-	Timmy	Janeway		302	56		Y	1984-07-06			y	FA		MC
+43	00	w	r	Mary	Douglass		48	34	marydoug2@aol.com	Y	0000-04-18		5086486192	y	M		MC
+43	0001	h	-	Christopher	Douglass		150	34	chrisicarus@aol.com	Y	0000-06-12			y	FA		MC
+43	0001	w	-	Mary Ellen	Sullivan		150	34	mesullivanland@aol.com	Y	0000-06-14				FA		MC
+43	000101	x	-	Emma	Douglass	 	150	34	emmadouglass20@gmail.com	Y	1993-06-20				FA		MC
+43	000102	x	-	Walker	Douglass	 	150	34	walkerdouglass@gmail.com	Y	1996-06-16				FA		MC
+43	0002	w	-	Mary Kim	Douglass		303	34		Y	0000-02-05			y	FA		MC
+43	0003	h	-	Geoffrey	Douglass		304	34	djhardx@aol.com	Y	0000-06-20			y	FA		MC
+43	000301	w	-	Brooke	Douglass		305	34		Y	1981-12-22				FA		MC
+43	000302	x	-	Michelle	Douglass		305	34		Y	1983-04-18				FA		MC
+43	0004	h	r	Jimmy	Douglass		24	70	jimmy_douglass@comcast.net	Y	0000-10-17		6173064435	y	M		MC
+43	0004	w	-	Terry	Douglass		24	70	douglasstj@aol.com	Y	0000-01-14	6174236370	6174702403		M		MC
+43	0005	w	-	Patricia	Douglass		306	34	pbd1216@aol.com	Y	0000-12-16			y	FA		MC
+43	0006	h	-	John	Casey		307	34		Y	0000-06-16				FA		MC
+43	0006	w	-	Laura	Casey		307	34		Y	0000-05-14			y	FA		MC
+43	000601	x	-	Audrey	Casey		307	34		Y	1992-03-10				FA		MC
+43	000602	x	-	Angus	Casey		307	34		Y	1997-05-07				FA		MC
+43	0007	h	-	Sam	Douglass		308	34		Y	0000-08-27			y	FA		MC
+44	00	h	r	Joe	Keiffer		49	29	jpkeiffer@gmail.com	Y	0000-04-29	2122498249			M		MC
+44	00	w	-	Jane	Keiffer		49	29	janekeiffer323@gmail.com	Y	0000-03-23	2124454868			M		MC
+44	0001	x	-	Charles	Keiffer		49	29	iamckeiffer@yahoo.com	N	1993-04-02				FA		MC
+45	00	w	r	Drew	Kindred		168	36	drew400164@aol.com	Y	0000-02-11			y	M		MC
+46	00	h	r	Allan	Lans		51	68	drallan.lans@gmail.com	Y	0000-08-11	2127595041	9146481487		M		MC
+46	00	w	-	Eleanor	Alter		51	68	ealter@awf.nyc	Y	0000-11-10	2122185376			M		MC
+46	0001	h	-	Richard	Zabel		101	68		Y	0000-10-01			y	FA		MC
+46	0001	w	-	Lisa	Zabel		101	68	zeldamutt@hotmail.com	Y	0000-09-07				FA		MC
+46	000101	x	-	Claire	Zabel		101	68		Y	1991-11-08				FA		MC
+46	000102	x	-	Joe	Zabel		101	68	isogrifo88@aol.com	Y	1994-07-27				FA		MC
+46	000103	x	-	Anna	Zabel	 	101	68		Y	1997-07-07				FA		MC
+46	0002	h	-	David	Zabel		234	68		Y	1966-04-01			y	FA		MC
+46	0002	w	-	Erin	Zabel		234	68		Y	0000-01-01				FA		MC
+46	0003	h	-	David	Lans		235	68		Y	0000-04-30			y	FA		MC
+46	0003	w	-	Devora	Lans		235	68		Y	0000-01-01				FA		MC
+46	000301	x	-	Adam	Lans		235	68	sickhandslans@gmail.com	Y	1990-11-01				FA		MC
+46	000302	x	-	Jacob	Lans		235	68		Y	1992-07-11				FA		MC
+46	0004	w	-	Elissa	Lans		236	68		Y	0000-03-27			y	FA		MC
+46	0005	h	-	Jared	Lans		237	68		Y	0000-06-20			y	FA		MC
+46	0005	w	-	Nancy	Lans		237	68		Y	0000-11-11				FA		MC
+46	000501	x	-	Zachary	Lans		237	68		Y	1990-08-22				FA		MC
+46	000502	x	-	Shayna	Lans		237	68		Y	1992-11-21				FA		MC
+46	000503	x	-	Caleigh	Lans		237	68		Y	1994-04-20				FA		MC
+47	00	w	r	Sally	Laurilliard		52	14		Y	0000-11-04				M		MC
+47	0001	h	-	Bill	Anderson		174	14		Y	0000-03-12				FA		MC
+47	0001	w	-	Dee Dee	Laurilliard		174	14	deedee.laurilliard@bellsouth.net	Y	0000-04-24	9199293136		y	FA		MC
+47	0002	h	-	Kevin	Laurilliard		175	14	laurilliard@mltw.com	Y	0000-07-02			y	FA		MC
+47	0002	w	-	Sue	Laurilliard		175	14		Y	0000-12-23				FA		MC
+47	000201	x	-	Emily	Laurilliard		175	14		Y	1994-07-16				FA		MC
+47	000202	x	-	Daniel	Laurilliard		175	14		Y	1998-01-23				FA		MC
+47	000203	x	-	Julia	Laurilliard		175	14		Y	2001-07-21				FA		MC
+48	00	h	r	Ernest	Lowrie	Mr.	54	41	jlowrie@wesleyan.edu	Y	0000-12-20	8606853099			M		MC
+48	00	w	-	Joyce	Lowrie	Ms.	54	41	jlowrie@wesleyan.edu	Y	0000-12-16	8606853099			M		MC
+48	0001	w	-	Michele	Lowrie	Ms.	312	41	mlowrie@uchicago.edu	Y	0000-04-24	7737029861	6462839347	y	FA		MC
+48	000101	x	-	Lucas	Fagen		312	41		Y	1997-05-16				FA		MC
+49	00	h	r	Paul	Lunas		178	0		Y	0000-03-11			y	FR		
+49	00	w	-	Sharron	Lunas		178	0		Y	0000-08-11				FR		
+49	0001	h	-	Bill	Lunas		313	0		Y	0000-06-23				FR		
+49	0002	h	-	Ken	Meerdink		314	18		Y	0000-07-21				FA		MC
+49	0002	w	-	Terese	Meerdink		314	18		Y	0000-00-00			y	FA		MC
+49	000201	x	-	Matthew	Meerdink		314	18		Y	1993-10-26				FA		MC
+49	000202	x	-	Laura	Meerdink		314	18		Y	1996-10-14				FA		MC
+49	0003	h	-	Dan	McElligott		315	18		Y	0000-06-03				FA		MC
+49	0003	w	-	Kristi	McElligott		315	18		Y	0000-10-28			y	FA		MC
+49	000301	x	-	Alice	McElligott		315	18		Y	1998-08-24				FA		MC
+49	0004	h	-	Fritz	Lunas		316	0		Y	0000-11-09			y	FR		
+49	0004	w	-	Sabine	Lunas		316	0		Y	0000-12-16				FR		
+49	000401	x	-	Sandra	Lunas		316	0		Y	1993-01-23				FR		
+49	000402	x	-	Ryan	Lunas		316	0		Y	1994-06-27				FR		
+50	00	w	r	Anne	Mack		57	0	amack00@gmail.com	Y	1972-08-09	7723411553	7723411553		FR		
+50	0001	x	-	Charlotte	Mack	 	57	0		Y	1999-02-14				FR		
+50	0002	x	-	Grace	Mack		57	0		Y	2001-12-06				FR		
+50	0003	x	-	Colby	Mack		57	0		Y	2006-03-31				FR		
+50	0004	x	-	Tristan	Mack		57	0		Y	2006-03-31				FR		
+500	00	h	r	Jay	Bargmann		130	0		Y					FR		
+500	00	w	-	Robin	Gneiting		130	0		Y					FR		
+501	00	w	r	Lydia	Speir Blackshaw		82	44		Y					FR		
+503	00	w	r	Raphaelle	Carlesimo		137	0	Raphaellem2@gmail.com	Y			9143191146		FR		
+505	00	h	r	Bill	Rosseli		149	0		Y					FR		
+505	00	w	-	Lisa	Del Turco Rosseli		149	0		Y					FR		
+506	00	h	r	David	Fisher		153	0		Y					FR		
+506	00	w	-	Laurie	Fisher		153	0		Y					FR		
+508	00	h	r	Chris	Hall		156	0		N					FR		
+508	00	w	-	Kelly	Hall		156	0		Y					FR		
+509	00	h	r	Lynn	Hall		157	0		Y					FR		
+509	00	w	-	Ginny	Hall		157	0		Y					FR		
+51	00	h	r	Richard	Manix		58	82	richardmanix@gmail.com	Y	0000-03-16		9174945901		M		MC
+51	00	w	-	Leslie Rogers	Manix		58	82	lesrogersmanix@gmail.com	Y	0000-08-20		9144190453		M		MC
+51	0001	h		Jonathan	Feintuch		411	82		Y	1986-06-17				FA		MC
+51	0001	x	-	Catherine	ManixFeintuch		411	82	cmanix@gmail.com	Y	1986-07-02				FA		MC
+51	0002	x	-	James	Manix		412	82	jamesmanix@gmail.com	Y	1988-07-19		9144191872		FA		MC
+511	00	h	r	Croft	Henry		159	0		Y					FR		
+511	00	w	-	Diana	Henry		159	0		Y					FR		
+512	00	w	r	Taffy	Jones		163	0	taffyj@tdsusa.com	Y					FR		
+514	00	h	r	Burke	Jones		164	0		Y					FR		
+514	00	w	-	Lisa	Jones		164	0		Y					FR		
+515	00	h	r	Tom	Jones		165	0		Y					FR		
+515	00	w	-	Sonja	Baer		165	0		Y					FR		
+516	00	w	r	Margot	Karp		166	0		Y					FR		
+517	00	h	r	Mike	Kelly		167	0		Y					FR		
+517	00	w	-	Kathy	Kelly		167	0		Y					FR		
+518	00	w	r	Joan	Kindred		169	0		Y					FA		
+519	00	h	r	Otto	Kinzel		170	0		Y					FR		
+519	00	w	-	Jeanne	Kinzel		170	0		Y					FR		
+52	00	h	r	Jim	Martocci		59	4	jtrjim@optonline.net	Y	0000-01-01				M		MC
+52	00	w	-	Elda	Martocci		59	4	eldamartocci@optimum.net	Y	0000-01-01	2018480398			M		MC
+52	0002	h	-	Mike	Martocci		318	4	mmartocci2@yahoo.com	Y	1979-10-18			y	FA		MC
+52	0002	w		Nicole	Flowers		318	4		Y					FA		MC
+52	000201	x		Gabriella	Martocci		318	4		Y	2011-12-22				FA		MC
+520	00	h	r	Robert	Kinzel		171	0		Y					FR		
+520	00	w	-	Margaret	Kinzel		171	0		Y					FR		
+521	00	h	r	Louis	Kislik		172	0		Y					FR		
+521	00	w	-	Pauline	Kislik		172	0		Y					FR		
+522	00	h	r	Robert	Larsen		173	0		Y					FR		
+522	00	w	-	Patricia	Larsen		173	0		Y					FR		
+523	00	w	r	Maureen	Leahey		176	0		Y					FR		
+526	00	h	r	Michael	Macy		179	0		Y					FR		
+526	00	w	-	Penny	Macy		179	0		Y					FR		
+528	00	w	r	Jan	Mainzer		180	0	jmainzer@hvc.rr.com	Y	0000-03-29				FR		
+529	00	h	r	Jim	Mainzer		181	0		Y					FR		
+529	00	w	-	Robin	Mainzer		181	0		Y					FR		
+53	00	w	r	Sally	Maurer		62	40	sally.maurer10@gmail.com	Y	0000-12-25	8455164632			M		MC
+53	0001	h	-	Richard	Maurer		184	40		Y	0000-07-13			y	FA		MC
+53	0002	h	r	Danny	Maurer		60	84	djjmaurer100@msn.com	Y	0000-11-17			y	M		MC
+53	0002	w	-	Janinne	Maurer		60	84	j2m4@mac.com	Y	0000-08-11				M		MC
+53	000201	x	-	Jake	Maurer		60	84		Y	2001-02-14				FA		MC
+53	000202	x	-	Ava	Maurer		60	84		Y	2004-05-03				FA		MC
+53	0003	h	r	David	Maurer		61	83		Y	0000-01-25		5187553344	y	M		MC
+531	00	h	r	Bob	Masie		183	0		Y					FR		
+531	00	w	-	Anne	Tate Massie		183	0		Y					FR		
+532	00	h	r	David	McGinnis		185	53	demcginnis1@verizon.net	Y	1960-01-19	4105832848	4436048038		M		MC
+532	00	w	-	Ellen	McGinnis		185	53	ellen.mcginnis@haynesboone.com	Y	1960-06-21	2026544512	4106270219		M		MC
+532	0001	x		Anna	McGinnis		185	53	annamcginnis@me.com	Y	1997-12-03				FA		MC
+532	0002	x		Patrick	McGinnis		185	53	pdmsport@me.com	Y	2000-05-01				FA		MC
+533	00	h	r	Christoper	McLaughlin		186	0		Y					FR		
+533	00	w	-	Annette	McLaughlin		186	0		Y					FR		
+534	00	h	r	Charles	Miles		191	0		Y					FR		
+534	00	w	-	Naomi	Freundlich		191	0		Y					FR		
+536	00	h	r	Peter	Moffit		193	0		Y					FR		
+536	00	w	-	Zoe	Moffit		193	0		Y					FR		
+537	00	h	r	Shahe	Nercessian		194	0		Y					FR		
+537	00	w	-	Lorig	Nercessian		194	0		Y					FR		
+538	00	h	r	Jim	O'Donnell		195	0	jodonnell@huntington.edu	Y					FR		
+538	00	w		Laurie	Shepherd		195	0		Y					FR		
+539	00	h	r	William P	Porter		201	73		Y					FA		
+540	00	h	r	Campion	Primm		204	0		Y					FR		
+540	00	w	-	Sally	Primm		204	0		Y					FR		
+541	00	h	r	David	Randall		205	0		Y					FR		
+541	00	w	-	Anne	Randall		205	0		Y					FR		
+542	00	w	r	Ruth	Robson		207	0		Y					FR		
+543	00	h	r	Richard	Rosen		208	0		Y					FR		
+544	00	h	r	Roger	Scadron		209	0		Y					FR		
+544	00	w	-	Cathy	Scadron		209	0		Y					FR		
+545	00	w	r	Jane	Sheffield		210	0		Y					FR		
+546	00	h	r	Edwin	Shuttleworth		211	0		Y					FR		
+547	00	h	r	Tom	Sobka		212	0		Y					FR		
+547	00	w	-	Stephanie	Jones Sobka		212	0		Y					FR		
+548	00	h	r	Joe	Stallone		213	0		Y					FR		
+548	00	w	-	Charlotte	Forbes Stallone		213	0		Y					FR		
+549	00	h	r	Todd	Street		214	0		Y	0000-01-01				FR		
+549	00	w	-	Valerie	Street		214	0		Y					FR		
+550	00	h	r	Thomas	Tamlyn		216	0		Y					FR		
+550	00	w	-	Maria	Tamlyn		216	0		Y					FR		
+551	00	h	r	William	Tennis		220	0		Y					FR		
+551	00	w	-	Sarah	Cartmell Tennis		220	0		Y					FR		
+552	00	h	r	Douglass	Watson		223	0		Y					FR		
+552	00	w	-	Betty	Watson		223	0		Y					FR		
+56	00	h	r	John	McCarrick		63	93	mccarrickj@whiteandwilliams.com	Y	0000-03-08	9144334020			M		MC
+56	00	w	-	Dawn	McCarrick		63	93	dawnmmcq@aol.com	Y	0000-06-01	9146297040			M		MC
+56	0001	x	-	Grace	McCarrick		63	93		Y	1989-09-22				FA		MC
+56	0002	x	-	Clare	McCarrick		63	93		Y	1990-10-26				FA		MC
+56	0003	x	-	Kyle	McCarrick		63	93		Y	1992-01-29				FA		MC
+56	0004	x	-	Conor	McCarrick		63	93		Y	1995-08-23				FA		MC
+57	00	h	-	David	McDonald		64	43	drdavidmcdonald@yahoo.com	Y	1930-12-26		7134448433		FA		MC
+57	00	w	r	Jeanne	McDonald		64	43	drdavidmcdonald@yahoo.com	Y	1946-09-24	2815585236	7134448433		M		MC
+57	0001	h	-	Andy	Cavanagh		319	43		Y	0000-00-00				FA		MC
+57	0001	w	-	Ashley	Cavanagh		319	43	ashleycavanagh@yahoo.com	Y	1976-08-22		5129653581	y	FA		MC
+57	000101	x		Katherine	Cavanagh		319	43		Y	2005-08-25				FA		MC
+57	000102	x	-	Nathaniel	Cavanagh		319	43		Y	2008-02-04				FA		MC
+57	0002	h	-	James	Underhill	PhD	320	43	semaj91@yahoo.com	Y	1979-06-27	5124840574		y	FA		MC
+58	00	h	r	Jim	McMenamin	T.	65	79	jtm2@columbia.edu	Y	0000-08-13	2128517965	6465120127		M		MC
+58	00	w	-	Sirkka	McMenamin	l.	65	79	smcmenamin@brearley.org	Y	0000-10-29	2127448582	2016586476		M		MC
+58	0001	x	-	Kira	McMenamin	L.	65	79	klmcmenamin@gmail.com	Y	1986-01-06		2016589681		FA		MC
+58	0002	x	-	Kim	McMenamin	E.	65	79	kemcmenamin@gmail.com	Y	1988-05-29		2016589673		FA		MC
+58	0003	x	-	Karli	McMenamin	A.	65	79	kamcmenamin@gmail.com	Y	1992-01-15		2016589366		FA		MC
+59	00	w	r	Josephine	McSweeney		66	0	jmcs10009@yahoo.com	Y	0000-05-05				FR		
+60	00	w	r	Cottage	Mechlowitz		0	4014		Y	0000-06-23				M		MC
+60	0001	h	-	Dean	Mechlowitz		187	4014	deanmech@aol.com	Y	0000-01-23		9042527817	y	FA		MC
+60	0001	w	-	Amy	Mechlowitz		187	4014		Y	0000-06-03		9046317716		FA		MC
+60	000101	x	-	Alec	Mechlowitz		187	4014		Y	1991-05-13				FA		MC
+60	000102	x	-	Kerah	Mechlowitz		187	4014		Y	1992-12-04				FA		MC
+60	000103	x	-	Jessica	Mechlowitz		187	4014		Y	2002-05-09		9048604163		FA		MC
+60	000104	x		Matthew	Mechlowitz		187	4014		Y	2005-07-11		9042939197		FA		MC
+60	0002	h	r	Peter	Kaukonen		190	86	drkanga@aol.com	Y	0000-09-23				M		MC
+60	0002	w	-	Robin	Kaukonen		190	86	robinkaukonen@gmail.com	Y	0000-02-05		4152721557	y	M		MC
+60	000201	x		Daniel	Kaukonen		190	86		Y	2004-12-22				FA		MC
+60	000202	x		Kalevi	Kaukonen		190	86		Y	2004-12-22				FA		MC
+60	0003	h	-	Mark	Mechlowitz		189	4014		Y	0000-09-20			y	FA		MC
+60	0003	w	-	Dawn	McNaught		189	4014	dmcnaught@globalstate.us	Y	0000-03-11				FA		MC
+60	000301	x		Nate	Mechlowitz		189	4014		Y	2003-10-10				FA		MC
+60	000302	x	-	Abigail Mika 	Mechlowitz		189	4014		Y	2006-05-23				FA		MC
+60	0004	h		Kevin	Sharpe		188	4014		Y					FA		MC
+60	0004	w	-	Fern	Mechlowitz		188	4014	fern.mechlowitz@stanfordalumni.org	Y	1976-10-20			y	FA		MC
+60	000401	x		Henry	Sharpe		188	4014		Y	2014-02-17				FA		MC
+61	00	h	r	Tom	Braunstein		8	52	tmbraunstein@gmail.com	Y	0000-04-04	2125754449	9178611603		M		MC
+61	00	w	-	Annie	Braunstein		8	52	anniebraunstein@gmail.com	Y	0000-11-28		2122037029		M		MC
+61	0001	x	-	Charlie	Braunstein		8	52		Y	2005-05-27				FA		MC
+61	0002	x	-	Daniel	Braunstein		8	52		Y	2009-12-05			y	FA		MC
+62	00	h	r	Bernhard	Meyer		69	81	bomeyer@hvc.rr.com	Y	0000-04-19		5189656760		M		MC
+62	0001	h	-	Christoph	Meyer		231	81	bchrismeyer@mac.com	Y	0000-01-26			y	FA		MC
+62	0002	h	-	Donald	Wolfson		232	81		Y	0000-08-26				FA		MC
+62	0002	w	-	Jane	Meyer		232	81	janeameyer@yahoo.com	Y	0000-03-25			y	FA		MC
+62	000201	x	-	Alexander	Wolfson		232	81		Y	2003-08-09				FA		MC
+62	000202	x		Julia	Wolfson		232	81		Y	2005-10-21				FA		MC
+62	0003	h	-	Rob	Meyer		233	81	robm@catalystdp.com	Y	0000-08-30			y	FA		MC
+62	0003	w	-	Kimberly	Meyer		233	81	kimmymeyer@comcast.net	Y	0000-10-18				FA		MC
+62	000301	x	-	Aidan	Meyer		233	81		Y	2004-10-16				FA		MC
+62	000302	x		Callan	Meyer		233	81		Y	2008-08-21			y	FA		MC
+63	00	h	r	Ed	Murray		70	0	edmurray2@comcast.net	Y	0000-06-23	2013274100	2015192540		FR		
+63	00	w	-	Nancy	Murray		70	0	nmurray6@comcast.net	Y	0000-08-04				FR		
+64	00	w	r	Nelda	Pedersen		72	15	rfpdrsn@earthlink.net	Y	0000-12-18				M		MC
+64	0001	h	-	Michael	Linde		199	15		Y	0000-07-29				FA		MC
+64	0001	w	-	Paige	Linde		199	15		Y	0000-04-29			y	FA		MC
+64	0002	h	r	Jon	Pedersen		73	48	jfpedersen58@aol.com	Y	0000-01-23		6313532234	y	M		MC
+64	0002	w	-	Patty	Pedersen		73	48	pfpedersen1@gmail.com	Y	0000-02-15		9149549080		M		MC
+64	000202	x	-	William	Pedersen		73	48	wdpedersen@gmail.com	Y	1991-01-01		6312556601		FA		MC
+64	000203	x	-	James	Pedersen		73	48	jamesnpedersen@gmail.com	Y	1993-11-12		6313179865		FA		MC
+64	000204	x	-	Richard	Pedersen	 	73	48	richard.pedersen96@gmail.com	Y	1996-02-06		6316803503		FA		MC
+64	0003	x	-	Kendra	Pedersen		198	15	kohchangblue@gmail.com	Y	0000-05-10			y	FA		MC
+66	00	h	r	Ron	Peters		74	5	peters@cloud9.net	Y	0000-05-28		5182315555		M		MC
+66	00	w		Johna	Peachin		74	5	peachin@aol.com	Y	0001-12-15	6074325314			M		MC
+67	00	h	-	John	Fisher		30	71	jcf8244@gmail.com	Y	0000-04-09		9145523302		M		MC
+67	00	w	r	Sue	Fisher		30	71	suefisher2037@gmail.com	Y	1947-02-23		9143913112		M		MC
+67	0001	h	-	Greg	Peters		321	71	ggpeters@hotmail.com	Y	1975-12-15			y	FA		MC
+67	0002	h	-	Will	Peters		322	71	willispeters@hotmail.com	Y	1977-10-21			y	FA		MC
+67	0002	w		Hannah	Peters		322	71	2hannahpeters@gmail.com	Y					FA		MC
+67	000201	x		Eliza Sage	Peters		322	71		Y	2014-03-24				FA		MC
+67	0003	x	-	Timmy	Peters		30	71		Y	1986-05-16			y	FA		MC
+67	0004	x	-	Liz	Fisher		30	71		Y	1986-11-06			y	FA		MC
+67	0005	x	-	Tommy	Fisher		30	71		Y	1990-05-12			y	FA		MC
+68	00	h	r	The Porter Cottage	Porter		412	73		Y	0000-00-00				FA		MC
+68	0001	h	-	Bill	Porter		324	73		Y	0000-10-05			y	FA		MC
+68	0001	w	-	Kathy	Porter		324	73		Y	0000-10-09				FA		MC
+68	000101	h	-	Daniel	Porter		325	73		Y	1980-03-27				FA		MC
+68	000102	h	-	Ben	Porter		326	73		Y	1982-12-03				FA		MC
+68	000103	x	-	Tim	Porter		326	73		Y	1987-05-02				FA		MC
+68	0002	h	-	John	Porter		327	73		Y	0000-07-04			y	FA		MC
+68	0002	w	-	Chris	Porter		327	73		Y	0000-12-15				FA		MC
+68	000201	w	-	Molly Beth	Porter		328	73		Y	1981-07-22				FA		MC
+68	000202	w	-	Emilie	Porter		329	73		Y	1983-02-01				FA		MC
+68	0003	h	r	Jim	Porter		75	73	jim@stressstop.com	Y	0000-07-30	2038389225		y	M		MC
+68	0003	w	-	Cynthia	Porter		75	73		Y	0000-03-27				M		MC
+68	000301	x	-	David	Porter		75	73		Y	1989-08-14				FA		MC
+68	000302	x	-	Sarah	Porter		75	73		Y	1993-02-10				FA		MC
+68	000303	x	-	Rebecca	Porter		75	73		Y	1995-12-26				FA		MC
+69	00	h	r	Skip	Pratt		76	26	lgpratt619@gmail.com	Y	0000-06-19	2127035895			M		MC
+69	00	w	-	Anne	Pratt		76	26	loringanne1@yahoo.com	Y	0000-09-12				M		MC
+69	0001	w	-	Alison	Wedd		224	26	starphoto4@verizon.net	Y	0000-11-30			y	FA		MC
+69	000101	x	-	Sophie	Wedd		224	26	sophiewedd@yahoo.com	Y	1989-07-17				FA		MC
+69	000102	x	-	Michael	Wedd		224	26		Y	1991-10-06				FA		MC
+69	000103	x	-	Beatrice	Wedd		224	26		Y	1993-06-20				FA		MC
+69	000104	x	-	Raphael	Wedd		224	26		Y	1995-09-02				FA		MC
+69	000105	x	-	Mary	Wedd		224	26		Y	1998-05-13				FA		MC
+69	000106	x	-	Christopher	Wedd		224	26		Y	2000-03-01				FA		MC
+69	000107	x	-	Natasha	Wedd		224	26		Y	2003-01-01				FA		MC
+69	000108	x		Chiara Rose	Wedd		224	26		Y	2005-03-16				FA		MC
+69	0002	h	r	Andrew	Pratt		202	26	andrew@themetrocondos.com	Y	0000-12-09			y	FA		MC
+69	0003	h	r	Rich	Tarr		219	26		Y	0000-04-09				FA		MC
+69	0003	w	-	Ashley	Tarr		219	26	aatarr@yahoo.com	Y	0000-06-12			y	FA		MC
+69	000301	x	-	Alexander	Tarr		219	26		Y	1993-11-02				FA		MC
+69	000302	x	-	Emma Rose	Tarr		219	26		Y	1996-11-04				FA		MC
+70	00	h	r	Cottage	Price		0	57		Y	2018-05-01				M		MC
+70	0001	h	-	Mark	Baker		129	57	mbaker@progenics.com	Y	0000-08-27				FA		MC
+70	0001	w	-	Diane	Price Baker		129	57	diane.baker@bakerfamily1.com	Y	0000-04-04			y	FA		MC
+70	000101	x	-	Jack	Baker		129	57		Y	1997-09-06				FA		MC
+70	000102	x	-	Benjamin	Baker		129	57		Y	1999-11-08				FA		MC
+70	000103	x	-	Zachery	Baker		129	57		Y	1999-11-08				FA		MC
+70	0002	h	-	Michael	Titowsky		221	57	michael.titowsky@mdafny.com	Y	0000-07-26		9175199319		M		MC
+70	0002	w	-	Jeannette	Price		221	57	jeannette.b.price@citi.com	Y	0000-12-26	2127235677		y	M		MC
+70	000201	x	-	Anna	Titowsky	 	221	57	at1695@trever.org	Y	1997-04-04				FA		MC
+70	000202	x	-	Kate	Titowsky	 	221	57	kt2214@trevor.org	Y	1998-07-29			y	FA		MC
+70	0003	h	-	Bryan	Price		203	57	bryan.price@capdesign.us	Y	0000-07-09			y	FA		MC
+70	0003	w	-	Ellen	Price		203	57	ellen.coxe@capdesign.us	Y	0000-02-09				FA		MC
+70	000301	x	-	Julia	Price		203	57		Y	1989-01-12				FA		MC
+70	000302	x	-	John	Price	 	203	57	bryan.price@capdesign.us	Y	1990-11-26				FA		MC
+71	00	h	r	John	Roll		78	39	john@rkroll.com	Y	0000-05-18	6174957065			M		MC
+71	00	w	-	Rachel	Roll		78	39	rkroll@rkroll.com	Y	0000-06-14				M		MC
+71	0001	x	-	Matthew	Roll	 	78	39	matt@rkroll.com	Y	1994-07-29				FA		MC
+71	0002	x	-	Katherine	Roll	 	78	39		Y	1996-09-26				FA		MC
+72	00	h	r	Alex	Sade		79	72	alex.sade1@gmail.com	Y	0000-11-05		3476471203		M		MC
+72	00	w	-	Ellen	Lasch		79	72	ellen.lasch@gmail.com	Y	0000-06-29				M		MC
+72	0001	x	-	Katie	Sade	 	79	72	katie.sade1@gmail.com	Y	1996-01-08				FA		MC
+72	0002	x	-	Caroline	Sade	 	79	72	cds1103xo@gmail.com	Y	1997-11-03				FA		MC
+73	00	h	r	Bob	Sheridan		80	3	rbsheridan1@gmail.com	Y	0000-11-04	5185895153	9173016514		M		MC
+73	00	w	-	Judy	Sheridan		80	3	judsheridan@gmail.com 	Y	0000-10-12		9173012606		M		MC
+73	0001	w	-	Jessica	Sheridan		330	3		Y	1976-10-31			y	FA		MC
+73	0002	h	-	Peter	Sheridan		331	3		Y	1979-06-19			y	FA		MC
+73	0002	w		Joanna	Sheridan		331	3		Y					FA		MC
+73	000201	x		Bodhi Kai	Sheridan		331	3		Y	2015-01-29				FA		
+74	00	h	r	Andrew	Smith		81	46	andrewlsmithjr1@aol.com	Y	0000-11-18	5617624231	5617624231		M		MC
+74	00	w		Sally Alice	Smith		81	46	bickfordpond3000@gmail.com	Y		5613586326	5613586326		M		MC
+75	00	h	r	Wade	Speir		82	44	wade@speir.com	Y	0000-05-24	6462292997	6462292997		M		MC
+75	0001	x	-	Catherine (Cassie)	Speir		437	44		Y	2007-02-26			y	FA		MC
+75	0002	x	-	Margaret Elizabeth (Maisie)	Speir		437	44		Y	2008-10-26			y	FA		MC
+77	00	h	r	Chad	Sterrett		425	45	csterrett@att.net	Y	0000-04-23	2126356677	9142740477		M		MC
+77	00	w	-	Jean	Barish		84	45	jeanbarish@att.net	Y	0000-06-13		9177428926		M		MC
+77	0001	h	-	David	Sterrett		332	45		Y	1977-04-08				FA		MC
+77	0002	h	-	Donald	Sterrett		333	45		Y	1977-04-08				FA		MC
+77	0003	x	-	Drew	Sterrett		84	45		Y	1992-10-16				FA		MC
+77	0004	x	-	Dean	Sterrett		84	45		Y	1994-11-15				FA		MC
+777	00	h	r	Tom	Canning		13	901	tmcanning@optimum.net	Y	0000-11-28		9179683334		AM		
+777	00	w	-	Paula	Canning		13	901	pcanning@optimum.net	Y	0000-08-24		9148447078	y	AM		
+777	0001	x	-	Alex	Canning		13	901		Y	1989-03-10				AM		
+777	0002	x	-	Laura	Canning	 	13	901	lauravcanning@gmail.com	Y	1992-01-19		9147383445		AM		
+777	0003	x	-	Annie	Canning	 	13	901	Abcanning314@gmail.com	Y	1997-03-14		9143558944		AM		
+78	00	w	r	Barbara	Swanson		85	13	barbara@nysais.org	Y	0000-05-17	6153006457	6153006457		M		MC
+78	0001	h	-	David	Swanson		334	13	davidswanson23@gmail.com	Y	1977-06-25			y	FA		MC
+78	0002	h	-	Joseph	Pulichene		335	13	joselima@optonline.net	Y					FA		MC
+78	0002	w	-	Katrina	Pulichene		335	13	katrinapulichene@gmail.com	Y	1979-07-18			y	FA		MC
+78	0003	x	-	Andrew	Swanson		417	13	andrewburdenswanson@gmail.com	Y	1988-06-23			y	FA		MC
+79	00	h	r	Peter	Swords		86	16	pds@pipeline.com	Y	0000-04-12				M		MC
+79	00	w	-	Brenda	Walker Swords		86	16	bwswords@gmail.com	Y	0000-01-13		9178378039		M		MC
+79	0001	h	-	Bert	Gossen		336	16		Y	0000-05-26				FA		MC
+79	0001	w	-	Deirdre	Swords		336	16		Y	0000-11-17			y	FA		MC
+79	0002	w	-	Eliza	Swords		337	16		Y	1977-12-28			y	FA		MC
+79	0003	h	-	David	Hirsch		338	16		Y	1969-06-07			y	FA		40
+79	0004	h	-	Willie	Hirsch		339	16		Y	1972-03-11			y	FA		40
+79	0004	w	-	Vanessa	Hirsch		339	16		Y	1983-05-23				FA		40
+79	000401	x	-	Anjali	Hirsch		339	16		Y	2008-01-02			y	FA		40
+8	00	w	r	Carole	Buffett		9	0	buffettc@att.net	Y	0000-11-12				FR		
+8	0001	h	-	Ed 	Wilson		226	0		Y	0000-05-29				FR		
+8	0001	w	-	Susan	Wilson		226	0	sbw500@yahoo.com	Y	0000-07-23			y	FR		
+8	000101	x	-	David	Wilson		226	0		Y	1996-10-04				FR		
+8	000102	x	-	Kyle	Wilson		226	0		Y	1999-04-09				FR		
+8	0002	h	-	John	Buffett		135	0	jbuffett613@yahoo.com	Y	1967-07-06			y	FR		
+8	0002	w	-	Tammy	Buffett		135	0	flyingtammy@aol.com	Y	1966-10-01		8594333608		FR		
+80	00	w	r	Diana	Tadler		87	33	dtadler@mac.com	Y	0000-10-24				M		MC
+80	0001	h	-	David	Paterson		197	33		Y	0000-05-22				FA		MC
+80	0001	w	-	Ariana	Tadler Paterson		197	33	arianatadlertwilight@gmail.com	Y	0000-06-08	2129469453	9176132322	y	FA		MC
+80	000101	x	-	Carter	Paterson	 	197	33	carterlpaterson@hotmail.com	Y	1997-03-08				FA		MC
+80	000102	x	-	Decker	Paterson		197	33		Y	2000-01-10				FA		MC
+80	0002	x	-	Penny	Tadler		215	33	ptadler1@mac.com	Y	1969-06-07			y	FA		MC
+80	0003	h	-	Clayton	Tadler		252	33	ctadler@yesbank.com	Y	1974-12-10	2129184130	5163761791	y	FA		MC
+80	0003	w	-	Mrs	Tadler		252	33		Y					FA		MC
+81	00	h	r	Allin	Tallmadge		88	8	Awtallmadge@me.com	Y	1951-03-10	4048253896	4048253896		M		MC
+81	00	w	-	Libby	Tallmadge		88	8	etallmad@gmail.com	Y	0000-05-14	9735807739	9735807739		M		MC
+81	0001	w		Ryen	Tallmadge		81	8		Y					FA		MC
+81	0001	x	-	Zachary	Tallmadge		81	8		Y	1986-07-17			y	FA		MC
+81	000101	x		Tucker Mason	Tallmadge		81	8		Y	2011-07-15				FA		MC
+81	000102	x		Katarinah Charmagne	Tallmadge		81	8		Y	2014-07-22			y	FA		MC
+81	0002	x	-	Alex	Tallmadge		88	8		Y	1987-10-12			y	FA		MC
+82	00	w	r	Rena	Tarnowski		89	28	ictarnowski@icloud.com	Y	0000-08-25		4133746076		M		MC
+82	0001	h	-	Paul	Tarnowski		218	28		Y	1958-07-11		6039188500	y	FA		MC
+82	0001	w	-	Kathleen	Tarnowski		218	28		Y	0000-04-13		6039186145		FA		MC
+82	000101	w	-	Erica	Tarnowski Gaspar		340	28		Y	1983-07-23				FA		MC
+82	000102	x	-	Sara	Tarnowski Miller		218	28		Y	1986-03-31		6039180219		FA		MC
+82	000103	x	-	Kayla	Tarnowski		218	28		Y	2000-08-30				FA		MC
+82	000104	x	-	Will	Tarnowski		218	28		Y	2002-08-27				FA		MC
+82	0002	h	-	Bob	Hugney		217	28		Y	1944-06-22		4133744264		FA		MC
+82	0002	w	-	Lynn	Tarnowski Hugney		217	28	LT19671967@aol.com	Y	1960-09-20		4133748652	y	FA		MC
+82	000201	x	-	Anna	Hugney		217	28		Y	2002-08-25		4133746601		FA		MC
+83	00	h	r	Cottage	Tressler		0	27		Y	2018-05-01				M		MC
+83	00	w	-	Bonnie	MacKenzie		90	27	bonnie.mackenzie@comcast.net	Y	0000-12-03		5105171597		FA		MC
+83	0001	h	-	Martha	Tressler		91	27	martha@mtressler.com	Y	0000-11-27			y	M		MC
+83	0001	w	-	Anthony	Holley		91	27	anthony@aholley.co.uk	Y	0000-11-01				M		MC
+83	0002	h	-	Bob	Pearson		71	27		Y	0000-09-25				M		MC
+83	0002	w	-	Ann	Pearson		71	27	atpearson1381@gmail.com	Y	0000-02-09			y	M		MC
+83	000201	x	-	Natalie	Pearson		430	27	n.pearson16@gmail.com	Y	1991-11-16				FA		MC
+83	000202	x	-	Sarah	Pearson		431	27		Y	1995-01-26				FA		MC
+83	0003	h	-	Susan	Tressler		92	27	susantressler@gmail.com	Y	0000-03-22			y	M		MC
+83	0003	w	-	Fabio	Corsi		92	27	corsif@gmail.com	Y	0000-10-11				M		MC
+83	0004	h	-	Ed	Osawa		341	27		Y	0000-09-03				FA		MC
+83	0004	w	-	Kathryn	Kroll Osawa		341	27		Y	0000-12-18			y	FA		MC
+83	000401	x	-	Alec	Osawa		341	27		Y	2001-09-06				FA		MC
+83	000402	x	-	Tomi	Osawa		341	27		Y	2003-03-23				FA		MC
+83	0005	w	-	Heidi	Kroll		342	27		Y	0000-04-08			y	FA		MC
+84	00	h	r	Steve	Underwood		93	63		Y	0000-04-01				M		MC
+84	00	w	-	Susan	Underwood		93	63	sunderwood145@gmail.com	Y	0000-03-01		6103046072		M		MC
+84	0001	h	-	Lou	Mazero		241	63	LouMazero@msn.com	Y	0000-12-09		4849958299		FA		MC
+84	0001	w	-	Stephanie	Underwood Mazero		241	63	StephanieMazero@gmail.com	Y	1978-04-28		4846867938	y	FA		MC
+84	000101	x		Ian Thornton	Mazero		241	63		Y	2009-09-25				FA		MC
+84	000102	x		Liliana Grace	Mazero		241	63		Y	2011-11-14				FA		MC
+84	0002	x	-	Megan	Underwood		93	63	munderwood86@gmail.com	Y	1986-12-04			y	FA		MC
+85	00	h	r	Fernando	Viana		94	0	fernandojviana@yahoo.com	Y	0000-01-13		9179513903		FR		
+85	00	w		Gwen	De Loach		94	0		Y	0001-01-00				FR		
+85	0001	x	-	Tessa	Viana		94	0		Y	2007-10-17			y	FR		
+86	00	h	r	David	West		343	0		Y	1982-06-19				FA		
+86	00	w	-	Susan	West		343	0		Y	0000-09-21				FA		
+86	0001	h	-	Ted	West		344	0		Y	0000-03-16			y	FA		
+86	0001	w	-	Anna	West		344	0		Y	0000-12-05				FA		
+86	000101	x	-	David	West		344	0		Y	0000-01-10				FA		
+86	000102	x	-	Jonathan	West		344	0		Y	1984-02-04				FA		
+86	0002	h	r	Andy	Williams		97	0	brooksidew@comcast.net	Y	0000-04-28	2154196032			FA		
+86	0002	w	-	Sally	Williams		97	0	sallyw@gfsnet.org	Y	0000-09-19	2159512340		y	FA		
+86	000201	x	-	Kate	Williams		97	0		Y	1982-02-28				FA		
+86	000202	x	-	Ted	Williams		97	0		Y	1984-05-08				FA		
+86	000203	x	-	Sam	Williams		97	0		Y	1990-03-09				FA		
+86	000204	x	-	Rebecca	Williams		97	0		Y	1990-03-09				FA		
+86	0003	h	-	Vince	Figueredo		345	0		Y	0000-06-25				FA		
+86	0003	w	-	Ann	Figueredo		345	0		Y	0000-10-30			y	FA		
+86	000301	x	-	Sarah	Figueredo		345	0		Y	1989-09-09				FA		
+86	000302	x	-	Isabel	Figueredo		345	0		Y	1991-11-21				FA		
+86	0004	h	-	Tom	West		346	0		Y	0000-02-03			y	FA		
+86	0004	w	-	Eve	West		346	0		Y	0000-03-04				FA		
+86	000401	x	-	Natty	West		346	0		Y	1992-07-04				FA		
+86	000402	x	-	Alexander	West		346	0		Y	1995-05-08				FA		
+87	00	h	r	Edward J.	Willi		96	62	ced3337@aol.com	Y	0000-04-27				M		MC
+87	00	w	-	Cecilia	Willi		96	62	ced3337@aol.com	Y	0000-11-14				M		MC
+87	0001	h	-	Wayne	Coffey		142	62		Y	0000-07-28				FA		MC
+87	0001	w	-	Denise	Coffey		142	62	dwilli17@gmail.com	Y	0000-11-17			y	FA		MC
+87	000101	x	-	Samantha	Coffey		142	62		Y	1998-12-31				FA		MC
+87	000102	x		Alexandra May	Coffey		142	62		Y	1993-03-21				FA		MC
+87	000103	x		Sean	Coffey		142	62		Y	1994-10-10				FA		MC
+88	00	h	r	Bert	Witham		99	91	bertwitham@gmail.com	Y	0000-11-13	2033226825			M		MC
+88	00	w	-	Joyce	Swallum		99	91		Y	0000-06-16				M		MC
+88	0001	h	r	Whitney	Janeway		47	56	wjaneway@gmail.com	Y	1944-01-03	2032409179	2032409179	n	M		MC
+88	0001	w	-	Jana	Janeway		47	56	janajaneway@excite.com	Y	1946-11-13		2038589179	y	M		MC
+88	000101	h		Tucker	Currie		347	56	samueltuckercurrie@gmail.com	Y	1979-11-24		2034000921		FA		MC
+88	000101	w	-	Julia	Currie		347	56	ellenjuliacurrie@gmail.com	Y	1980-05-24		2032402753	y	FA		MC
+88	00010101	x	-	Naomi	Currie		347	56		Y	2006-12-10			y	FA		MC
+88	00010102	x	-	Genevieve	Currie		347	56		Y	2009-06-29			y	FA		MC
+88	000102	h	-	Jonathan	Janeway		245	56	jonathanjaneway@gmail.com	Y	1982-11-02		2032402724	y	FA		MC
+88	000102	w	-	Charlotte	Ross		245	56	c4.ross@gmail.com	Y	1983-03-19		8607488046		FA		MC
+88	000103	x	-	Marjorie	Janeway		47	56		Y	1984-03-05			y	FA		MC
+88	0002	h	-	Michael	McGinn		348	91		Y	0000-06-17				FA		MC
+88	0002	w	-	Brenda	McGinn		348	91		Y	0000-05-17			y	FA		MC
+88	000201	h	-	Bradley	Jones		349	91		Y	0000-11-11			y	FA		MC
+88	000201	w	-	Heidi	Jones		349	91		Y					FA		MC
+88	00020101	x	-	Ethan Bradley	Jones		349	91		Y	2009-07-10			y	FA		MC
+88	000202	h	-	Ryan	Jones		350	91		Y	0000-09-14			y	FA		MC
+88	000202	w		Nancy	Jones		350	91		Y					FA		MC
+88	00020201	x		Grayson Wheeler	Jones		350	91		Y	2013-07-02			y		FA	
+88	000203	h	-	Geordi	Johnston 		351	91		Y	0000-07-22				FA		MC
+88	000203	w	-	Anna Katherine	Jones Johnston 		351	91		Y	0000-12-04			y	FA		MC
+88	00020301	x		George Stewart	Tripp Johnson		351	91		Y	2010-12-16				FA		MC
+88	00020302	x		Witham Russell 	Johnston		351	91		Y	2013-11-02			y	FA		MC
+88	0003	h	-	Frank	Whitman		225	91	Frank.C.Whitman@gmail.com	Y	0000-04-20				FA		MC
+88	0003	w	-	Marsha	Witham Whitman		225	91	marshawhitman@gmail.com	Y	0000-02-09			y	FA		MC
+88	000301	h		Cameron	Logan		352	91		Y					FA		MC
+88	000301	w	-	Charlotte	Logan		352	91		Y	1979-08-08			y	FA		MC
+88	00030101	x		Moira Grace	Logan		352	91		Y	2010-09-27				FA		MC
+88	000302	h	-	Bert	Whitman		353	91	BERTWITHAM@GMAIL.COM	Y	1981-09-30			y	FA		MC
+88	0004	h	-	Mark	Davis		354	91		Y	0000-11-16				FA		MC
+88	0004	w	-	Tricia	Davis		354	91		Y	0000-07-05			y	FA		MC
+88	000401	x	-	Martha	Davis		354	91		Y	1992-08-26				FA		MC
+88	000402	x	-	Rebecca	Davis		354	91		Y	1994-09-16				FA		MC
+89	00	h	r	James	Young		100	12	jyoungnyc@gmail.com	Y	0000-03-20	2127129888			M		MC
+89	00	w	-	Ellen Terry	Emmerich		100	12	et@ellenemmerich.com	Y	0000-04-15	2127129888			M		MC
+8997	00	h	r	Doug	Hulse		105	997	doughulse@aol.com	Y	1943-08-16	5187345803	6099153482		AM		
+8997	00	w		Karen	Hulse		105	997	kakh1851@aol.com	Y	0000-01-08	5187345803	6099153483		AM		
+8998	00	w	r	Justine	Hommel		104	996	jlh589@aol.com	Y	0000-03-22				AM		
+8999	00	h	r	Larry	Gardner		103	994		Y					AM		
+8999	00	w		Karen	Gardner		103	994		Y					AM		
+9	00	h	r	Fred	Burnham		10	0	fbburnham21@gmail.com	Y	1938-07-21		8288082690		FR		
+9	00	w	-	Regan	Burnham		10	0	rocburnham@gmail.com	Y	0000-01-03		8288085395		FR		
+9	0001	h	-	Brad	Burnham		269	0		Y	0000-01-13			y	FR		
+9	0001	w		Lynn	Burnham		269	0		Y					FR		
+9	000101	x		John Frederic	Burnham		269	0		Y	2004-12-13				FR		
+9	0003	h	-	Kevin	Quat		270	0		Y	0000-10-19			y	FR		
+9	0003	w					270	0		Y					FR		
+9000	00	h	r	Russell	Memhard		68	52		Y	0000-04-26			y	FA		
+9000	0001	x	-	Alexandra	Memhard		68	52		Y	1992-01-05				FA		
+9000	0002	x	-	Nicholas	Memhard		68	52		Y	1994-08-26				FA		
+9001	00	h	r	Sean	Byrne		242	0	kcoughlin@hughes.net	Y	0000-12-26	5185895636			FR		
+9001	00	w		Kelly	Coughlin		242	0		Y	0000-03-29	5185895636			FR		
+9002	00	h	r	Paul	Clare		246	74	theclares@aol.com	Y	0000-10-12		6027933488		FA		
+9003	00	w	r	Cheryl	Vogler		248	900	ctvogler@gmail.com	Y			6074341798		FR		
+9004	00	w	r	Sydney	Starr		249	7	sydstarr@aol.com	Y	0000-11-12				FR		
+9005	00	h	r	Anthony	Melluzzo		251	35	tmelluzzo@gmail.com	Y	1955-01-17				FR		
+9005	00	w	-	Sharon	Melluzzo		251	35	smelluzzo@gmail.com	Y	0000-04-14				FR		
+9006	00	w	r	Sandy	Knapp	 	253	0	deadle8@yahoo.com	Y	1984-03-11				FR		
+9007	00	w	r	Linda	Broussard		254	0	lnbrouss@verizon.net	Y	1951-04-08	7036474938	5712012916		FR	T	
+9009	00	h	r	Matt	Boatman		258	51		Y					FA		
+9009	00	w	-	Cathy	Poremba		258	51	cat3cc@yahoo.com	Y	0000-06-17			y	FA		
+9009	0001	x	-	Christoper	Woodall		371	51		Y	1995-03-20				FA		
+9009	0002	x	-	Cierra Whitney	Woodall		371	51		Y	1996-11-02				FA		
+9010	00	h	r	John	Poremba		257	51		Y	0000-02-01			y	FA		
+9011	00	w	r	Susan	Mac Gahan		56	51	W2DJM@aol.com	Y	0000-11-26	8022959363		y	M		MC
+9012	00	w	r	Patty	Spitko		83	51	bearloga@aol.com	Y	0000-02-20	2156997285	6105061967	y	FA		
+9012	0001	h	-	Michael	Eller		259	51		Y					FA		
+9012	0001	w	-	Stephanie	Eller		259	51		Y	1980-01-16			y	FA		
+9012	000101	x		Ian McNeill	Eller		259	51		Y	2013-07-02			y		FA	
+9012	0002	h		Sara	Panella		260	51		Y					FA		MC
+9012	0002	w	-	Rebecca	Spitko		260	51		Y	1982-08-05			y	FA		
+9013	00	w	r	Beth	Carlson	 	262	900	bethcarlson25@gmail.com	Y	1981-12-09				FR		
+9014	00	w	r	Linda	Bourie Redmond		267	0	linda.redmond.70@gmail.com	Y		2032408566			FR		
+9015	00	w	r	Patti	Welch		268	0	pwelch@cathedralnyc.org	Y					FR		
+9016	00	w	r	Renee	Poitras		373	35		Y					FR		
+9017	00	h	r	Roy	Yan		374	96	Yanroy@gmail.com	Y					M		MC
+9017	00	w		Lizzy	Kuhlenkamp		374	96	lizzykuhlenkamp@hotmail.com	Y			9178601096		M		MC
+9018	00	w	r	Gemma	Dayton		21	23	gdaytonguitar@yahoo.com	Y	0000-09-23				FR		
+9019	00	w	r	Carol	Cummings		18	42	papatom76@aol.com	Y	0000-10-02				FA		
+9020	00	h	r	Larry	Johnston		309	34		Y	0000-01-10			y	FA		
+9020	00	w	-	June	Johnston		309	34		Y	0000-10-22				FA		
+9020	0001	h	-	Mark	Johnston		310	34		Y	0000-08-23			y	FA		
+9020	0001	w	-	Stella	Johnston		310	34		Y	0000-01-13				FA		
+9020	000101	x	-	Alex	Johnston		310	34		Y	1991-12-21				FA		
+9020	000102	x	-	Adam	Johnston		310	34		Y	1994-05-30				FA		
+9020	000103	x	-	Laura	Johnston		310	34		Y	1999-04-30				FA		
+9020	0002	h	-	Mike	Johnston		311	34		Y	0000-01-20			y	FA		
+9020	0002	w	-	Marly	Johnston		311	34		Y	0000-04-28				FA		
+9021	00	w	r	Jeanine	Muise		378	35	jeanine_muise@hotmail.com	Y	1990-10-27				FR		
+9022	00	w	r	Mary Jane	Meherg	 	379	0	mehergmj@centurylink.net	Y					FR		
+9064	00	h	r	Paul	Watson		256	998	pbradford1120@gmail.com	Y					FR		
+9065	00	w	r	Mimi	Haik		266	11	mbhaik@yahoo.com	Y			2035949114		M		MC
+9066	00	h	r	Steve	Arcieri		377	65		Y					FR	T	
+9066	00	w		Mary Catherine	Arcieri		377	65	home@arcieritalent.com	Y			9176127176		FR	T	
+9067	00	h	r	David	Mendez		376	0	phoebe@dpmendez.com	Y							
+9067	00	w		Phoebe	Mendez		376	0	phoebe@dpmendez.com	Y							
+9068	00	h	r	Sean	Cavanaugh		375	0	thecavs@comcast.net	Y					FR	T	
+9068	00	w		Jenny	Cavanaugh		375	0		Y					FR	T	
+9069	00	h	r	Casey	Barrett		255	76	casey@imagineswimming.com	Y	1975-02-16	2122539650	9173753852		M		MC
+9069	00	w		Teri	Tsang Barrett		255	76	teri_tsang@yahoo.com	Y	1977-04-23	9179688188	9179688188		M		MC
+9069	0001	x		Eva Grace	Barrett		255	76		Y	2010-11-04				FA		MC
+9070	00	h	r	Bruce	West		95	19	bruce@rivermark.biz	Y	0000-05-26			y	M		MC
+9070	00	w	-	PR	West		95	19	prwest1@gmail.com	Y	0000-04-21				M		MC
+9070	0001	x	-	Susan	West		95	19		Y	1985-02-20				FA		MC
+9070	0002	x	-	Cassie	West		95	19		Y	1987-04-15				FA		MC
+9070	0003	x	-	Tom	West		95	19		Y	1989-09-23				FA		MC
+9071	00	h	r	Scott	Vidler		380	35		Y					FR		
+9071	00	w		Patti	Vidler		380	35		Y					FR		
+9071	0001	x		Hailey	Vidler		380	35		Y	2012-05-05				FR		
+9071	0002	x		Meghan	Vidler		380	35		Y					FR		
+9072	00	w	r	Mollie	Zucker		385	0	molliezucker@gmail.com	Y					FR		
+9073	00	w	r	Jessica	Mack		386	0	jesimack@gmail.com	Y					FR		
+91	00	h	r	Tom	Zedlovich		102	50	lexz@nyc.rr.com	Y	0000-00-00	7187675777			M		MC
+91	00	w	-	Alexandra	Zedlovich		102	50	lexz@nyc.rr.com	Y	0000-08-18				M		MC
+91	0001	h	-	Thomas	Zedlovich		355	50		Y	0000-12-18			y	FA		MC
+91	000101	x	-	Christa Ann	Zedlovich		355	50		Y	1991-01-01				FA		MC
+91	0002	h	-	David	Zedlovich		356	50		Y	0000-11-03		9142747498	y	FA		MC
+91	0002	w	-	Leslie	Zedlovich		356	50		Y	0000-00-00				FA		MC
+91	0003	h	-	Andrew	Zedlovich		357	50		Y	0000-12-05			y	FA		MC
+92	00	h	r	Artie	Hommel		228	0	ahommel589@gmail.com	Y	1945-09-09		5188218453		AM		MC
+92	00	w	-	Patti	Hommel		228	0	ahommel589@gmail.com	Y	0000-07-11				AM		MC
+93	00	h	r	Pete	Bailey		3	85	ebailey32000@yahoo.com	Y	0000-12-27	5189656872			M		MC
+94	00	h	r	Ron	Basini		4	1	rb12436@aol.com	Y	0000-07-07	5185896494			M		MC
+94	0001	w	-	Leigha	Basini		358	1		Y	1977-12-08				FA		MC
+95	00	h	r	John	Behlke		243	31	jsbehlke@yahoo.com	Y	0000-00-00			y	M		MC
+95	0001	h		Mark	Quinlan		359	31		Y					FA		MC
+95	0001	w	-	Dara	Behlke Quinlan		359	31	dara.quinlan@gmail.com	Y	0000-00-00		9173690264		FA		MC
+95	000101	x		Cameron Kidd			359	31		Y	2011-04-01				FA		MC
+95	0002	h	-	Brendan	Behlke		360	31	bbehlke@gmail.com	Y	0000-00-00		6468727500		FA		MC
+96	00	h	r	Pete	Bennett		6	47	pbennett@ghclaw.com	Y	1945-06-11	7327413900			M		MC
+96	00	w	-	Mel	Bennett		6	47	mel3044@gmail.com	Y	1959-09-01	9089023161	9089023161		M		MC
+96	0001	h	-	Noyes	Harrigan		361	47		Y					FA		MC
+96	0001	w	-	Alyssa	Harrigan		361	47		Y	0000-06-12			y	FA		MC
+96	000101	x		Owen Noyes	Harrigan		361	47		Y	2010-08-13			y	FA		MC
+96	0002	h		Bill	O'Reilly		362	47		Y					FA		MC
+96	0002	w	-	Cynthia	Bennett		362	47		Y	0000-03-22			y	FA		MC
+96	000201	x		Benjamin William	O'Reilly		362	47		Y				F		MC	
+96	000202	x		Connor Peter	O'Reilly		362	47		Y	2013-08-09			y	FA		MC
+96	0003	h	-	Will	Bennett	 	247	47	wrbennett12@gmail.com	Y	1994-01-03	7326640428	7326640428		FA		MC
+97	00	w	r	Grace	Boyle		7	88	grayb41@gmail.com	Y	0000-07-05	2038630084			M		MC
+97	0001	h	-	Tom	Boyle		133	88		Y	0000-08-19			y	FA		MC
+97	0001	w	-	Rose	Boyle		133	88		Y	0000-12-06				FA		MC
+97	000101	x	-	Alison	Boyle		133	88		Y	1989-02-07				FA		MC
+97	000102	x	-	Patrick	Boyle		133	88		Y	1994-12-05				FA		MC
+97	0002	h	-	Kevin	Boyle		363	88		Y	0000-12-04			y	FA		MC
+97	0003	h	r	Stephen	Francis		32	80	scf241@gmail.com	Y	0000-02-16				M		MC
+97	0003	w	-	Kathleen	Francis		32	80	kathleen.b.francis@gmail.com	Y	0000-10-10			y	M		MC
+97	000301	h	-	Ian	Francis		364	80		Y	0000-11-01				FA		MC
+97	000302	h		John	Hodges		365	80		Y					FA		MC
+97	000302	w	-	Audrey	Francis Hodges		365	80		Y	0000-08-23			y	FA		MC
+97	00030201	x		Jasper Steven 	Hodges		365	80		Y	2014-07-09			y	FA		MC
+97	000303	x	-	James	Francis		32	80		Y	1988-07-03				FA		MC
+97	000304	x	-	Caroline	Francis		32	80		Y	1991-03-16				FA		MC
+98	00	h	r	Bill	Clare	III	15	74	billclare3@aol.com	Y	0000-04-01		4848811635		M		MC
+98	00	w	-	Joan	Mclaughlin		15	74		Y					M		MC
+98	0001	h	-	Bill	Clare	IV	140	74	billclare@verizon.net	Y	1963-08-21		4104910249	y	FA		MC
+98	0001	w	-	Caroline	Clare		140	74	bandcclare@verizon.net	Y	0000-07-13		4104910249		FA		MC
+98	000101	x	-	Erica	Clare		140	74		Y	1993-03-03				FA		MC
+98	000102	x	-	Jonathan	Clare		140	74		Y	1995-12-15				FA		MC
+98	0002	h	-	Dan	Clare		141	74		Y	0000-07-25			y	FA		MC
+98	0002	w	-	Jacquie	Clare		141	74		Y	0000-04-08				FA		MC
+98	000201	x	-	Katie	Clare		141	74		Y	1995-03-05				FA		MC
+98	000202	x	-	Daniel	Clare		141	74		Y	1998-01-20				FA		MC
+98	0003	h	-	Bob	Clare		107	74	bob.clare@ml.com	Y	0000-06-10			y	FA	T	MC
+98	0003	w	-	Laura	Clare		107	74	lclare@comcast.net	Y	0000-02-06				FA	T	MC
+98	000301	x	-	Ryan	Clare		107	74		Y	1999-12-16				FA	T	MC
+98	000302	x	-	Brendan	Clare		107	74		Y	2001-08-01				FA	T	MC
+98	000303	x	-	Rory	Clare		107	74		Y	2003-08-25				FA	T	MC
+99	00	h	r	Mike	Poremba		256	51	mikepacura@yahoo.com	Y	0000-01-25		9044777254	y	FR		
+99	00	w	-	Lisa	Poremba		256	51		Y					FR		
+99	0001	x	-	Kiley	Poremba		366	51		Y	2003-09-18				FR		
+999	00	h	r	Pierce	Sioussat		381	999	psioussat@bioforceusa.com	N					FR		
+999	00	w		Abby	Ross		381	999	abbyross@msn.com	N					FR		
+999	0001	x		Alton	Sioussat	 	381	999	altonsioussat@yahoo.com	N					FR		

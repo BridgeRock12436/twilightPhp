@@ -1,0 +1,241 @@
+eventId	user	catagory	eventDate	startTime	endTime	eventShortDesc	eventDesc	fileName	fileType	rowid
+24	PARK	Park	2012-05-11	08:00:00	09:00:00	Water On	The Water is turned on for all cottages			18
+25	PARK	Park	2012-05-19	08:00:00	09:00:00	Armed Forces Day	Armed Forces Day			19
+26	PARK	Park	2012-05-13	08:00:00	23:59:00	Mothers Day	Mothers Day			20
+27	PARK	Tennis	2012-05-25	08:00:00	23:59:00	Tennis Courts Open	Tennis Courts			21
+30	PARK	Park	2012-05-26	13:00:00	17:00:00	Cottager Picnic	Pete Bailey Earth Day Picnic			24
+31	PARK	Tennis	2012-05-26	13:00:00	14:00:00	Round Robin	Cookout follows			25
+33	PARK	Park	2012-05-26	14:30:00	15:30:00	125th Anniversary  Meeting	ClubHouse			27
+44	PARK	All Angels	2012-05-27	11:30:00	12:30:00	Auxiliary meeting	Auxiliary Meeting Rectory			29
+45	PARK	Art	2012-05-27	16:00:00	17:00:00	Art Commitee	Art Commitee Meeting Gooder Cottage			30
+46	PARK	Park	2012-05-28	07:00:00	23:59:00	Memorial Day Observed	Memorial Day Observed			31
+52	PARK	Park	2012-05-25	19:00:00	21:00:00	Drop In Dinner	Join Rick Manix as he hosts dinner and serves up his famous spagetti			32
+53	PARK	Park	2012-06-14	08:00:00	20:00:00	Flag Day	Flag Day			33
+54	PARK	Park	2012-06-15	19:00:00	21:00:00	Drop In Dinner	Drop In Dinner at the Clubhouse at 7			34
+55	PARK	Park	2012-06-17	08:00:00	20:00:00	Fathers Day	Fathers Day			35
+56	PARK	Park	2012-06-20	19:09:00	23:59:00	Summer Arrives at 7:09 PM	Summer arrives at 7:09 PM			36
+57	PARK	All Angels	2012-06-24	09:30:00	10:20:00	Choir Rehearsal	Choir Rehearsal			37
+58	PARK	Pool	2012-06-23	08:00:00	18:30:00	Pool Opens for the season	Pool opens for the season			38
+59	PARK	All Angels	2012-06-24	10:30:00	11:59:00	All Angels Service	All Angels Service			39
+60	PARK	All Angels	2012-06-24	12:00:00	13:00:00	Lemonade on the Lawn	Lemonade on the lawn following church services			40
+61	PARK	Park	2012-05-26	09:00:00	11:00:00	Board of Directors Meeting	Board Meeting at Clubhouse			41
+62	PARK	All Angels	2012-05-26	17:30:00	22:00:00	Cocktail Party	Cocktail Party at Rectory hosted by All Angels Auxiliary and Vestry	COCKTAILPARTY2012.doc	application/msword	42
+64	PARK	All Angels	2012-05-27	10:00:00	11:00:00	Columbarium Clean-up	All Angels Columbarium Clean-up	SpringCleanUp.doc	application/msword	44
+68	PARK	Park	2012-06-30	10:00:00	15:00:00	Mountain Top Arboretum Fair	Garden Fair Saturday, June 30, 10 AMâ€”3 PM.
+Gardening demonstrations, guided walks, plant sale, refreshments, Windham Arts Alliance art show, and more! Rain or shine, free admission.
+Route 23C and
+Maude Adams Rd.
+Mailing Address:
+PO Box 379
+Tannersville, NY 12485
+518 589-3903
+info@mtarboretum.org			48
+69	PARK	Tennis	2012-06-26	09:00:00	12:00:00	Tennis Clinics	Ages 8-12 (9-10am)
+Ages 12+ (10-12pm)			49
+70	PARK	Youth Activities	2012-06-27	09:00:00	15:00:00	Camp Begins	Camp Begins ages 3-4 (9-1pm) 
+ages 5-13 (9-3pm)			50
+126	PARK	All Angels	2012-07-01	09:30:00	10:20:00	Choir Rehearsal	Choir Rehearsal			103
+127	PARK	All Angels	2012-07-08	09:30:00	10:20:00	Choir Rehearsal	Choir Rehearsal			104
+128	PARK	All Angels	2012-07-15	09:30:00	10:20:00	Choir Rehearsal	Choir Rehearsal			105
+129	PARK	All Angels	2012-07-22	09:30:00	10:20:00	Choir Rehearsal	Choir Rehearsal			106
+130	PARK	All Angels	2012-07-29	09:30:00	10:20:00	Choir Rehearsal	Choir Rehearsal			107
+131	PARK	All Angels	2012-08-05	09:30:00	10:20:00	Choir Rehearsal	Choir Rehearsal			108
+132	PARK	All Angels	2012-08-12	09:30:00	10:20:00	Choir Rehearsal	Choir Rehearsal			109
+133	PARK	All Angels	2012-08-19	09:30:00	10:20:00	Choir Rehearsal	Choir Rehearsal			110
+134	PARK	All Angels	2012-08-26	09:30:00	10:20:00	Choir Rehearsal	Choir Rehearsal			111
+135	PARK	All Angels	2012-09-02	09:30:00	10:20:00	Choir Rehearsal	Choir Rehearsal			112
+136	PARK	All Angels	2012-07-01	10:30:00	11:30:00	All Angels Service	All Angels Service			113
+137	PARK	All Angels	2012-07-08	10:30:00	11:30:00	All Angels Service	All Angels Service			114
+138	PARK	All Angels	2012-07-15	10:30:00	11:30:00	All Angels Service	All Angels Service			115
+139	PARK	All Angels	2012-07-22	10:30:00	11:30:00	All Angels Service	All Angels Service			116
+140	PARK	All Angels	2012-07-29	10:30:00	11:30:00	All Angels Service	All Angels Service			117
+141	PARK	All Angels	2012-08-05	10:30:00	11:30:00	All Angels Service	All Angels Service			118
+142	PARK	All Angels	2012-08-12	10:30:00	11:30:00	All Angels Service	All Angels Service			119
+143	PARK	All Angels	2012-08-19	10:30:00	11:30:00	All Angels Service	All Angels Service			120
+144	PARK	All Angels	2012-08-26	10:30:00	11:30:00	All Angels Service	All Angels Service			121
+145	PARK	All Angels	2012-09-02	10:30:00	11:30:00	All Angels Service	All Angels Service			122
+146	PARK	All Angels	2012-07-01	12:00:00	13:00:00	Lemonade on the lawn	Lemonade on the lawn after church service			123
+147	PARK	All Angels	2012-07-08	12:00:00	13:00:00	Lemonade on the lawn	Lemonade on the lawn after church service			124
+148	PARK	All Angels	2012-07-15	12:00:00	13:00:00	Lemonade on the lawn	Lemonade on the lawn after church service			125
+149	PARK	All Angels	2012-07-22	12:00:00	13:00:00	Lemonade on the lawn	Lemonade on the lawn after church service			126
+150	PARK	All Angels	2012-07-29	12:00:00	13:00:00	Lemonade on the lawn	Lemonade on the lawn after church service			127
+151	PARK	All Angels	2012-08-05	12:00:00	13:00:00	Lemonade on the lawn	Lemonade on the lawn after church service			128
+152	PARK	All Angels	2012-08-12	12:00:00	13:00:00	Lemonade on the lawn	Lemonade on the lawn after church service			129
+153	PARK	All Angels	2012-08-19	12:00:00	13:00:00	Lemonade on the lawn	Lemonade on the lawn after church service			130
+154	PARK	All Angels	2012-08-26	12:00:00	13:00:00	Lemonade on the lawn	Lemonade on the lawn after church service			131
+155	PARK	All Angels	2012-09-02	12:00:00	13:00:00	Lemonade on the lawn	Lemonade on the lawn after church service			132
+156	PARK	Park	2012-07-07	09:00:00	11:00:00	Board meeting	Board of Directors Meeting at the Clubhouse			133
+157	PARK	Art	2012-07-07	09:00:00	11:00:00	Art Committee Meeting	Art Committee Meeting at the Ferris Cottage			134
+158	PARK	Tennis	2012-07-07	13:00:00	15:00:00	Tennis Extravaganza	Tennis Extravaganza - cookout follows			135
+159	PARK	Park	2012-07-07	18:00:00	20:00:00	Cocktail Party	Board of Directors Cocktail Party on Clubhouse Lawn			136
+161	PARK	Youth Activities	2012-06-26	16:30:00	18:00:00	Parents Orientation / Open House	Parents Orientation / Open House			138
+162	PARK	Youth Activities	2012-07-01	16:30:00	18:00:00	Parents Orientation / Open House	Parents Orientation / Open House			139
+168	PARK	Youth Activities	2012-06-24	13:00:00	20:00:00	Training for the Counselors & Senior CITs	Training for the Counselors & Senior CITs			141
+169	PARK	Youth Activities	2012-06-25	08:00:00	20:00:00	Training for the Counselors & Senior CITs	Training for the Counselors & Senior CITs			142
+170	PARK	Youth Activities	2012-06-26	08:00:00	18:00:00	Training for the Counselors & Senior CITs	Training for the Counselors & Senior CITs			143
+171	PARK	Youth Activities	2012-06-25	13:00:00	19:00:00	Training for Junior CITs	Training for Junior CITs			144
+172	PARK	Youth Activities	2012-06-26	08:00:00	18:00:00	Training for Junior CITs	Training for Junior CITs			145
+175	PARK	Tennis	2012-07-03	09:00:00	12:00:00	Tennis Clinics	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			147
+176	PARK	Tennis	2012-07-10	09:00:00	12:00:00	Tennis Clinics	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			148
+177	PARK	Tennis	2012-07-17	09:00:00	12:00:00	Tennis Clinics	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			149
+178	PARK	Tennis	2012-07-24	09:00:00	12:00:00	Tennis Clinics	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			150
+179	PARK	Tennis	2012-07-31	09:00:00	12:00:00	Tennis Clinics	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			151
+180	PARK	Tennis	2012-08-07	09:00:00	12:00:00	Tennis Clinics	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			152
+181	PARK	Tennis	2012-08-14	09:00:00	12:00:00	Tennis Clinics	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			153
+182	PARK	Tennis	2012-08-21	09:00:00	12:00:00	Tennis Clinics	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			154
+183	PARK	Tennis	2012-08-28	09:00:00	12:00:00	Tennis Clinics	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			155
+185	PARK	Tennis	2012-07-05	09:00:00	12:00:00	Tennis Clinic	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			157
+186	PARK	Tennis	2012-07-12	09:00:00	12:00:00	Tennis Clinic	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			158
+187	PARK	Tennis	2012-07-19	09:00:00	12:00:00	Tennis Clinic	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			159
+188	PARK	Tennis	2012-07-26	09:00:00	12:00:00	Tennis Clinic	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			160
+189	PARK	Tennis	2012-08-02	09:00:00	12:00:00	Tennis Clinic	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			161
+190	PARK	Tennis	2012-08-09	09:00:00	12:00:00	Tennis Clinic	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			162
+191	PARK	Tennis	2012-08-16	09:00:00	12:00:00	Tennis Clinic	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			163
+192	PARK	Tennis	2012-08-23	09:00:00	12:00:00	Tennis Clinic	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			164
+193	PARK	Tennis	2012-08-30	09:00:00	12:00:00	Tennis Clinic	Ages 8-12 (9-10am) Ages 12+ (10-12pm)			165
+194	PARK	Art	2012-07-11	08:00:00	09:00:00	Deadline for the  Art Show	Deadline for Art Show entries. No late entries or substitutions will be permitted			166
+195	PARK	Park	2012-07-13	18:00:00	20:00:00	Tri-Park Cocktail Party	Tri-Park Cocktail Party at Onteora			167
+196	PARK	Youth Activities	2012-07-12	18:00:00	21:00:00	Childrens Drop-In Dinner	Childrens Drop-In at the Clubhouse			168
+198	PARK	Youth Activities	2012-07-14	20:00:00	23:59:00	Family Camp Out	Family Camp Out at the Twilight Golf Course -  at sundown			170
+200	PARK	Park	2012-07-21	09:00:00	11:00:00	Financial Review Meeting	Financial Review Meeting at the Clubhouse			172
+201	PARK	Youth Activities	2012-07-21	18:00:00	22:00:00	Youth Activities Benefit	Youth Activities Benefit Dinner at the Clubhouse			173
+202	PARK	Tennis	2012-07-28	09:00:00	15:00:00	Owl Matches	Owl Matches - cookout follows			174
+204	PARK	Park	2012-08-04	09:00:00	11:00:00	Cottagers Annual Meeting	Cottagers Annual Meeting			176
+205	PARK	Tennis	2012-08-04	09:00:00	15:00:00	Tennis -  Decker Cup	Decker Cup			177
+208	PARK	Art	2012-08-10	09:00:00	12:00:00	Art Show Entires to Clubhouse	Art Show Entries to Clubhouse			179
+209	PARK	All Angels	2012-08-03	12:00:00	20:00:00	Auxiliary Cabaret Rehearsal	Auxiliary Cabaret Rehearsal at the Clubhouse			180
+210	PARK	Tennis	2012-08-05	09:00:00	15:00:00	Tennis - Decker Cup Finals	Decker Cup Finals			181
+211	PARK	All Angels	2012-08-04	18:00:00	22:00:00	Super Seventies Cabaret	Super Seventies - All Angels Cabaret			182
+212	PARK	Art	2012-08-11	16:00:00	19:00:00	Art Show	Art Show opens 
+Judging (10-Noon)
+Gallery Walk (4-5)
+Reception (5-7)			183
+213	PARK	Tennis	2012-08-11	12:00:00	15:00:00	Tennis - Mother / Son matches	Tennis - Mother / Son matches			184
+214	PARK	Art	2012-08-18	09:00:00	11:00:00	Art Committee Meeting	Art Committee Meeting at Dayton Cottage			185
+215	PARK	Tennis	2012-08-18	12:00:00	17:00:00	Tennis - Tarnowski Cup	Tennis - Tarnowski Cup			186
+216	PARK	Tennis	2012-08-19	12:00:00	17:00:00	Tennis - Tarnowski Cup Finals	Tennis - Tarnowski Cup Finals			187
+217	PARK	Tennis	2012-08-12	12:00:00	17:00:00	Tennis - Mother / Son Finals	Tennis - Mother / Son Finals			188
+218	PARK	Art	2012-08-12	13:00:00	17:00:00	Art Show	Art Show			189
+219	PARK	Art	2012-08-12	15:00:00	16:00:00	Artist Demonstration	Artist Demonstration			190
+220	PARK	Art	2012-08-12	17:00:00	17:30:00	Art Show Entries Pick-Up	Art Show Entries Pick-Up			191
+224	PARK	Park	2012-08-25	11:00:00	13:00:00	Activities Committee Meeting	Activities Committee Meeting at the Fisher Cottage			195
+225	PARK	Park	2012-08-25	11:00:00	17:00:00	Mountain Top Historical Society Open House	Mountain Top Historical Society Open House - MTHS Visitors Center - Haines Falls			196
+226	PARK	Youth Activities	2012-08-18	20:00:00	23:59:00	Family Camp Out	Family Camp Out at Twilight Golf Course			197
+229	PARK	Park	2012-09-03	08:00:00	20:00:00	Labor Day	Labor Day			200
+230	PARK	Park	2012-09-11	08:00:00	20:00:00	Patriots Day	Patriots Day			201
+231	PARK	Park	2012-09-13	08:00:00	20:00:00	Rosh Hashanah	Rosh Hashanah			202
+232	PARK	Park	2012-09-22	08:00:00	20:00:00	Yom Kipper	Yom Kipper			203
+233	PARK	Park	2012-09-22	10:49:00	23:59:00	Autumnal Equinox	Fall arrives 10:49 am			204
+234	PARK	Youth Activities	2012-08-17	09:00:00	15:00:00	Last Day of Camp	Last Day of Camp			205
+235	PARK	Park	2012-10-06	09:00:00	11:00:00	Board Meeting	Board of Directors Meeting at the Clubhouse			206
+237	PARK	Park	2012-10-08	08:00:00	20:00:00	Columbus Day (observed)	Columbus Day (observed)			208
+238	PARK	Park	2012-10-15	09:00:00	23:59:00	Water Off	Water Off			209
+239	PARK	Park	2012-10-24	08:00:00	20:00:00	United Nations Day	United Nations Day8			210
+240	PARK	Park	2012-10-31	08:00:00	20:00:00	Halloween	Halloween			211
+244	PARK	Garden	2012-08-18	17:00:00	19:00:00	Silver Trowel Award	Silver Trowel Award Lehmann-Shulevitz Cottage			213
+245	PARK	LingerNot Society	2012-07-14	09:00:00	15:00:00	Linger Not Hike	Lingernot Hike - Participants should meet at the clubhouse parking lot			214
+246	PARK	LingerNot Society	2012-07-28	09:00:00	15:00:00	Linger Not Hike	Lingernot Hike - Participants should meet at the clubhouse parking lot			215
+247	PARK	LingerNot Society	2012-08-18	09:00:00	15:00:00	Linger Not Hike	Lingernot Hike - Participants should meet at the clubhouse parking lot			216
+249	PARK	Youth Activities	2012-08-14	18:00:00	19:00:00	Chinese Dinner at the pool	Chinese Dinner at the Pool
+hosted by Roy and Lizzy Yan			218
+250	PARK	Youth Activities	2012-07-31	18:00:00	19:00:00	S'mores and more	At Wingate Field, hosted by Amanda Fletcher, Megan Marine & Melinda Fisher.  
+Time is not definite and subject to change.			219
+252	PARK	Youth Activities	2012-07-10	18:00:00	19:00:00	Ice Cream Social	At the Pool.
+Hosted by
+Kim Marcus and Laura Clare			221
+253	PARK	Youth Activities	2012-07-15	11:00:00	15:00:00	Fund Raising Car Wash	At the clubhouse parking lot, hosted by 
+Counselors & Children Volunteers			222
+254	PARK	Park	2012-06-02	10:00:00	17:00:00	MTHS National Trails Day	Join us for a hike at 10am to South Mountain followed by a lecture and book signing at 3:30 pm in our U&D Train Station by Alan Via.
+
+The hike is easy with a moderate bushwhack and follows a long-abandoned trail to some historic rarely-seen sites in the North Lake area. Meet at the Mountain Top Historical Society Campus at 10 am. It's approximately 3 miles and hikers will return to the campus around 3:30pm.
+
+At 3:30 pm, Mr. Via, author of the newly published The Catskill 67: A Hiker's Guide to the 100 Highest Peaks Under 3500', a beautifully illustrated guide - will talk about his book. He provides a wealth of information on a previously overlooked group of peaks, providing routes to the summits â€“ on trails, woods roads or bushwhacks â€“ with keen observations and a wry sense of humor. He has led hikes for the ADK, the 3500 Club and Taconic Hiking Club for the past 35 years. Mr. Via's book includes possible activities in the area other than hiking such as canoeing, fishing, biking and camping. Several photos are included, all in color, which makes this guidebook a nice addition to the collection of anyone who is interested in exploring the Catskills.
+
+Everyone is welcome. Mr. Via's book will be available at the event for $21.95. A reception will be held after the book signing. The MTHS is suggesting a $3 per person donation to support our programs.
+
+For more information about membership in the Mountain Top Historical Society, its programs and events, please visit the website at www.mths.org, e-mail info@mths.org or call 518-589-6657.   The MTHS is located on Rt 23A in Haines Falls.			223
+257	PARK	Park	2012-07-07	20:30:00	21:30:00	Fireworks at Onteora Golf Course	Fireworks at the Onteora Golf Course -  raindate 7/8			226
+258	PARK	Park	2012-07-28	18:00:00	20:00:00	Childrens Play at Onteora	Childrens Play at the Onteora Theatre			227
+259	PARK	Park	2012-08-18	20:00:00	22:00:00	Adult Play at Onteora	Adult Play at Onteora Theatre			228
+262	PARK	Park	2012-06-23	19:30:00	22:00:00	Live Concert at the Orpheum	Live Concert featuring Aaron Diehl and the Catskill Jazz Factory, 
+at the Orpheum Performing Arts Center, Tannersville, NY.
+Saturday, June 23rd, 7:30pm 
+
+Tickets $10
+
+www.catskilljazzfactory.org	LiveConcertOrpheum.doc	application/msword	231
+263	PARK	Park	2012-06-29	18:00:00	21:30:00	Hunter Foundation Fundraiser	Hunter Foundation Fundraiser and Silent Auction at the former "Slopes" building,  6045 Main St, Tannersville,  NY - live jazz music by Trio 3 - Tickets $90 per person -  RSVP by June 20.			232
+264	PARK	Garden	2012-06-16	10:00:00	16:00:00	Lexington Gardening Day	I am reaching out to you to pass the word on about Lexington Gardening Day. On Saturday, June 16th from 10am until 4 pm Project Hope and Cornell Cooperative Extension Master Gardeners will be helping Town of Lexington residents plant or "bring back" color to their homes. Words of sadness often heard after the "Flood" were centered around the lose of plants and gardens that had been lovingly tended.
+ 
+At this time there are 12 residents who have asked for help, many who are just unable to do the work themselves. If you or others you know would like to be a part of this event for two or more hours please let me know. Volunteers will be weeding, and planting former or new gardens, delivering supplies to sites, setting up , cleaning up,helping where needed.There will be little "heavy" work and lots of laughter and satisfaction.
+ 
+Lunch will be served at the Lexington Municipal Building for all volunteers and residents. Covered dishes  or  volunteers to help with lunch will be welcomed.
+ 
+Pass the word, come help, or drop off food to share. Volunteer sign up and assignments will begin at 10am across the street from the Methodist Church on 13a.You do not have to be a gardener to volunteer.
+ 
+Hope to see you on the 16th!
+ 
+Lynn Byrne
+ 
+989-6332			233
+268	PARK	Park	2012-07-07	20:00:00	23:59:00	Annual Dinner Dance	see attached flyer	2012DinnerDance.doc	application/msword	237
+269	PARK	Pool	2012-09-03	18:00:00	18:00:00	Pool Closes for Season	Pools closes for season			238
+277	PARK	Park	2012-07-14	18:00:00	22:00:00	Catskill Mountain Foundation Benefit at the Orpheu	Catskill Mountain Foundation Benefit at the Orpheum	CMF2.pdf	application/pdf	244
+278	PARK	Art	2012-08-15	09:00:00	09:00:00	Poster Designs for 125 th Anniversary due to Graci	The Twilight Art Committee has been directed by the 125th Committee to sponsor a competition for the 125th Twilight Park Poster for 2013. Any Twilighter: professional, young or old may compete. A framed copy of the 100th Poster is hanging in the Tennis House for all to review.
+Designs, suitable for reproduction should be completed by August 15, 2012 and submitted to Gracia Dayton.
+Dimensions should be limited to 24â€ x 18â€ either vertical or horizontalâ€¦the use of oil, pastel, watercolor, and photography are eligible.
+THE Twilight Art Committee will vote on the submission to be selected for printing at their meeting on August 18, 2012.  Call Gracia Dayton with any questions 518-589-5119	TPA_POSTER_MEMO.doc	application/msword	245
+281	PARK	Youth Activities	2012-07-04	13:00:00	15:00:00	Carnival at Wingate	At Wingate field - Our Junior Counselors in Training have prepared some fun games and carnival activities. Prizes / Face Painting/ Balloons			247
+293	PARK	Youth Activities	2012-07-04	11:30:00	12:00:00	Campers Parade	Campers Parade on 2nd level starting at 11:30am. Campers will be dressed in costumes they made at camp. Please come watch.			251
+295	PARK	Park	2012-07-14	20:00:00	22:00:00	Jimmie Jazz at Last Chance Tavern	The Jim Martocci Jazz Quartet
+Saturday, July 14th at 8pm
+Last Chance Tavern
+518-589-6424
+
+See attachment link for more info on performers and web sites.	JJ at Last Chance PDF.pdf	application/pdf	253
+298	PARK	Tennis	2012-07-14	09:00:00	12:30:00	Handicapped Scoring Tennis Tournament	Handicapped Scoring Tennis Tournament this Saturday at the Tennis Courts - a tournament that ANYONE can play in!!!
+
+All are invited to this Saturday's Handicapped Scoring Tournament at the tennis courtsâ€¦
+Saturday - 9am to 12:30pm
+Cook-out after the eventâ€¦
+All are welcome!
+
+What is a Handicapped Scoring Tennis Tournament???
+Well, say - Matt Roll is playing against Brendan Clare - - Brendan starts the game with a 3 point lead - - so for the whole match Brendan instantly starts each game with a 3 point advantage - - if Matt makes one mistake he looses the gameâ€¦get it?
+Darren will set the handicaps.
+
+Swing by the courts or call Darren to let him know that you'd like to play in this fun event.
+
+This type of tournament makes it enjoyable for all levels - come have some fun - - and enjoy a cookout afterwards.			254
+299	PARK	Park	2012-08-11	19:00:00	22:00:00	Elka Taste of NY Event	Taste of NY event which will feature Twilight's Jim Martocci and his jazz band.			255
+300	PARK	Park	2012-08-17	18:30:00	19:30:00	Drop In Dinner (note early start)	Drop In Dinner - Starting 1/2 hour earlier to accomadate Onteora theatre goers			256
+301	PARK	Park	2012-08-17	20:00:00	22:00:00	Adult Play at Onteora	Is He Dead play at Onteora			257
+302	PARK	Youth Activities	2012-08-09	13:00:00	15:00:00	Car Wash	Car Wash at the golf course			258
+304	PARK	Youth Activities	2012-08-09	11:00:00	12:00:00	Fire Truck Demo at Wingate	Fire Truck Demo for camp at Wingate			259
+305	PARK	Park	2012-08-15	18:30:00	20:30:00	Ladies Night at the Bennetts	Please come for a very special Ladies Night
+Featuring the beautiful glass beaded jewelry of Mary Tynes
+(of Onteora Park.) 
+A portion of the proceeds from Maryâ€™s sales will help to benefit
+The Hurricane Irene Relief Fund
+and
+The Onteora Library.
+6:30 pm, Wednesday, August 15
+The Little House (3rd level)
+ Twilight Park 
+(home of Peter and Mel Bennett)
+~Please bring your favorite appetizer~	LadiesNight.doc	application/msword	260
+306	PARK	Tennis	2012-08-19	09:00:00	21:00:00	Owl Matches	Owl Matches			261
+307	PARK	Tennis	2012-08-18	09:00:00	21:00:00	Owl Matches	Owl Matches			262
+308	PARK	Park	2012-09-01	18:30:00	23:00:00	Dinner/Dance at Clubhouse	Dinner / Dance at Club House -  6:30 Start	LaborDayWeekend2012.ppt	application/vnd.ms-powerpoint	263
+309	PARK	Park	2012-09-08	11:30:00	15:00:00	Ron Decker Memorial	Ron Decker Memorial at All Angels			264
+311	PARK	Park	2012-10-05	19:00:00	21:00:00	Drop In Dinner - 7pm	SURVIVORSâ€™  SUPPER
+ 
+CHANGE OF DATE!!!
+
+
+Hosted by Teri Tsang, Casey Barrett and David Swanson
+
+FRIDAY,  October 5
+*****7 P.M. *****
+B.Y.O.B.	drop-inannouncement.doc	application/msword	266
+312	PARK	Park	2013-07-12	20:00:00	21:30:00	History Lecture - 125th	..................			267
