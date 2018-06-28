@@ -1,0 +1,9 @@
+﻿Network Security Settings:
+
+router username: admin
+router password: samantha
+data network name (SSID): wbrok396
+media network name (SSID): wbrok396_media
+network security type: Higher Security (WPA / WPA2)
+network security key: samantha
+connection type: Keep Alive

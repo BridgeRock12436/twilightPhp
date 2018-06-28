@@ -1,0 +1,131 @@
+echo /home/jgalatti/twilight/html done
+/home/jgalatti/twilight/html done
+echo /home/jgalatti/twilight/html/common done
+/home/jgalatti/twilight/html/common done
+echo /home/jgalatti/twilight/html/cookie done
+/home/jgalatti/twilight/html/cookie done
+echo /home/jgalatti/twilight/html/css done
+/home/jgalatti/twilight/html/css done
+echo /home/jgalatti/twilight/html/data done
+/home/jgalatti/twilight/html/data done
+echo /home/jgalatti/twilight/html/db done
+/home/jgalatti/twilight/html/db done
+echo /home/jgalatti/twilight/html/form done
+/home/jgalatti/twilight/html/form done
+echo /home/jgalatti/twilight/html/frame done
+/home/jgalatti/twilight/html/frame done
+echo /home/jgalatti/twilight/html/frame/calender done
+/home/jgalatti/twilight/html/frame/calender done
+echo /home/jgalatti/twilight/html/frame/accountProfile done
+/home/jgalatti/twilight/html/frame/accountProfile done
+echo /home/jgalatti/twilight/html/frame/reports done
+/home/jgalatti/twilight/html/frame/reports done
+echo /home/jgalatti/twilight/html/frame/admin done
+/home/jgalatti/twilight/html/frame/admin done
+echo /home/jgalatti/twilight/html/frame/admin/codeAdd done
+/home/jgalatti/twilight/html/frame/admin/codeAdd done
+echo /home/jgalatti/twilight/html/frame/admin/password done
+/home/jgalatti/twilight/html/frame/admin/password done
+echo /home/jgalatti/twilight/html/frame/admin/reports done
+/home/jgalatti/twilight/html/frame/admin/reports done
+echo /home/jgalatti/twilight/html/frame/admin/temp done
+/home/jgalatti/twilight/html/frame/admin/temp done
+echo /home/jgalatti/twilight/html/frame/admin/user done
+/home/jgalatti/twilight/html/frame/admin/user done
+echo /home/jgalatti/twilight/html/frame/admin/data done
+/home/jgalatti/twilight/html/frame/admin/data done
+echo /home/jgalatti/twilight/html/img done
+/home/jgalatti/twilight/html/img done
+echo /home/jgalatti/twilight/html/img/jb done
+/home/jgalatti/twilight/html/img/jb done
+cp /home/jgalatti/twilight/html/img/static/harisson.jpg /var/www/html/img/static/harisson.jpg
+echo /home/jgalatti/twilight/html/img/static done
+/home/jgalatti/twilight/html/img/static done
+echo /home/jgalatti/twilight/html/include done
+/home/jgalatti/twilight/html/include done
+echo /home/jgalatti/twilight/html/inputForm done
+/home/jgalatti/twilight/html/inputForm done
+echo /home/jgalatti/twilight/html/inputForm/back0614 done
+/home/jgalatti/twilight/html/inputForm/back0614 done
+echo /home/jgalatti/twilight/html/js done
+/home/jgalatti/twilight/html/js done
+echo /home/jgalatti/twilight/html/twilight done
+/home/jgalatti/twilight/html/twilight done
+echo /home/jgalatti/twilight/html/util done
+/home/jgalatti/twilight/html/util done
+echo /home/jgalatti/twilight/html/tmpl done
+/home/jgalatti/twilight/html/tmpl done
+echo /home/jgalatti/twilight/html/webcalendar done
+/home/jgalatti/twilight/html/webcalendar done
+echo /home/jgalatti/twilight/html/webcalendar/docs done
+/home/jgalatti/twilight/html/webcalendar/docs done
+echo /home/jgalatti/twilight/html/webcalendar/icons done
+/home/jgalatti/twilight/html/webcalendar/icons done
+echo /home/jgalatti/twilight/html/webcalendar/images done
+/home/jgalatti/twilight/html/webcalendar/images done
+echo /home/jgalatti/twilight/html/webcalendar/includes done
+/home/jgalatti/twilight/html/webcalendar/includes done
+echo /home/jgalatti/twilight/html/webcalendar/includes/classes done
+/home/jgalatti/twilight/html/webcalendar/includes/classes done
+echo /home/jgalatti/twilight/html/webcalendar/includes/classes/captcha done
+/home/jgalatti/twilight/html/webcalendar/includes/classes/captcha done
+echo /home/jgalatti/twilight/html/webcalendar/includes/classes/hKit done
+/home/jgalatti/twilight/html/webcalendar/includes/classes/hKit done
+echo /home/jgalatti/twilight/html/webcalendar/includes/classes/phpmailer done
+/home/jgalatti/twilight/html/webcalendar/includes/classes/phpmailer done
+echo /home/jgalatti/twilight/html/webcalendar/includes/js done
+/home/jgalatti/twilight/html/webcalendar/includes/js done
+echo /home/jgalatti/twilight/html/webcalendar/includes/menu done
+/home/jgalatti/twilight/html/webcalendar/includes/menu done
+echo /home/jgalatti/twilight/html/webcalendar/includes/menu/icons done
+/home/jgalatti/twilight/html/webcalendar/includes/menu/icons done
+echo /home/jgalatti/twilight/html/webcalendar/includes/menu/icons/mini done
+/home/jgalatti/twilight/html/webcalendar/includes/menu/icons/mini done
+echo /home/jgalatti/twilight/html/webcalendar/includes/menu/themes done
+/home/jgalatti/twilight/html/webcalendar/includes/menu/themes done
+echo /home/jgalatti/twilight/html/webcalendar/includes/menu/themes/autumn done
+/home/jgalatti/twilight/html/webcalendar/includes/menu/themes/autumn done
+echo /home/jgalatti/twilight/html/webcalendar/includes/menu/themes/darkness done
+/home/jgalatti/twilight/html/webcalendar/includes/menu/themes/darkness done
+echo /home/jgalatti/twilight/html/webcalendar/includes/menu/themes/default done
+/home/jgalatti/twilight/html/webcalendar/includes/menu/themes/default done
+echo /home/jgalatti/twilight/html/webcalendar/includes/menu/themes/office2003 done
+/home/jgalatti/twilight/html/webcalendar/includes/menu/themes/office2003 done
+echo /home/jgalatti/twilight/html/webcalendar/includes/menu/themes/spring done
+/home/jgalatti/twilight/html/webcalendar/includes/menu/themes/spring done
+echo /home/jgalatti/twilight/html/webcalendar/includes/menu/themes/touch_of_grey done
+/home/jgalatti/twilight/html/webcalendar/includes/menu/themes/touch_of_grey done
+echo /home/jgalatti/twilight/html/webcalendar/includes/menu/themes/touch_of_greydient done
+/home/jgalatti/twilight/html/webcalendar/includes/menu/themes/touch_of_greydient done
+echo /home/jgalatti/twilight/html/webcalendar/install done
+/home/jgalatti/twilight/html/webcalendar/install done
+echo /home/jgalatti/twilight/html/webcalendar/install/sql done
+/home/jgalatti/twilight/html/webcalendar/install/sql done
+echo /home/jgalatti/twilight/html/webcalendar/java done
+/home/jgalatti/twilight/html/webcalendar/java done
+echo /home/jgalatti/twilight/html/webcalendar/java/us done
+/home/jgalatti/twilight/html/webcalendar/java/us done
+echo /home/jgalatti/twilight/html/webcalendar/java/us/k5n done
+/home/jgalatti/twilight/html/webcalendar/java/us/k5n done
+echo /home/jgalatti/twilight/html/webcalendar/java/us/k5n/webcalendar done
+/home/jgalatti/twilight/html/webcalendar/java/us/k5n/webcalendar done
+echo /home/jgalatti/twilight/html/webcalendar/java/us/k5n/webcalendar/ui done
+/home/jgalatti/twilight/html/webcalendar/java/us/k5n/webcalendar/ui done
+echo /home/jgalatti/twilight/html/webcalendar/java/us/k5n/webcalendar/ui/ControlPanel done
+/home/jgalatti/twilight/html/webcalendar/java/us/k5n/webcalendar/ui/ControlPanel done
+echo /home/jgalatti/twilight/html/webcalendar/tests done
+/home/jgalatti/twilight/html/webcalendar/tests done
+echo /home/jgalatti/twilight/html/webcalendar/themes done
+/home/jgalatti/twilight/html/webcalendar/themes done
+echo /home/jgalatti/twilight/html/webcalendar/tools done
+/home/jgalatti/twilight/html/webcalendar/tools done
+echo /home/jgalatti/twilight/html/webcalendar/translations done
+/home/jgalatti/twilight/html/webcalendar/translations done
+echo /home/jgalatti/twilight/html/webcalendar/ws done
+/home/jgalatti/twilight/html/webcalendar/ws done
+echo /home/jgalatti/twilight/html/house done
+/home/jgalatti/twilight/html/house done
+echo /home/jgalatti/twilight/html/temp done
+/home/jgalatti/twilight/html/temp done
+echo /home/jgalatti/twilight/html/statistics done
+/home/jgalatti/twilight/html/statistics done
